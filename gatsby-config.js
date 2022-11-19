@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: '/running_page', // Change to `/running_page` when running on github pages
+  pathPrefix: '/workouts_page', // Change to `/running_page` when running on github pages
   siteMetadata: {
     siteTitle: 'Workouts Map',
     siteUrl: 'https://go.eimoo.com',
