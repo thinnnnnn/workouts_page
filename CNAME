@@ -1,0 +1,7 @@
+$ tree source
+source
+├── _posts
+└── CNAME
+
+$ cat CNAME
+go.eimoo.com
