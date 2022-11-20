@@ -10,7 +10,8 @@ img::-moz-selection {
   background: transparent;
 }
 
-@font-face{font-family:ldzs;src:url(https://use.typekit.net/af/3213e5/000000000000000077359e94/30/l?subset_id=1&fvd=n3&v=3) }
+@font-face{font-family:ldzs;src:url(https://use.typekit.net/af/4a8a65/000000000000000077359e9c/30/l?subset_id=1&fvd=n7&v=3) }
+* { font-family: 'ldzs' !important; }
 
 body {
   font-family: 'ldzs',$global-font-family;
