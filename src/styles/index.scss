@@ -10,8 +10,10 @@ img::-moz-selection {
   background: transparent;
 }
 
+@font-face{font-family:ldzs;src:url(https://use.typekit.net/af/3213e5/000000000000000077359e94/30/l?subset_id=1&fvd=n3&v=3) }
+
 body {
-  font-family: $global-font-family;
+  font-family: 'ldzs',$global-font-family;
   font-weight: normal;
   text-rendering: optimizeLegibility;
   -moz-osx-font-smoothing: grayscale;
