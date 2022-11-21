@@ -1,7 +1,7 @@
 module.exports = {
   pathPrefix: '/', // Change to `/running_page` when running on github pages
   siteMetadata: {
-    siteTitle: 'Workouts Map',
+    siteTitle: 'Li Yang\'s Workouts Map',
     siteUrl: 'https://go.eimoo.com',
     logo: 'https://rq-data-bucket.oss-cn-shenzhen.aliyuncs.com/user-photo/0f68b018a28e6e52380c728ca6c8a6bd.png',
     description: 'Personal Workouts Page',
@@ -9,7 +9,7 @@ module.exports = {
     navLinks: [
       {
         name: 'Blog',
-        url: 'https://eimoo.com',
+        url: 'https://blog.eimoo.com',
       },
       {
         name: 'About',
