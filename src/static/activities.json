@@ -49348,5 +49348,35 @@
 "average_speed": 2.924,
 "source": "strava",
 "streak": 27
+},
+{
+"run_id": 8161632273,
+"name": "\u6668\u95f4\u8dd1\u6b65",
+"distance": 8303.5,
+"moving_time": "0:48:03",
+"type": "Run",
+"start_date": "2022-11-24 00:28:40+00:00",
+"start_date_local": "2022-11-24 08:28:40",
+"location_country": "\u6587\u534e\u5b66\u9662, \u6587\u56ed\u8def, \u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a\uff08\u6258\u7ba1\uff09, \u6d2a\u5c71\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430074, \u4e2d\u56fd",
+"summary_polyline": "upcyDw{myTBIPKLYDABITCBGLIF??CGU@Gi@gAGm@CECAEMCCCMIMQcBMYUIU?e@ISQQISEE@Od@GHBNEN@NJH?@IDK?i@JW@o@KG@U?CEEW@QBHFCADSHAB",
+"average_heartrate": 146.0,
+"average_speed": 2.88,
+"source": "strava",
+"streak": 27
+},
+{
+"run_id": 8161047353,
+"name": "Wuhan, Guanshan Mountain / Wuhan, Guanggu",
+"distance": 4920.7,
+"moving_time": "0:21:26",
+"type": "Ride",
+"start_date": "2022-11-24 09:05:25+00:00",
+"start_date_local": "2022-11-24 17:05:25",
+"location_country": "\u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a\uff08\u6258\u7ba1\uff09, \u6c5f\u590f\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430074, \u4e2d\u56fd",
+"summary_polyline": "us`yDsrjyTcAIy@@sAI}Gq@SEe@Qi@GcIk@eCCoD_@oAIwCe@qDs@a@KWAg@@o@Gk@Ms@UqCgA}@u@gA_@_Bo@gCsAWQEKs@[UOEM@ORa@n@oBt@eBh@gCxAiFd@yANy@RwAL_C|A{In@}Fh@iEXqCTqDBu@Ca@Qe@[[_@SgAY_Ac@yA{@oA_Ae@c@{A_Bu@s@gAsAo@e@yAsAyEwE}AcBwCoCu@i@k@YqCcAu@I",
+"average_heartrate": 102.4,
+"average_speed": 3.826,
+"source": "strava",
+"streak": 27
 }
 ]
