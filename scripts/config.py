@@ -31,6 +31,7 @@ TYPE_DICT = {
     "running": "Run",
     "RUN": "Run",
     "Run": "Run",
+    "track_running": "Run",
     "cycling": "Ride",
     "CYCLING": "Ride",
     "Ride": "Ride",
