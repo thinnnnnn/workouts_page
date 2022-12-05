@@ -49498,5 +49498,35 @@
 "average_speed": 3.328,
 "source": "strava",
 "streak": 6
+},
+{
+"run_id": 8209812674,
+"name": "Wuhan, Donghu Hi-Tech Zone Guandong Street Guannan Community / Wuhan, Guanshan Mountain",
+"distance": 2147.0,
+"moving_time": "0:24:46",
+"type": "Hike",
+"start_date": "2022-12-05 01:47:33+00:00",
+"start_date_local": "2022-12-05 09:47:33",
+"location_country": "\u5149\u8c37\u4e00\u8def\u66fe\u5bb6\u57b8, \u5149\u8c37\u4e00\u8def, \u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a\uff08\u6258\u7ba1\uff09, \u6c5f\u590f\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430074, \u4e2d\u56fd",
+"summary_polyline": "}b`yDczlyTpBXdBPRHDR[lEu@lPE|BDnCK`BGlBWdCAfAEd@s@xDM~AC|ABdCQzE@l@DLHH\\HnEHrBLpCXtCNXFNHHJFNH^FnDB`E@TTv@",
+"average_heartrate": 90.7,
+"average_speed": 1.445,
+"source": "strava",
+"streak": 7
+},
+{
+"run_id": 8209609735,
+"name": "Wuhan, Guanshan Mountain / Wuhan, Guanggu",
+"distance": 4932.4,
+"moving_time": "0:21:54",
+"type": "Ride",
+"start_date": "2022-12-05 09:08:16+00:00",
+"start_date_local": "2022-12-05 17:08:16",
+"location_country": "\u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a\uff08\u6258\u7ba1\uff09, \u6c5f\u590f\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430074, \u4e2d\u56fd",
+"summary_polyline": "ws`yDmrjyTcBOqBGcBSkCQu@Ig@Si@ImEYiBSkBE{AKoBS_COyASkCi@a@Mi@YQEWAo@Hg@Ew@SiBm@qAk@o@k@WOqHuCQKOU}@o@EM@KXq@Vy@p@{ANc@`@cB|@{Cv@_DRo@Jg@V}ALgCfAwFrAaKrAoN@o@Cc@M]SWYOaBm@s@_@gCgBs@k@cCgCwCmCw@y@aB{A_C_CcCmCa@[iAiAi@e@aAo@e@UwBs@s@Q",
+"average_heartrate": 102.2,
+"average_speed": 3.754,
+"source": "strava",
+"streak": 7
 }
 ]
