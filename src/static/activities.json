@@ -49573,5 +49573,20 @@
 "average_speed": 1.397,
 "source": "strava",
 "streak": 8
+},
+{
+"run_id": 8213727655,
+"name": "Wuhan, Guanshan Mountain / Wuhan, Guanggu",
+"distance": 2448.3,
+"moving_time": "0:26:39",
+"type": "Hike",
+"start_date": "2022-12-06 09:06:21+00:00",
+"start_date_local": "2022-12-06 17:06:21",
+"location_country": "\u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a\uff08\u6258\u7ba1\uff09, \u6c5f\u590f\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430074, \u4e2d\u56fd",
+"summary_polyline": "sl`yDitkyT_@Es@Bk@CeEc@cCUsDKkAWmDg@uCW]Ku@a@gA]YOe@a@SKo@OkBUWKOS",
+"average_heartrate": 89.6,
+"average_speed": 1.531,
+"source": "strava",
+"streak": 8
 }
 ]
