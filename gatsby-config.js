@@ -8,6 +8,10 @@ module.exports = {
     keywords: 'workouts, running, cycling, riding, roadtrip, hiking, swimming',
     navLinks: [
       {
+        name: 'Strava',
+        url: 'https://www.strava.com/athletes/neyond',
+      },
+       {
         name: 'Blog',
         url: 'https://blog.eimoo.com',
       },
