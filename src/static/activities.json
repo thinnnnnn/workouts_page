@@ -49918,5 +49918,35 @@
 "average_speed": 3.25,
 "source": "strava",
 "streak": 5
+},
+{
+"run_id": 8291371645,
+"name": "\u6668\u95f4\u884c\u8d70",
+"distance": 2170.0,
+"moving_time": "0:21:17",
+"type": "Hike",
+"start_date": "2022-12-26 02:07:46+00:00",
+"start_date_local": "2022-12-26 10:07:46",
+"location_country": "\u5149\u8c37\u4e00\u8def\u66fe\u5bb6\u57b8, \u5149\u8c37\u4e00\u8def, \u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a\uff08\u6258\u7ba1\uff09, \u6c5f\u590f\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430074, \u4e2d\u56fd",
+"summary_polyline": "qc`yDsylyTTDV@j@JhBL`ABDLMTEb@OxBYnHEp@@BGBCT@n@I`A@f@It@Cb@CdEBdAGb@@r@C\\?n@EVAZQ|@FVAP?EI\\@JCBBBYl@EOE\\@W?ZFSDd@Kn@Er@Ql@EXMxBBnDIjBIxC@PDLJJ^@TFvCPhALT?v@F|AFt@J|DT\\r@Gn@Ap@DxCAR@x@Dj@?^DLH@HHD`@",
+"average_heartrate": 108.3,
+"average_speed": 1.699,
+"source": "strava",
+"streak": 5
+},
+{
+"run_id": 8291916156,
+"name": "\u5348\u540e\u884c\u8d70",
+"distance": 2111.8,
+"moving_time": "0:20:18",
+"type": "Hike",
+"start_date": "2022-12-26 09:05:47+00:00",
+"start_date_local": "2022-12-26 17:05:47",
+"location_country": "\u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a\uff08\u6258\u7ba1\uff09, \u6c5f\u590f\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430074, \u4e2d\u56fd",
+"summary_polyline": "uj_yDw`jyTGW?iAG{A@aAC{@Fe@G]OUSGsBI{@GQE{@Cs@G}@CkAOe@?s@IY?_BKc@GIS?m@R}DAuGFw@T{AB]PUj@oBYBEG@CAM@CJGHBBSAWCK@YF}@Hg@AY?eABs@Jo@EkA?wABSAm@LeCBO?g@P_D@i@XyF@e@LkBJYGS_@Ac@EMEEKA@D?ACBe@ASIYGG_@@IA",
+"average_heartrate": 95.2,
+"average_speed": 1.734,
+"source": "strava",
+"streak": 5
 }
 ]
