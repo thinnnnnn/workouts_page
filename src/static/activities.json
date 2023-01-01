@@ -50128,5 +50128,20 @@
 "average_speed": 3.197,
 "source": "strava",
 "streak": 10
+},
+{
+"run_id": 8320533649,
+"name": "Zwift - Neokyo All-Nighter in Makuri Islands",
+"distance": 32401.7,
+"moving_time": "1:00:13",
+"type": "VirtualRide",
+"start_date": "2023-01-01 12:14:52+00:00",
+"start_date_local": "2023-01-01 20:14:52",
+"location_country": "Graciosa Bay Ward, Temotu, Solomon Islands",
+"summary_polyline": "zey`Aipes^t@r@EnEnCfBnEu@vMp@|DdCtEmJ`E{Bv@sD`Xz@pHgA\\kBh@a@tGTr@_Az@}GpEu@U_DhC}@\\L`@xBcBnA|@|KzAh@^]o@yAp@gAWaCl@]r@dBpCH\\bBaAx@@p@fDe@FeAkBqB~@o@k@oFnAy@v@^fBfJjC\\cBdE|@dDpAjA|AbIo@fBKdCuAKcBgBgCoK{AwBuCm@}InBoA_DgDu@yAwANkJuOyARyEkDkFW{AxCcP|A}A`C]xO~BjHpN|HfEbA~FmBfBl@bF_Ax@hBfB?`AqDx@Mu@bAw@[kBcC@aAkBa@XVbCo@hAf@f@?r@m@VsAk@C{C{@cGdBkA]wB_@K}Bt@^fCO\\sE`Ao@rGg@|@oHI_AjCqHvA}@dKsJvK}CTeHkBcFAgBg@c@uAbDgItFqE^cHReNgB_@a@t@^jEuA~AAl@vCfDb@QRgABwG_BeFRmJW_By@k@oGKm@h@A`E_@`AeHHi@zHgDnCo@fBaBvAKjCRnA`Af@bQPlJ|ChAq@~@uIBoF_BoFJkL_AsAsFWm@i@Q_H`@aCMgAc@@}@vAyC[Ny@rCId@aBbB_@Yi@gEY?o@vA]y@gAmCF]~@JrBvAVPr@cB`AK~BnBt@Jj@iB~ACjGs@pCf@n@bDH?\\yB\\`AjBAdAkAPaCeCq@VG~@aADi@}Be@LYpAoBEWe@H}AlCc@P_CdDkACs@aBUMq@Ti@zAY\\}Af@PFvC\\f@bAWPuCbAAJ`DvBdA?jFw@|@wGJ]pHkDlCg@~AeB|ACxDvAhAjPLpJzCpAa@LqDiD}FzA}B]_Fx@i@|Al@c@|G?xHcHcEmHqHsDS}BlAiL[YdAt@^Jr@wBv@Ye@b@y@g@_@MeAaDAWfFu@n@GdCeAxA?v@hHlCBdFpChBjEs@bNp@pDdCtEiJjEgCp@mDbX|@bHaAfAqCdHNt@kAl@cGtE}@Nc@a@{B|B}@n@TZrBcBdAv@`G@|C|Al@^Wm@cBr@gAUgCn@Sp@jBnBQ^ZZ~AeA`AHl@dCWl@eAsBwB|@eAm@kEVy@hA[l@h@fB`JjC\\gB`E~@dDlAbA|AdIk@jBWlCmAQcBiBgCuK{AqBqCm@eJlBgAyCqD{@sAyAPeJgN}@o@a@P}EaE_HvC}PnAuApBg@jInApCN",
+"average_heartrate": 122.0,
+"average_speed": 8.968,
+"source": "strava",
+"streak": 11
 }
 ]
