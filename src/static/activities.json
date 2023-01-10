@@ -50428,5 +50428,35 @@
 "average_speed": 5.863,
 "source": "strava",
 "streak": 20
+},
+{
+"run_id": 8367734126,
+"name": "\u5348\u540e\u9a91\u884c",
+"distance": 4626.3,
+"moving_time": "0:13:36",
+"type": "Ride",
+"start_date": "2023-01-10 09:08:03+00:00",
+"start_date_local": "2023-01-10 17:08:03",
+"location_country": "\u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a\uff08\u6258\u7ba1\uff09, \u6c5f\u590f\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430074, \u4e2d\u56fd",
+"summary_polyline": "ik_yDuyiyTAu@Ea@CaAFQ@]EcA@q@EoEIgAIQGEc@GoAIo@Gm@CuBOm@?QG_AEaBUg@Cu@AiBQSE}@By@AaBKkAM{@C{@M}@Qc@E}BCw@Ge@?UCUGsBWgBO_DMsGa@_BWiDFcB]a@CuDm@sA]YQSSIC_@Gc@?[C_AUk@Wo@QsAi@YQS[OKYMc@K_@OkAi@s@c@gBo@y@q@]OGWR[d@oA~@sCLu@Z_Ap@uCJWTeAd@eB?EKIQA{AAm@COCKK?WEMKGSCKEKIEK@[JiAEcAKw@?}@HkA@}@CeB@o@ZcE@iJCm@O_@OQg@Kq@EOGKKQa@a@{AgAgDyCgIiBiFU{@GK]Ok@Gu@]I?Yb@IHy@`@G@KAa@T_@NUFGAIOA[CE",
+"average_heartrate": 129.3,
+"average_speed": 5.67,
+"source": "strava",
+"streak": 20
+},
+{
+"run_id": 8368887975,
+"name": "Zwift - Casse-Pattes in France",
+"distance": 24118.1,
+"moving_time": "0:45:53",
+"type": "VirtualRide",
+"start_date": "2023-01-10 13:04:42+00:00",
+"start_date_local": "2023-01-10 21:04:42",
+"location_country": "Thio, Province Sud, Nouvelle-Cal\u00e9donie, 98829, France",
+"summary_polyline": "bktcC_mhu^rDlNnDrKxCvL?\\Sf@sEnFQj@Dn@pG`Lx@vCT|BBtH[|B{AdE}BjB_@x@KzHDrDh@lAzFhFfAlApAvBhDtBj@~ANzB^rAvJ~M~CxBTl@EvAO\\qCf@UVNxBmArBgAhAOhBNtAd@`@rAAhDiAn@Lv@bAZrAAr@Q\\kAf@]f@?b@l@rBGdAw@xAe@`@a@?yAo@sAC]Lq@fA_BPyApAa@@YU}@iBsBUwD{AQ]Du@fByAJs@GgAa@e@eCKQ]KyA_@g@k@[qGoByN{Bc@@gBh@aKEsGuD{C}@}ANg@Xo@dAm@H_CIuB{@y@AsAj@iFpD{Bv@wDn@uDxAeCd@iBOuEb@oCbAyAOaEqDq@wAyBuBcAmC{AgAwA]kB@gDdAeAFu@Q_BgA]u@A_AdBkFN}BCu@u@yAgBu@}AgEmA_CgBSoNBk@UC{BbAs@n@uA\\gBXcCD}CpFuFD_CUm@o@QiCCaN@YSKa@PkBMeAaCoCeAs@aKg@kHiA_D{@_DsC{OmC[UYo@LqCMs@wEmCk@{@Sq@B{Al@iAj@]dCm@hAs@Fy@GeCHe@l@[hB[HO?w@R_@lB{@rAUxAmB~B{@p@GfHNl@Op@m@R{@Gk@k@g@}Ag@We@Jc@`BaAVq@Uo@{Au@]a@@o@v@gBAu@e@q@{DmBWa@@_@dI{Mh@i@j@F|CjClAFj@e@Lc@HcBh@k@d@@dChAbA[Xu@DoEj@u@rA?rDlAh@Mb@_@Rk@AgAyB{FM_BRa@nAo@V]p@{ErAuA@s@gAyB?a@rAeFlAiCZsAVW^KnAPfGgBdCkAR[\\uA|@Ud@`@Jp@o@fACt@p@tBt@p@vA?zGqAr@o@x@wAlBm@p@h@dA|BRbAt@h@BjBPp@d@lAr@h@`AF~Bk@`AD~@l@tDjD|Ab@jAIzAe@vAy@jAkApAeCJy@CgAk@iCuCyDC]vG_CNSEYu@YoNeBYWE]`@k@hCgA|GgERg@a@_@qNwDFSb@KnJe@b@QJk@Q[wGyCSUDO`@A~CRHOE[aAcAGYjAuAl@OjAH|EbBnJnBtBfAbGzFpDbIvA|B`JfJp@Vt@B`E{@n@?PNVjAt@rSpDhTf@tE?rCiArD@rAxLfe@fD~Jj@pChBlGBbAq@dA",
+"average_heartrate": 120.5,
+"average_speed": 8.761,
+"source": "strava",
+"streak": 20
 }
 ]
