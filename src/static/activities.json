@@ -50548,5 +50548,20 @@
 "average_speed": 3.393,
 "source": "strava",
 "streak": 23
+},
+{
+"run_id": 8384900067,
+"name": "Zwift - Wandering Flats in Makuri Islands",
+"distance": 30159.2,
+"moving_time": "0:51:28",
+"type": "VirtualRide",
+"start_date": "2023-01-13 12:28:02+00:00",
+"start_date_local": "2023-01-13 20:28:02",
+"location_country": "Graciosa Bay Ward, Temotu, Solomon Islands",
+"summary_polyline": "~xq`Aobgs^x@vEOnHtCjJ\\LjDaApD|JzDjHrBHxC`C~CEzA|DxB`Bx@Y`BmBjAa@tCQlAt@`@jEfBbAV~@ObBmBjAi@zAEdBbA`BjHbChE_@fBPt@j@p@xBbDv@~CfBhC_@~D?rAu@bAsBjEaBbAn@NtCdAfA~@LbDuAn@?v@b@^tA`Bx@`CsAlAAbI`FtCy@nAZxBhBp@jCp@PzJo@dCl@dBC|An@hCIbEeAzAkBv@_DdAwA`FiAnByArBgE{@aBC{@f@cAdBo@^_C|@mBHgEjAqAtCwAhGP~C|AnDw@fNp@`HlF|GNpGfBbB@|Ao@nI{JdAiKv@c@xFq@f@{Bn@U|Id@pBrAdCd@v@fCf@TzHsB|BNhCnCdCrKxAbBhAXV]A{Bf@yA}AeImA_A_AeDJs@`BaCoBQe@_@yDeT{HgEmHqN{Fk@uC_AiFBiAr@y@tAeAvI_AhDf@hBzCjEDvAi@tBs@Z{Fc@iA}@mGgJwAa@kBHmB|Bq@vKS`HVtAYtBcHoEuHqHoDK_ClA}K[WlAz@\\Bv@oBj@_@a@b@y@g@a@OeAaD?WfFu@n@GbCiA~BZl@zG~BYdEk@\\uED}DlCUdABrCgA|BUjB~@tABvAo@v@_Bf@kCdFsBpAoEdA{@lA_AlDgBlB}Dz@_D@oAcAGwAaAmB_@{DkDgBs@kAM_Bf@_EqCaEh@uAhAy@M{AoEgEeCgEcI}AyCcDHgC_AyDvAkDS}ANeB_AWuCz@kB_@k@w@u@iEoCoB_Bt@`@jCkB^mAkByBSoCkAoCgEAeAn@o@rDzApBg@f@aAm@gB}CTyC]cC|@qEF}C|AsBcBtA_D}FkEuAx@wEiCiFdHeDwA_G}@oE_C_AsB_As@y@a@oBA}@c@q@mBuBmBk@iA?oCbAgAg@aAwBe@gBFyEtBy@rAcBUAmCsA}BfAsJIeB}DoBqB_CwG\\wAzAwCpAb@pDBvGj@v@vCfATh@m@zEn@nDfAvB_@pBx@xAOdB~@nBPxCz@~DHdDSzDtClJVPxD}@fDrJpD`Hb@X|AArC~B`DG|A|DbB|A|@AdBqBjAi@vCWlAf@`@x@J|CpBrANx@Q|AgBfAg@nAKhBr@~AxHpCvE_@zAPt@j@l@vBpD~@vC`BxB]pEAtA{@x@gBnEgB`Aj@P|CnAfAv@FjEuAt@ZXnApA~@v@FdBqAhACdIbFdDy@vD|B",
+"average_heartrate": 128.8,
+"average_speed": 9.767,
+"source": "strava",
+"streak": 23
 }
 ]
