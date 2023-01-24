@@ -50803,5 +50803,20 @@
 "average_speed": 3.217,
 "source": "strava",
 "streak": 34
+},
+{
+"run_id": 8443646818,
+"name": "Zwift - Volcano Flat in Watopia",
+"distance": 27058.1,
+"moving_time": "0:50:04",
+"type": "VirtualRide",
+"start_date": "2023-01-24 11:52:23+00:00",
+"start_date_local": "2023-01-24 19:52:23",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "hr_fAwr~y^m@{C@mAR}@hAqAnFqDp@cAQ_AkCmBQi@NYbB[NUmAyKCiBNsAbAoCzByBtB_AxCs@hRiCtAiAlCkGbBoAdBe@|B?bBj@pAfAbEpF~@d@hALtIaA|[}IpAIt@d@FxBKdN[~BmAzEoAhDArIK|@U`@kBZoHBs@cAwCcKs@eAy@g@_A@aAn@c@dAE|@TlAdHtNOZy@\\eKxAs@f@K~@TXn@HfKqAn@?RTqAj@eLbAOj@PZbAJrD_@|BFbCl@d@|DnBfCRz@Mx@wBj@OLCj@fAvCb@Nv@E`@d@[j@wACq@NA^dAl@Oh@q@BkBq@oBX}@f@}@rAoCnBk@|@{@rDm@zF@tCj@dJa@pFs@dC}EvIuBlBu@lDe@v@aCvAuBb@kDYaAR[ObAs@zBUBg@i@i@{@JyD|AqAUwCeCI_@P}BtAQPc@H}Di@mDq@o@s@Ay@d@cAFy@dBoAXk@[{@wCo@oACc@TaAl@kAlAgAXwAjAiBSkAmFoOWgCd@y@~@]|AXfBbBb@WCm@uCsH}@yA_BaAkHwBcEiCmBmCo@kBYoBB{Af@oA`HcFp@cAO_AgCkBSg@Pc@nBg@oA{LAoAXqBd@qAlAeBfDiBxEgAjNcBlBm@~@cAxBqFzAoAlBo@dCAjBn@jAbAbErFz@b@rALfJiAf[wIrAGp@h@EjRqBfJcAjCCtI]zAgB^yH@u@oAuCyJu@gAs@_@y@C}@f@m@jAGx@TtAdHzNY`@w@T_KvAo@d@Ox@Xb@j@HnKsAj@@NRiAj@oLbAMXB\\VRnAFvC]vBB`BRp@^`@rDlBfCVfA[|@oBb@MN?h@~@jCj@X~@AVf@[d@cBAg@TF\\~@f@Mf@}@BoBo@cCl@}AjBkCfBk@~@{@vDm@`G?hCj@jJ]fFw@pC}EtIyBpBk@bDi@z@}BrAoBd@}DYw@RYIDWn@[fC[Eu@g@[kFhBcAI_DgCSk@NuBzAWLc@HqDq@cEc@_@m@IaAf@kAJq@~AWR{@Ho@a@iBgF?m@`A}BpAmAZ{A~@eAD_@}FiQ_@cCf@gAfA_@rAVnBdB`@WEm@yCyHiAcB{Aw@eHuB_FgD_BwCu@yDDyAf@kAzG}Er@_AQiAkCmBMg@T]jBe@oAoNTeCbAcCbBeBbDsA`VqDhAu@~@iB",
+"average_heartrate": 92.5,
+"average_speed": 9.007,
+"source": "strava",
+"streak": 34
 }
 ]
