@@ -50878,5 +50878,20 @@
 "average_speed": 3.012,
 "source": "strava",
 "streak": 38
+},
+{
+"run_id": 8463619782,
+"name": "Zwift - Quatch Quest in Watopia",
+"distance": 61016.8,
+"moving_time": "2:43:43",
+"type": "VirtualRide",
+"start_date": "2023-01-28 06:10:16+00:00",
+"start_date_local": "2023-01-28 14:10:16",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "hp_fA}|bz^fF`DvA`CoAdK^pA`Hj@tDqD\\bDnDmAmAzC~AvBzCaGyB}F|@wCjENKrEpAnBtAoD|EuC]yAoC_ANoEuD}AfE_DmDTGeAjIPr@zDdDx@d@}@mCqDxHL~@uBdB~DlCa@~FrI~HiA`E}IoCoGsBmAsJZuFcCjNiAx@eBsCq@{CvA}HgCdIoC`BiC`Jn@tIwEpBj@SxGdHgBnBrCcAbC_F@f@nHkA`D`C`FzAeFxEr@\\bAoAz@ZvBkApB`@fA~A]zDoHtFY?}FrDdBfEuChA`@WjC_C|@lCzAiHfDk@jIhBvH~ElFOrHx@bCjHmB|D_D`DjCxAGNmBoBqBAmCkAeBf@eB`UyEtMe@hLxBbKzGxEtH~BjAJzI|@hBpFaBz@mBGkFlCi@vAzOlEnBvBiFeAeFSa\\zRWjAzGjEjAbHiC`DgM|HyCtQfLb@pDxD~@xCbEEjFfExHa@|DeCpEx@bJqGpEyDuByBfAe@vCuBrBtD|GkCzI_EvAuPc@sCaFcG@cEeB_DoLwNy@eJxLeFnTJ~E_DhBaFnP_ErAr@aIg@_AiBFsB|BoCvYwBPw@iB[cLbAgJcCcD}BdE@lPuBxFkFqEnDyM_@_BiB@yDpGyBpO_CoC|BiKeDLiCvOwA`ET~DfCpEzI~EtG~HbPjAzQ}EdPfBp@dDlCc@xCdAeEvASlAdF|DhFhKlCf@bAkEfCMtCfBx@xC`UvHxHLzB`CZlC}@pAuCGc@rCqHXcIqCyA|@VpJpC`Cw@xC~ApBhF|BnGkAdB}Gq@{BnAy@`CTfBzBlCkBdClBpDw@hGrCg@xDkHfBiCbE?pEnFzE{AxEaDt@{CqAkC_DmCxBeHLsF~XbTtYdB|HoBqEsIeCgLeLg@b@vD`FcKgGzJ|MgB}BoEcAd@dSkBhOx@KfAmG|GuD{EjGk@bNmMCjMzGhE_BaFrDcC_ByIs@xM`ItLsAcLnEcK{DfIlIrJx@zDgCuE`FwPGf@jMtBtH_HFiN~W|GoDjI{B|BbEmGCqJbJtHiAxFlFbLdFjFf@zAyAs@|EmMfDJv@jQvDtGuAqEfEwExAi\\~E^jBxD_AbInAIbDsDfCsD\\uAyAsA_J`]kFtKyGcI~@oP}DvMgEl@iF_BvAoFe@kLqFcF_FwHbAtKeJbFTwBkEgRbHdNkWxGAkBiIm@{LjQ?`EmFqEjC_J}@yHaIjK`EbKaFkLrAqMcI`NfDxE_EyEvAuL}GdMXp@{AB}KpEkF{GrCsAvGo@@nBaOi@oRtHfDsJqMvJlGqC_GzKtKvIjC|BrEmByIuSwXxFcY`HIvCsB~Ah@t@hCzCbAlBg@",
+"average_heartrate": 130.7,
+"average_speed": 6.212,
+"source": "strava",
+"streak": 38
 }
 ]
