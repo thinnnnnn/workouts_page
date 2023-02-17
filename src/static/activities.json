@@ -51493,5 +51493,20 @@
 "average_speed": 8.235,
 "source": "strava",
 "streak": 13
+},
+{
+"run_id": 8574222701,
+"name": "Zwift - HIIT- Richmond",
+"distance": 36191.5,
+"moving_time": "1:05:37",
+"type": "VirtualRide",
+"start_date": "2023-02-17 01:59:23+00:00",
+"start_date_local": "2023-02-17 09:59:23",
+"location_country": "Commission for the Arts, 223, Governor Street, Shockoe Slip, Richmond, Virginia, 23219, United States",
+"summary_polyline": "w}bdFnkrwMqd@l}@oR``@If@@RNf@x@r@tFrDHL@RKb@_Txa@iIhPUXk@PUVi@`BcDpG{@\\WVMb@EpAQb@iX~h@GR?RHPND\\WfRq_@~DsHV_@p@OZYNg@@cAX_AzCgGb@a@TCh@Jb@XtAzAj@`@`PlH|CdBv@LPKJUZaC~FwUNwm@IWUGqCGc@M{@u@qGoEQa@@SpAqClUud@ZY^L|CbD~CxCdBpAv@T`@SXc@bAeCtBqEnNwXtIoPrJcQTWXDnGtGVHTMfAyBVs@D{@MsBNqAzBkFxE_I~BgExBiE`@eBp@oAxHqMzBaDr@_Ad@c@bPmLtEcFxIqCp@c@L]AOEOYI_BX_HvC{@t@wDjEw@j@iAd@qAPmEQ{I|AWCAMHU\\[@UISq@UgANG_@v@c@d@eA`@N^d@ZJh@QJO@SKi@cBqBc@WSFMNq@hBmHlNs@|AJd@nBdBV\\Gh@y@fBwAzCQZWT]ESQwLgMYIYR{BvEsJ|QO`@Gd@L^`AjAnKvJDZYt@uBdEuC~E{IdPQPiA[aA}@_A]eBaAaAYyAUsByA[Bu@jAwd@v}@uRp`@At@Vj@~GtENP@XGVcT`b@eIbP[`@u@Zo@fBaDpGQPeAf@Oj@CfAOb@oXfi@Eb@DNZDVW|LsVhJsQX]p@QZ[Jm@?q@No@tC_Gn@{@RGj@Hd@V~AdBb@ZvOdH`DfBh@PT@POJU^kCzFgUNom@AYQM{CIa@KiA_AgGgEQ_@@QbA}BvUke@`@[TBlDrDtDlDxAbAh@FRI^e@fAiChCsFdUyc@fKkRdByCVCTNdGlGPFREn@mAt@eBDcAMmBPsA`CwFnEmHlC_FrB_E\\}Aj@iAzHoMfCwDfAkAlPwLxEgFpEoAdC}@r@k@Da@EO[KsAVqH~CqF`Gu@h@eA`@mAPsES{Bf@{Ev@WCCKFS`@e@E]WS[GiANI]v@c@`@cAHC^P`@f@ZFh@SFO@SMi@cBoBc@WQFOPo@fBsHrNm@vAF`@`CtBHd@aDfHQVWJi@WoLaM]O[PwCdGuIjPQ`@I^Fb@|@fApKzJJRAXIVaCvEkCnEsJfQQ?{@Y}@{@eAa@cB_AiA]oAQqByA_@Bq@dAee@p~@cRf_@Mx@Rt@x@p@hFhDTZEb@}Sxa@sBlEcFtJgAh@q@nB_DjGURu@VQVGNCfAG`@yAvC",
+"average_heartrate": 148.9,
+"average_speed": 9.193,
+"source": "strava",
+"streak": 14
 }
 ]
