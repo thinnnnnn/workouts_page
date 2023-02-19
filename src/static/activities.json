@@ -51538,5 +51538,20 @@
 "average_speed": 2.855,
 "source": "strava",
 "streak": 16
+},
+{
+"run_id": 8585202308,
+"name": "Zwift - Lutscher CCW in Innsbruck",
+"distance": 34264.4,
+"moving_time": "1:30:12",
+"type": "VirtualRide",
+"start_date": "2023-02-19 07:00:40+00:00",
+"start_date_local": "2023-02-19 15:00:40",
+"location_country": "Hotel Congress Innsbruck, 12a, Rennweg, Saggen, Innsbruck, Tirol, 6020, \u00d6sterreich",
+"summary_polyline": "kzo_HsupdAlU`BRc@CkAmBqRFu@`FuA|CpAz@Ml@sCz@sLlBwAvAeCrBuEtAsFXKfDr@\\CR]DeCe@wHLo@zIqDhGsDfF{Fn@aB~AM`FyC`Cy@rNwDTJ^~@|@^dAzJzAjHlCdUx@vCvA`BfBx@hAIzBiBz@}Bd@c@lDo@jCNhH|DbIjFjAjAbB~CB~E`@nAbDNpAfCn@`@|Dn@lAr@hD@pBz@nFgDtDyEtD_Gv@@dEnAxACbD_A~CyC`DOtBu@z@qBfBqMbF_Ln@K~Fn@`DS`Cs@dBgBtHkNnEmDdDkEjEo@dAaCbQ{NxDmAdMmAn@e@p@wAJw@a@eA{AcBgDaCcEiAwMsB}CoA_CeB_BsBqAkCwDkOaCgG_EuF{EyD}DaBmC[uCPsExAaB@oK_CcGmEmRaG}De@sCmBaA?qCxA[EFgCOe@cJqHaDoBaLkEgCsDaEoDeCyAkGiCuAsCkF{T_ByCqB{AoBu@sEaAgBFk@p@eBdEm@pBOxAfCjQXxMEbD_@hAwAl@q@bAcBnG}@nHVzIW`@_AU}AkGo@gFYU]LGzANfIYxAsAzCY|AW|JXfIdClYnAjJ`BrH`AhHDhC]lHr@vHEp@i@j@KhARh@`Ab@Pj@t@jI|A|HxCdVr@zBrAxA~At@lAGrB_BhAkCh@e@fEm@hBRjH~DzHbFzA|AxApCBfF^dAdDR^`@r@hBj@\\bEp@`An@bD?~Av@l@BhFmDrDuEpD{Fz@BzDnAzACdD}@fD_DnCGxBs@b@k@\\kAbBkMdFcLl@MdDl@pB?|CUxBs@zA}A|H{NjEeD~CgEjEo@nAeCnPqNxDqA|MwA~@eAb@iBUs@mA{AsEeDuSwDwCmAwBaB{AoBoAeC{DqOoC{GaEsF{EsD{D_BkCWwBJsF`B_BAoKaCcGmEiR_G{Dc@qCoBaA@oCxA[CDaC_@aAeJoHuCaB}KkE_DkEsCeCyBuA_FcBuAeA}AwDyEmSmBcDkEaCeHeAm@TsAjCoAjD[zBdCdQV`Sq@dB{@Pq@r@mBbH}@|GAdB\\lFKh@[Vy@]cBcH]qDOc@[MWVFtLwBhGYfCI~ERrIdCjZvAtKzArGfAfIB|B]jHr@jIq@nAIbANd@fAj@Nf@t@hIzAtHvBbRz@nE~AfCtAv@bAJ`AY`Aw@l@w@n@mBd@_@vDo@fCVvGpDfIjFpAtA~AtCDlF^bAfDRpAjCh@\\`En@lAt@fDAjB|@fA]pDkClDmE~DiGvFpAnA?nDaA|CyChDQ",
+"average_heartrate": 137.3,
+"average_speed": 6.331,
+"source": "strava",
+"streak": 16
 }
 ]
