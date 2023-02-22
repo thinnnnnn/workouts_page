@@ -51643,5 +51643,20 @@
 "average_speed": 4.548,
 "source": "strava",
 "streak": 18
+},
+{
+"run_id": 8601807903,
+"name": "Zwift - HIIT-YNWA in New York",
+"distance": 33590.3,
+"moving_time": "1:09:28",
+"type": "VirtualRide",
+"start_date": "2023-02-22 01:04:59+00:00",
+"start_date_local": "2023-02-22 09:04:59",
+"location_country": "East Drive, Manhattan, New York County, City of New York, New York, 10021, United States",
+"summary_polyline": "}m{wF|qmbMiS}P_A{DTaGg@gC_]aUkBu@mGUeEhByAGkEqC{GaI}FAqDy@wAyAgAwCg@c@kARa@z@DpBnAbDMjAeAr@o@Y_DiDiE_CWaAB}A`BkGl@kAhE{ApEFh@m@`BsFl@Wz@PpR|M~B~BRt@Az@cAlDC~@`@v@`C~Ah@z@s@|Er@dBlH|FzIvFzT~H|CxB\\|@HtAu@|G{@t@_EYm@jAS|Ab@rAxBrAtB`DR~@@zBb@x@tGlAxE{@~DoO`B}A`Cg@nEfApFnCvKdHhKbIvBbC`@vAKhAyCpE@l@dBhGEvAo@pDOzBH|@rAh@bDXlDkCrBOpAcBbAf@x@jAKnBqChGe@fBAjAf@hEqBjByAjFNnBjBlBxC|ArBVpAk@`BeCdIeYlEsKNeAK_AcA{AcEkCeBc@_AP}@hB]PaCiDg@GaBfAcChGk@r@}BVmDdCsEu@QqAdAkJiBsHPu@dCkDLgA[uAqBeCkEqDuRoMeHeD}De@qBt@gAhAmDvNe@f@wBd@qBBaL}BcFuBcDqByYcTeJyHgBQwOt@mL{FcIeF_AcAQgBz@wEbAy@~Eo@zBv@lApB|AxFjDzB`D|JjLbHhC|E|Fh@x@^~@fBjAhFlCxD|BrAjBb@`BMhEmAxB`@`FhFvAhDbATjDOvBpAhJvKdEpHrCtCnATrH[jCf@|@a@vBgCl@eCM_FlAgH@}AQkAeC_@}AcAiAyAoBoEgDGcHkBaTeQo@qAg@aCNyHYgAm@m@y]cUoHe@wEjBuAMoEyCqGuH{FAsD{@}A}A_AoCc@c@gAHo@pALlBjA~CMdAcAr@m@UeDoDyDqBW[M}@HcB|BwHlEgB|EBl@_A`A}Dx@y@hBd@rFrEjK|GdAfA^xAcAhEEtA`DnCf@r@?t@s@dDh@~A~HnGxItFzT~HlBbAt@`AXdABdAq@pG_@l@g@LgDa@u@`AYzATxAlChBfBlCV`ABhC`@r@lGnA|Eu@p@aB|CeMlBuApB[bFpAvGnDrOlKlHpGv@nBEhAiClDU`AhBjHcAfJHxApF~@rDmCrBQpAaBbAf@v@lAOvBuDdJAbAh@fDAl@oBbByArF?hA\\x@dDfClBx@|AHfAg@lAcBvAiDhGgUnEyKHeAa@{AkF{DeBe@aALuA~B_@Q}AkC_@SgBp@wDlIqBPwDlCcFw@Mc@DmA`AqIiBmHX{@hCcEGqAu@}A{CyCcKsHsJgG{FoCkCs@eB?}BdAkArB",
+"average_heartrate": 141.3,
+"average_speed": 8.059,
+"source": "strava",
+"streak": 19
 }
 ]
