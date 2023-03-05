@@ -52033,5 +52033,20 @@
 "average_speed": 3.27,
 "source": "strava",
 "streak": 30
+},
+{
+"run_id": 8664121124,
+"name": "Zwift - Z2^90m in Makuri Islands",
+"distance": 51017.3,
+"moving_time": "1:31:49",
+"type": "VirtualRide",
+"start_date": "2023-03-05 11:23:15+00:00",
+"start_date_local": "2023-03-05 19:23:15",
+"location_country": "Lata, Nuva Station Ward, Temotu, Solomon Islands",
+"summary_polyline": "~su`A_nfs^mHqC}C}Et@cBpDxAnBa@l@cAu@oBeSbAqGbDgD}B@sC}DiCqElCqPgEwImH_FcAmEuGGuCfAqAe@}@oEc@iHlE_BUE{CoAqB~@sMsHuFuG^oFjDh@pMvEhDq@bEzBxHc@`B|DdTIzIvCnJfEw@xIrSnGxClDCbE|GlF_D~EHr@xE~BhCUnBkChCj@lEhHnCvHOjBbDjIdDpIc@jCcDpEaBnChGrGgAnEtDnDyAnIdF|Ec@bFjGxJm@jIxAnH{@xFqJnI_DzByEy@oD`CsAvBsM|DkCfGm@HcDuHqDnCgITaFjD?`@dExBm@}@uAZkApLRhBiAxDDhQfOhAoZfAuBxEY~IfL`Hl@v@mEeEcIfDaQxEeBdOvBtHvNbInE~@vFmBhBj@jF}@n@pBrCsDtAOcAd@wCmCE}@eBu@tEl@dBgCK}@gLbBaAo@gCeCp@HjDkEr@g@rI|FnCvAxCvIuB|Cx@`FhOpIbI|C~MjDy@xAlCaAdD|H\\yAzDlAfH{DhBR|AbBGw@gGnBcAvCJjC~D`DY`AzAyBrCk@vI}IGFpGcEgAoCpNqEhETtF_EbNt@CtAkFlAQ\\rEdAtBzAdA`C_@q@zCjBxB~AdFj@fMzAjCsAnChCnGpM_Cn@hGbH[jD`FnDm@bFrIaBz@sCkDuAJiBrBfBvC}AzBeEcDcGIiBtFcGjCmIlIuDzH{Ed@sCrD{NnBI_Hq@aErA_AjCbBZxCm@tAmHGg@iEeCoA`@aH}CsMwGkFVwB|CqCa@sHmGcBcGxBgD_@wD|EkH}AGmCtDqBgD_C_AoC`@wApBaBnEFlB|D`DuDeGuCVoCwAkByDCwAwACwBvD{D_@yEpAsCyFsBk@cCkDe@rAeFe@sAkE}@{J?_ErA{DWiA_B|AaDqBwB}DtK_BTc@kC|BuCr@aHqFaHmDd@SxF`AbI{Bv@gAqLcCgC{@mE{Hl@kAcAG{DgHeBf@uCyLgCoEiEwGnAsEc@}B}KeF_E\\uGsCiElBwBEkBoImKcI{A_DiDu@{HvAiDEiE{HF_B}FoCuBgBv@b@fCgB`@qAmBkG_BsCqEn@kBnDxAnB_@p@eAm@iBgSz@sGdDgDyBEyC}DiCmElCqPcEoIkHaFaAwEeHCgCfAsAc@_AgF_@gGbEcBGK}CqAsB~@wMmHqFoGVyFlDh@tMtEhDq@`EzBtH_@rBvDfSGlJtCfJhEs@fJbTnGnCfD?jDjGnG{CrERj@tEbCpCeDzFv@lEnHfCdHQnBdDdIbDnIa@vIiG|AjEtAhA|FqApDpDhEuApIdFhEo@fFrGzJk@lHdA",
+"average_heartrate": 124.3,
+"average_speed": 9.261,
+"source": "strava",
+"streak": 30
 }
 ]
