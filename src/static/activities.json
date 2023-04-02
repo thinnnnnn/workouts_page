@@ -53008,5 +53008,20 @@
 "average_speed": 6.972,
 "source": "strava",
 "streak": 57
+},
+{
+"run_id": 8816266608,
+"name": "\u6668\u95f4\u884c\u8d70",
+"distance": 440.3,
+"moving_time": "0:07:25",
+"type": "Hike",
+"start_date": "2023-04-02 01:27:32+00:00",
+"start_date_local": "2023-04-02 09:27:32",
+"location_country": "China",
+"summary_polyline": "",
+"average_heartrate": 73.4,
+"average_speed": 0.989,
+"source": "strava",
+"streak": 58
 }
 ]
