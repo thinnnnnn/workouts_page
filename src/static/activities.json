@@ -53293,5 +53293,35 @@
 "average_speed": 1.698,
 "source": "strava",
 "streak": 8
+},
+{
+"run_id": 8882395594,
+"name": "\u5348\u540e\u884c\u8d70",
+"distance": 2559.6,
+"moving_time": "0:25:28",
+"type": "Hike",
+"start_date": "2023-04-13 09:09:24+00:00",
+"start_date_local": "2023-04-13 17:09:24",
+"location_country": "\u5173\u4e1c\u8857\u9053, \u6c5f\u590f\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430074, \u4e2d\u56fd",
+"summary_polyline": "ij_yDo~iyTAKCEO@ACKmAAc@?kBG_AD[C}@B]CGA[KMSGYCaDOoAM}AGsAQk@Co@GQ@yAGo@OQYCQFo@BwAFc@BoAAu@BsAAk@@k@?_@HgAHe@N_@T[f@kBJ@GgAIYDi@DQAQ@u@CMICi@?YCc@FyDc@O?a@GoAKeBSW?y@MqAKiBUe@CUGcAGa@A[EsAAYEk@Wg@CUG_@E[?gAQkBQi@IWIEICU]Ma@CI?MFICg@Y[a@OI[ImBQo@KIKIQ",
+"average_heartrate": 92.7,
+"average_speed": 1.675,
+"source": "strava",
+"streak": 8
+},
+{
+"run_id": 8883333855,
+"name": "Zwift - SST (Med) in Watopia",
+"distance": 33909.0,
+"moving_time": "1:25:22",
+"type": "VirtualRide",
+"start_date": "2023-04-13 11:22:04+00:00",
+"start_date_local": "2023-04-13 19:22:04",
+"location_country": "Usili, Temotu, Solomon Islands",
+"summary_polyline": "liefAcp}y^lCjChEnAzDzFfD~A`Hr@pEAlQ{EtHfB|EAb@\\K~AZf@pCa@tCx@Dd@e@j@}CNUpA~DpCxA|Bj@bCk@hGrBbBn@zBk@fBNtAe@f@eAJeDcAoBpBXzAvBfB\\bBMZqA_@m@Vj@jC}AfALbBdD`B@pC^xBhDzCzAzDhDpA|@vA`GnApBw@`F[nBn@\\bCx@dAtDs@~An@K|CgFnZ~KtNnArChDrCpAvD^nCU?_@oB_A_BsBcA{E_AoCsDuGoFa@AG`@bDpCRpAYG[kAaC_A}BqBm@Y]RrCvDbAh@nBnCp@lBULa@aBsCcBmAa@_@\\ObCx@rEWxCTlCaAnEi@xHd@JVYJcCv@gCxEuBv@qALP}EjG]lG^rCg@~@k@Z{DImEs@]\\|EjClBb@bCnBjBIfA}APFyA|BiCt@cC_B{CQ_D_A[\\hHxCpDfDhFKnBqAvAFGTkABcBlBeFhAaDg@yDuCk@@Bj@dIbHjJv@hDqCVHkCtDkAj@gJ\\kEg@R`CRpIrAlCZhDw@PcB_AaCp@aGvMqEfGSx@h@V~@uArDoBjGwB~@C|BbEeCm@iCh@iJ~H?f@b@BjBqA~C?tFjF`LdFrFh@d@Ur@cACxCm@~@}DpBqGx@K\\XXbH|BrGv@jCCzCmAsEfEwEvAwPfBiJrBW|@p@p@bE_AlG^h@f@R~AWhAiDbCiDj@eAa@i@aA{A}GRgAnJuB~PkBhEsApEcEOUuCrAoC?}G}@qGuBK_@|GeA~DsBj@cBBqB[O}@tAyFa@aLeFmEsEaA]sCDsBrAQWVWxIsHdBe@dDb@kCmE}HvBiE`Cw@lAUQPw@lEaG~FwMxBq@nB`Av@]YeDuAuCSeI]iBPYdEl@|I]zAu@`CqDQW_EtCmJcAuHyG@_@fF~ClC`@pFmAbBkBhACH]iBGyBjAuEDsDiD{GmCRQzC~@fDTnCvA`Cy@rAqBI[{A|AiBFgCsBgBc@qEiCxFj@pCB`AYj@}@_@kD\\{F`EsEZ_AUQ{@nAgFhC_AdG]FMYn@gH~@gESkCPmDu@cENaCTUvAf@hC~Ad@zAVQw@aCuH_IEa@`@AbDjCdBj@t@|A\\KOiAiDwCRWxGhFlCpD|IpC`BnEXOa@sCkAmDmDyC_BgDoK_NpF{YlHQp@Yr@qAv@GzAl@?nAZf@`EnA~BcArAyD?s@m@eA}DiCA{Dn@iBvA_B|Dg@xBmAZ}@BeC}CgAmBgAsDv@wCqB",
+"average_heartrate": 141.3,
+"average_speed": 6.62,
+"source": "strava",
+"streak": 8
 }
 ]
