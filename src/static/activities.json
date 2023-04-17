@@ -53443,5 +53443,35 @@
 "average_speed": 5.487,
 "source": "strava",
 "streak": 12
+},
+{
+"run_id": 8905612422,
+"name": "\u5348\u540e\u9a91\u884c",
+"distance": 4479.7,
+"moving_time": "0:13:39",
+"type": "Ride",
+"start_date": "2023-04-17 09:01:12+00:00",
+"start_date_local": "2023-04-17 17:01:12",
+"location_country": "\u5173\u4e1c\u8857\u9053, \u6c5f\u590f\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430074, \u4e2d\u56fd",
+"summary_polyline": "{i_yDs|iyT@KHOD[EU?OSqBE_ABe@Hi@L_@@WCQGOKMMGkAS{@MsBc@iC[eAQi@OmFm@MGW[QMa@DSLKJe@DQ?sAKe@?s@GSI_@Cq@Ci@GO@IGe@OeAKaB?kAGe@Mq@AsCM_@?m@AcJi@gCQYACCuCC{HgA}Aa@wAm@u@Is@O{@[cBi@]Sc@QYY{CmAqBaASOMAq@Wc@a@c@UEIAMVm@j@oBRYRi@N_ATs@p@iCX_A|@aE?EIEmAHqAGMKCk@CCq@YIS?UHu@?QO_CAc@L{BCeCNeEJwA@}BAiAFuBCc@GS[a@_@MeAKIGEMm@mBSc@]iAyBeGQo@oAcDi@}AWm@S}@KUIIm@U]Cg@S[BMPO`@EDs@Jw@`@",
+"average_heartrate": 119.2,
+"average_speed": 5.47,
+"source": "strava",
+"streak": 12
+},
+{
+"run_id": 8906735849,
+"name": "Zwift - Castle to Castle in Makuri Islands",
+"distance": 32774.4,
+"moving_time": "1:00:35",
+"type": "VirtualRide",
+"start_date": "2023-04-17 12:28:47+00:00",
+"start_date_local": "2023-04-17 20:28:47",
+"location_country": "Graciosa Bay Ward, Temotu, Solomon Islands",
+"summary_polyline": "hwx`Ayzds^cAtD|@tABvAkCxAeC`FuBvAuEdAyBtF_BnBaE~@qDAeA}@K{AaBkHkDcBs@uAZ{GqCaEp@wAz@_@@_BwEsEaCgEiI_ByCiDJ_C_A}DtA{CCqEeAScCx@wB_@k@y@m@_EoCuBaBn@`@dCuAn@eBoBiG_ByCuED}@t@k@|CvA`BOfAiA}@{BkC\\wC]aC|@uEFiDzAkBkBrA_D_GcEsAx@qEiCiFfHaE_BsAVPfAfI|CbAKxC{CpCp@b@h@?xB_EyByA|AAxAnB`B~AgAnA|@bGz@hF{AlCJb@bAc@z@yEZ}A`AsAaA]t@g@DoAoA]{@wAQa@h@_@m@a@J`@r@pCZoBHAlClHp@lA|As@zAgDj@w@pBkDd@q@~AtAtCgA`EvCbEZrFY|B{CrCA~B`AnCwAfCKxAhBz@v@bCbIdDnHWnBy@lAyB`E_BhAp@JnCxArAxFqAx@\\l@bBfBr@nDyAnIbFxCw@rA\\xBjB~@pCdLg@xHxAjIeAfBsBr@yCfA}A~EiAnBuAtBmEy@{ACiAf@_AdBm@xAaFHmEfEcDdHF`D|AtDy@xMp@dD|Br@GrDqIzE_Dd@{HUyAdAiTfBeC~ASnB`@rI`LvGb@v@gEgDeF_@_B~BwN|BuCbGKfKfBrHxNfIxEx@vFkB`Bj@dF}@v@hBdBOrA_Df@O{@`Ao@WkBoCIo@eBi@XXvBs@lAl@~Ao@\\wAm@{@cLzAq@KkB[m@eCp@VzCyEdA{AzIaIAy@jCgHnA_AfKuKfLwC@cGeBaHOcHsFqNo@}Cx@iD}AiHCyDbDC|DeAtBUrBbAfBQ`B{B|@gCbFoA~@_G`BsBnF{AjBgEdAsCD_BcAMaBaAoB[qDmDiBu@qAZ_HqCcEnB}BGcBkEeEkCoEyHuAaDiDFiC}@yDtA}CAkEeAWoCx@kB]m@y@o@eEmCqB_Bj@^lCsAj@cBoBkG}AwCqEBgAt@g@|CvAbBQbAmAw@sBsCZwC]kC~@kED}C|AuBeBpAgDsF}D}Ar@oEiCeFbH}FaB[tAbJlDbAUdCmCtBT`At@FdCiEyBoAxAC|AxBbBrAiArA|@xFx@lEsA`CAr@H`@fAm@x@qEVsAbA{AcAc@x@k@CqBiC_AOi@j@e@o@a@RTf@~C^wBXJbCvGf@zAhAi@pBkDj@u@pB{Dp@i@xAtAdCiA~DvClE^~F[zByCfC?lC~@|B}A~CEpAhBx@fAlCnEtA",
+"average_heartrate": 125.3,
+"average_speed": 9.016,
+"source": "strava",
+"streak": 12
 }
 ]
