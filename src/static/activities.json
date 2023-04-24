@@ -53608,5 +53608,35 @@
 "average_speed": 1.388,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 8948419568,
+"name": "\u5348\u540e\u884c\u8d70",
+"distance": 2441.4,
+"moving_time": "0:27:52",
+"type": "Hike",
+"start_date": "2023-04-24 08:55:08+00:00",
+"start_date_local": "2023-04-24 16:55:08",
+"location_country": "\u5173\u4e1c\u8857\u9053, \u6c5f\u590f\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430074, \u4e2d\u56fd",
+"summary_polyline": "am`yDwskyTcAKs@QYBm@EsAQgCUa@KQ?QBSCu@MQ@UCYBWEa@Uc@I}@GQ?m@O}@Ck@IO@y@OMAYGIGG_@YK[GQ@KFG?WM]YKUKIs@Me@C_@i@KSEW[O",
+"average_heartrate": 89.6,
+"average_speed": 1.46,
+"source": "strava",
+"streak": 2
+},
+{
+"run_id": 8948331835,
+"name": "Zwift - SST (Med) in Watopia",
+"distance": 55945.6,
+"moving_time": "1:25:33",
+"type": "VirtualRide",
+"start_date": "2023-04-24 11:55:47+00:00",
+"start_date_local": "2023-04-24 19:55:47",
+"location_country": "Muie Village, Temotu, Solomon Islands",
+"summary_polyline": "tn_fAebcz^e@kCx@_GwBsFvE_A~@cGnHdBVnCxB~@eAhCv@xAfIUrCcDoAoE~CkDHuDmBqFiGgHnA}EfG_EGaEcEqFzB_CCkDlI_Tb@cEs@eCoH{CkAsEtIiT~Cs@`En@xCgEjGkAd@}DeDwFvByBnB^nHhKnB}@zA{ElDvAH|EbDbDcEvDuAt_@xFfJzFh@|L{C|Ad@zArRQbDaChDpAtKvN|B~BfFjA|@~GuM`DlAf@zC|ERlChDhCEnBgBFeCaCmBmCd@gBbCmEAgAaDeDsA_HvMiA{@gCmFqN{BmAmKbCoDN_DwAmR_Bu@yL|CaGe@yF}IxAa`@~DmDeDiDI{EoD_BkBdFkBp@iHkKoBY}BbCdDvFg@|DoGfAoC`EeEo@yCp@yIdTjAdFjHzCr@vBc@nEqIbTLtCaCpC`ElFHbEgG|DoAbFvGvHjB`IoDjFjAlEgAxBaGrA_DYQqAdCuEdKeDxAiCgBuIwG}HpA_F`GsDGsEaEaFzBgCI}CxIwT\\oEaA{B_HoCiA_FtI}StCs@hEn@jC_ErGkAj@cEeDwFtB{BrB`@rHfKjB_AvAwEhDjAJ`FfD`DcE|DuA``@`G~IzFf@vL{CbBr@rAvROlCcChDjArKvN`CbCfFfA`AfAi@`FmL`DtAf@vCdFTbCdDzCMdB{BEsBqB_BoCVoBjC_FC{@aDaDqAaHtMwEkHoN}BgAwK~BuCR_D}A_SmBi@mLzC}Fi@uFwIxAi`@~DwDeD{CGyEwD_BaB|EkBx@mHmKyBUsBzBbDvFa@zDkGhA}CfEwDq@gDv@oIrS~@fFvHhDn@xBc@jEuIjTNrC_ChCdEvFDxDeGzDoAzET|AdGlFbBlIoDxElAjEwAfCyGfAaCg@GgA`CqE~KwDfAoCkBiIwGmHnAeFbGuDGmE_EuFzB{BKwCxIyT\\uE{@sBoH_D{@aFnIqSzCs@~Dr@vCeEnGiAh@eEeDuFxByBdBV~HrKjBcAlAoErBNlA~A@~D|CrBSdBgD|BwAv_@zFfJ`Gf@pLyC~Af@|A~RQpCeCpDnAjKnNzBfCbFvAhAdHwMzCvA\\pCpF\\bCbDpCMbBkBByByBkBeCTsBnC{EAcAgD}CmAgHtMmEiHmNyBqAqKbCgDNgD{AoRkBk@aM|CkFi@uF{IxAc`@~DmDcDkDOcFwDoA{AzEeBv@mHgKyB_@yBfCbDjFc@`EkGfAsCdEcEq@yCn@{IlTlAdFdHtCv@tBk@`FmIzSJxC}BfC~DhFJ`EiGdEkAvEX~AdGnF`BbImDxEhApEs@`BsAjA_IX{@sAlCiFlKkDjAeBmAoIkH}InAcF`GoDAiEeEuFxB}B?yD`I{R",
+"average_heartrate": 140.5,
+"average_speed": 10.899,
+"source": "strava",
+"streak": 2
 }
 ]
