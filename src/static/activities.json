@@ -53713,5 +53713,20 @@
 "average_speed": 3.659,
 "source": "strava",
 "streak": 4
+},
+{
+"run_id": 8958997832,
+"name": "\u5348\u540e\u9a91\u884c",
+"distance": 2806.5,
+"moving_time": "0:12:06",
+"type": "Ride",
+"start_date": "2023-04-26 08:03:06+00:00",
+"start_date_local": "2023-04-26 16:03:06",
+"location_country": "\u5173\u4e1c\u8857\u9053, \u6c5f\u590f\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430074, \u4e2d\u56fd",
+"summary_polyline": "q~_yDo~kyT?y@N{BLkDAGKG_@AQGGKAMBs@RkBFeDHy@CQIYHc@Bk@?QEQU@[AyAWiCOw@Kq@MmAK}@UaDWeAQiAKaBQ[AmAQy@GsAQ[CU?{@MqAKs@Om@EoASo@C",
+"average_heartrate": 100.2,
+"average_speed": 3.866,
+"source": "strava",
+"streak": 4
 }
 ]
