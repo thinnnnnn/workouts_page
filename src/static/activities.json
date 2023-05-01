@@ -53893,5 +53893,20 @@
 "average_speed": 3.283,
 "source": "strava",
 "streak": 9
+},
+{
+"run_id": 8988904562,
+"name": "Zwift - Explosive SST #3 in Watopia",
+"distance": 31610.1,
+"moving_time": "1:23:09",
+"type": "VirtualRide",
+"start_date": "2023-05-01 08:34:55+00:00",
+"start_date_local": "2023-05-01 16:34:55",
+"location_country": "Usili, Temotu, Solomon Islands",
+"summary_polyline": "|lefAol}y^dFdBdEdGpAz@nBb@vGl@~DElM_EhCYbG`BnGHVh@OfAl@r@zBi@vCz@Fb@c@j@_DPUpA~DpC`BjCb@hCk@rFrBdBn@zBi@~ANvAg@l@aAJiDcAkBhBFnAbCvB^lBSVoAa@k@Zl@fC{AfAH~AbD|ABpC\\vBpDhDjAhDpD|AjA`BtFfAvBw@bFYjBn@Z`Cv@dAp@DfAo@fAIr@Hb@j@OvCeFpZ~KrNlApCjDtCrA|D\\dCU@a@qBy@yAwBeAyE_AcDgEeG{Ec@@C\\`DlCZ~@IVw@wA}B}@yCgCm@LD`@jEzDfB`C~@bCWJ_@_BkCaBoAe@e@^O~Bx@vEWzCThCcAtEg@rHx@GLaCx@mCtEuBt@oARHi@lAqD|D_@nG^pCe@bAk@ZeEIgEs@[\\`FlCjBd@xBhBtBGbA}ARJ{AzBeCt@eCaBwCOeDaA[ZjH|CtDfDhFOhBmAzAFwAVcBlBeFhAwCe@cEyCk@DDj@`I|GlJ|@bC{Aj@{@RNgCpDsAn@cJZoEc@j@lMnAdCb@jDs@ZiBaAaCl@qCdFoBrFyEnGMp@f@Xz@oApDqBjGyBfAE~B~DmCi@iCl@cJxHAf@b@FrBuAtC?|FnFzEbBdE`CnFf@rA_BAhDaAjAkD|AeGt@Md@lHlCtGx@pC?|CkAoE`EwExAiPbByJvB[r@j@x@jE}@lG^j@h@PnBWx@cBx@_AdAiDl@gAa@e@s@_BgHNiA~JyBhPeB~EaBdEaEYKqCrAiCAwGy@mGuBYSPYxFu@`EiBz@yABqCa@E{@rAuFc@sEkCgEwAiEqE}@_@qC?wBtAYGdGkGrBqAbBa@dCj@XMmCgEsIdCkDlBw@jAW@E]dFoHtB}FbCqEtBq@lB~@z@U?_BoBqFQ_I]eBVUbEn@pI]zAo@bCiD@_@]@{BtBaAXcJiAyCaDsCoBCa@\\?~DvClDf@jFsA~AiBfACEa@gB@qAbAsFLoDgDwGeCE[pD~@bDVlAbA|@N|Bu@rAoB@]]@{@pAeCDeBaBcIcDBYtEn@nDF~@_@h@y@_@iDZwF|EiGE_@]Fy@lAiElBw@vBYbD]DK[n@_H|@aEQkDTgC{@aFR{Bt@EhCpAr@h@`@zAZIeA{CmHyHPY`@L~BrB`C~@r@xAXUSeAgDsCRWpGbFhDfEvE|@`Bv@bAxA`@jBVVJ]a@mCmAmDiDsC}AcDiKoMAgArEeWn@q@bAA",
+"average_heartrate": 133.4,
+"average_speed": 6.336,
+"source": "strava",
+"streak": 9
 }
 ]
