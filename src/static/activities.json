@@ -54178,5 +54178,20 @@
 "average_speed": 6.653,
 "source": "strava",
 "streak": 17
+},
+{
+"run_id": 9038636235,
+"name": "\u5348\u540e\u9a91\u884c",
+"distance": 4853.3,
+"moving_time": "0:13:27",
+"type": "Ride",
+"start_date": "2023-05-09 09:05:17+00:00",
+"start_date_local": "2023-05-09 17:05:17",
+"location_country": "China",
+"summary_polyline": "mj_yDu{iyTG_@BI@SAWK[?OO_AAyDCoBA[MUIGUGgBK}BSyCQ{CWiBGk@KGEEGCULyAFsCF{@@}ACaB@o@F_AHm@bAsDQg@FeAFGHa@@q@Cg@SCYB[Ni@NQ?k@IuAGc@M[AoBUeDYiC[mAMa@C_AM{CQs@QeAIc@Ki@C}@IuCa@SKMSAc@@Y\\}CVgB@}ABsALsBGWGKGGUE_AE{@I{C[eAOg@GwA[s@Kc@MqB_@]MOQEYNeB\\qBb@oDJwAJs@HSLQAKiAWiBu@cASeA_@QAOGMQGCUECBG?WUMSGi@CIOKy@[cAYeCgAyBcB}BwB_CeCoFkFaHcHaByA{@g@wAq@wA]{@K",
+"average_heartrate": 117.6,
+"average_speed": 6.014,
+"source": "strava",
+"streak": 17
 }
 ]
