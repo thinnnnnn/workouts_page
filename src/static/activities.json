@@ -54508,5 +54508,20 @@
 "average_speed": 1.644,
 "source": "strava",
 "streak": 25
+},
+{
+"run_id": 9091342932,
+"name": "\u6668\u95f4\u9a91\u884c",
+"distance": 4605.4,
+"moving_time": "0:14:20",
+"type": "Ride",
+"start_date": "2023-05-18 01:28:11+00:00",
+"start_date_local": "2023-05-18 09:28:11",
+"location_country": "\u5149\u8c37\u4e00\u8def, \u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a\uff08\u6258\u7ba1\uff09, \u6d2a\u5c71\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430074, \u4e2d\u56fd",
+"summary_polyline": "iucyDuonyTZXlAlAp@j@fAjAFJt@j@fBjBnDjD~@dAnAnA~AtAb@XjAfArAz@bBt@nAd@b@^PBNLP@AFGBGHDa@LU^NX@EJ?DCB?FHJJHj@L@DRNr@RTNXJNNZHbBR~FnBp@N`@BRFZTPDA?@CRD`@?`@CN?hAP~AHv@PnAF`CPl@P~@Fj@JhAHtBX~@Fv@L~Eh@b@Jx@LjDVjD^`@J`@NHHN`@FZ@v@QtAC`AQpC?d@Ed@?vAG|AMvAG|AI|F?`BQ`DAjA_ApEAHKl@?rFEx@AtAMtC?t@Nb@FFTDbBD`AF`ABt@HfF^rBJr@HRHLRF`@BlCCd@Fx@E|@Ap@JpBA`@@T",
+"average_heartrate": 100.9,
+"average_speed": 5.355,
+"source": "strava",
+"streak": 26
 }
 ]
