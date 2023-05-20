@@ -54553,5 +54553,35 @@
 "average_speed": 3.25,
 "source": "strava",
 "streak": 27
+},
+{
+"run_id": 9103652677,
+"name": "\u5348\u95f4\u9a91\u884c",
+"distance": 2845.0,
+"moving_time": "0:14:50",
+"type": "Ride",
+"start_date": "2023-05-20 04:29:43+00:00",
+"start_date_local": "2023-05-20 12:29:43",
+"location_country": "KFC, \u4f59\u5bb6\u57ed\u8def, \u76c8\u6d66\u8857\u9053, \u9752\u6d66\u533a, 201700, \u4e2d\u56fd",
+"summary_polyline": "mre}DiqabVMA_ADoA?e@Do@EwABsAEKFYBg@AcADmFBOFOOCGAIHKCg@LaEEcE?_CI}BOuBU{BBYAKO]WaAe@cAs@kAm@s@{AiAo@_@[MOOq@UCE@DD?E?GXORBAA?ADOFGPUpAAZIj@Qv@Ab@El@]xAGDMIKCM@OCUBAC@BFCGCAFLF?JE@HVCECJ@HC?HBCSBJF?ABBGB@JEAGGQD@ACCC?@NE?AKF@AD?@CA?@F@@?C@A]?UFG??@ACAFIFAFQf@CP@LERIBQ?[Bc@AQBiAGiADgBEm@@}@GGEEIBe@Fg@\\kA",
+"average_heartrate": 88.1,
+"average_speed": 3.197,
+"source": "strava",
+"streak": 28
+},
+{
+"run_id": 9103801282,
+"name": "\u5348\u540e\u9a91\u884c",
+"distance": 6057.6,
+"moving_time": "0:20:10",
+"type": "Ride",
+"start_date": "2023-05-20 05:57:47+00:00",
+"start_date_local": "2023-05-20 13:57:47",
+"location_country": "\u6e05\u6cb3\u6e7e\u8def, \u9999\u82b1\u6865\u8857\u9053, \u9752\u6d66\u533a, 201700, \u4e2d\u56fd",
+"summary_polyline": "_`g}Ds}bbVr@D|@JFDB?ACA@XA^FF?t@Pj@Xb@Zt@n@LT~@lAn@bAr@jBFVJ~@@v@NnALfEHl@Bj@Eh@Ar@CLItDELBX?b@E`AAEBHCz@BVHVX^XLNB|AB`AGhAArBDJCnHClCEnCFNADDn@JbAHrADhBPnARrDf@vALfCZX@~@Rv@LhBT~ALfDd@r@DvEv@|ALdEl@^BRFnADbBXj@F|@BB@ABBAAA\\BnDNtDFzJWv@GdAEl@MvAKvDi@`@AREh@C~@OfAMVIR@XHTVbArBr@jAh@t@pGhL`BrCbBbD|@|AdBhDjCnEn@pAhAhBvAdCXt@Z^j@|@H\\Rf@n@pAfApBf@l@Nb@CJGH@HB?A@?GAB@AJHZDJFLDFDRXv@|Az@rAN`@l@nAbAbBxApC`BlCj@bAJVZj@DV?p@CBGDM@MFqA`A_@TMDg@f@QDWCMHDHANB@LCEL@DJ?",
+"average_heartrate": 94.8,
+"average_speed": 5.006,
+"source": "strava",
+"streak": 28
 }
 ]
