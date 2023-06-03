@@ -55168,5 +55168,20 @@
 "average_speed": 0.0,
 "source": "strava",
 "streak": 42
+},
+{
+"run_id": 9194355763,
+"name": "Zwift - TT#1 The Polish in Watopia",
+"distance": 49327.2,
+"moving_time": "1:21:45",
+"type": "VirtualRide",
+"start_date": "2023-06-03 12:07:05+00:00",
+"start_date_local": "2023-06-03 20:07:05",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "pm_fAoecz^t@aHuBsF~@}@tC?\\}En@m@fHlBJ~BbClAeAxC`AlAxHYlCsCgAaFzC_DNwDmByFsFsEWyAlAuEdGwDGsE_EoFzB{BEgDjIySf@yEu@{BuHaDeAeEpIiTvCy@pEn@pCaEfDKlBgA`@aEeDoFpBwBpBXhHhK|B_ApAqEpDpALbF`DpCcEfE?jKqAvSvFvIbGh@nL{C`Bh@xAhUiCdEIfBtA|IjNtBdBrA\\nCrAhAdAq@bDwJdAm@lCjAh@~CjFXjCdDlCO`BeB?oCoByAiCRqBlCyE?cAcD{CsAoA~@}ClJ{@j@gA}@g@}CcBoAuNcCeAwKxBgCXmCuAoSeBw@uLzCcGe@uFwItAaTAyJd@gA|C_CgD_DEuE}D{AaB`FgBn@aH}JuBg@aCfCbDnFi@dEkGdAqC`EgEq@{Cv@qIvSbAfFnH~Cv@|Bc@fEuIhTLvC_CjCdExFB|D{@rAeE~AsAjFVpA`GfFfBdIa@dBmC~BlAnEeApBeGtA_DYQgAdCyEtKqDlAsCgBaIeGoFSgAlAeFpEiBv@yAIaEcEmF~BeCI_DrIkT^qEu@uBmHyCeAaC?gBxIwS~Cm@nDr@vCcEzGwA\\gEaDkFzBwBrBh@|GzJxB}@tAsEtDxAFvEbDxCcE`E?jKsAvSvFvIxFj@~L}C~Aj@xA~RQtCaC~CRdGx@rChFf@fGtAdBrA^tClA`AbAe@zCmJhAcA|CrAb@vChFV`CbDnCE`BqARuCyBoBsCZkBhC}ECy@_DaDuAgAr@yChJaAz@iAy@g@_DcBqAwNeCeAcK|B}CVmCuAkSeBw@sLzCoGg@oFaJvAkSBuK~DmDWiAqCcBK}EkDsAeB~EoBx@eHgKyB]wB|B~CjFY`EiBdAeDHaDhE}Ds@wCp@uIzS~@fFrHbDr@lBc@xEuInTPhC_CjC`EtFJxDaA~AmEjBkAxERrAfGnFdBfIc@`BgCpBfAvEsAbCoGjAeC_@QgAjC}EnKkDnAkCgBiIeGoFSoAnA_F~FsDEqE_EsFxBwBG_DtIoT`@gEu@_CuHcDaAsElI{S`Dy@bEp@vCeEdDKjBeA^iEaD_FvBaChBXrHlKpB{@~A}EfDxAHxEdD|CaEzDAzKuAjStFxIrFj@`M{ClBr@pAzT_@fBiB`BIfBtAzIhFd@dGtA|AhA^pClAjAlAo@vEeLfDrA`@tC~ETnChDfCGlBcBFmCwBeBkCVsBlCsECgAgD}CmAeAt@{E`LgAy@g@{CeBuAoN{BiAwK`C}CN_CoAeSyB_A{L|CkG{@}E}IvAwR@oKjDaCP{A_D}BK}E}B}AoAVyBrFoB[",
+"average_heartrate": 131.6,
+"average_speed": 10.057,
+"source": "strava",
+"streak": 42
 }
 ]
