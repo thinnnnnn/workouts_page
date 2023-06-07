@@ -55258,5 +55258,20 @@
 "average_speed": 1.469,
 "source": "strava",
 "streak": 45
+},
+{
+"run_id": 9217317791,
+"name": "Run 13km in 26\u00b0C",
+"distance": 13329.3,
+"moving_time": "1:07:12",
+"type": "Run",
+"start_date": "2023-06-07 00:13:13+00:00",
+"start_date_local": "2023-06-07 08:13:13",
+"location_country": "China",
+"summary_polyline": "}wcyDqfnyTjAu@jBNpAtBd@bBBnAaC`Bj@fAm@nEn@J|@`@vAbEGz@aAn@}@Ok@cAaA}CRy@d@c@j@Cn@^zAxDGjAc@b@o@Hs@]{AiEH}@^g@|@Ch@ZvAdECt@k@r@s@Bi@[yAqELaAZWn@Ax@b@vA~DGr@q@j@u@@e@[yAqEPcA\\Uv@?h@^|AdEGz@_@b@y@Fq@_@wA_E?w@^o@v@Mn@R~ArE?l@[n@q@N{@[}AeEBw@d@o@r@Kr@\\rApEAl@]j@w@Jm@W_BmEBw@f@q@x@Ef@TvArE@l@a@l@w@Lm@[_BiE?i@n@_Ax@?d@TvAjE?p@Yf@s@Tq@O[a@iAgDD_AXi@r@Sl@RfB|ECj@]f@w@Lu@Y{AkEDo@d@s@d@Mz@X|AvEGx@c@d@k@Hq@WeBkE@q@b@s@~@Kn@^zApEEj@m@p@o@Bm@]_BmEN}@`@a@l@Ip@ZzAfE@n@Yl@w@Vq@Ok@_A}@oCDaA\\c@|@Ol@XxAdECv@c@n@k@Lo@QqAkCYgADm@^q@x@Uj@NRVlAtEIp@UZk@Ly@YgBaE@o@b@q@d@Wt@D\\`@jAvD@n@Yn@s@Vk@Gg@i@iA_ERaAn@a@n@Bd@\\pArEKp@]b@c@H{@Y_BwEPaAp@c@h@@d@ZzApEMz@k@f@cAK_@a@iA_DEo@Tw@r@e@n@LZXvApEO~@g@^}@Ce@_@qAcEH{@h@g@x@Ah@ZpAjEGt@k@p@u@Em@e@sA}DL{@p@k@t@Fd@`@jAlDDh@Gh@m@b@{@Ee@a@sAiEP}@r@e@\\Br@f@rArDBn@o@`AwAGiBsEBo@`@w@p@Mp@VbBvECn@Yb@y@Tq@S}AsEBy@Zi@n@Of@J`@j@bAxCDrAu@n@cAG_@g@mAmDFy@Zg@h@U|@T~AnEAj@]v@w@Nk@O_BeEA_A^w@r@Gn@TzAlEGnA{@d@aA[}AkEHgA^a@n@IJi@_@oAm@gClDiCe@gAK{@qAmDsAUY[kApA}@`@{ACMk@[^o@N",
+"average_heartrate": 148.3,
+"average_speed": 3.306,
+"source": "strava",
+"streak": 46
 }
 ]
