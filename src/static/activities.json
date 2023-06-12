@@ -55423,5 +55423,20 @@
 "average_speed": 1.36,
 "source": "strava",
 "streak": 51
+},
+{
+"run_id": 9250510423,
+"name": "Commute Walk 2km in 33\u00b0C",
+"distance": 2522.6,
+"moving_time": "0:27:17",
+"type": "Hike",
+"start_date": "2023-06-12 09:06:39+00:00",
+"start_date_local": "2023-06-12 17:06:39",
+"location_country": "\u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a\uff08\u6258\u7ba1\uff09, \u6c5f\u590f\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430074, \u4e2d\u56fd",
+"summary_polyline": "yj_yDk_jyT@]Jg@?SGYEI?UIUBu@Ek@C}@Dc@J]CSW[o@MMAMB[?{AOYGu@BOEm@@yASaAGKBi@I[AQEWAMG_@Be@MQIGMASFe@?}@DSAQD[?KEOJ{@AKBoBCWHaA?cADc@Rs@Fc@j@gCGA@@FuA?}@B[CGFa@CYUEi@@SH_@?{@Kc@CEGIAU@gAKQDa@MYCKGU@m@CKES?]M_AMk@CUEa@AaCYc@?ECK@ECs@?]CIC]?GEM?]Gw@YYEy@SK@}@MY?mC_@I@e@EQGEKCQEE]G]?UDo@_@QMGQKGSAOGk@IGEm@{AWK",
+"average_heartrate": 90.0,
+"average_speed": 1.541,
+"source": "strava",
+"streak": 51
 }
 ]
