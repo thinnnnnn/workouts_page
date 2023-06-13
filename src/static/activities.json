@@ -55468,5 +55468,35 @@
 "average_speed": 1.38,
 "source": "strava",
 "streak": 52
+},
+{
+"run_id": 9256240100,
+"name": "Commute Walk 2km in 32\u00b0C",
+"distance": 2512.2,
+"moving_time": "0:28:19",
+"type": "Hike",
+"start_date": "2023-06-13 08:57:57+00:00",
+"start_date_local": "2023-06-13 16:57:57",
+"location_country": "\u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a\uff08\u6258\u7ba1\uff09, \u6c5f\u590f\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430074, \u4e2d\u56fd",
+"summary_polyline": "kj_yDq_jyT?_@CACS?OCEBSDIESECCG?OCCAM?WFW?QCIBi@CK?MIe@FK@MCMAYKOKEu@?YGI?IB{AO[GQGI@[CgAAc@EYKI?g@G_BEUCMGq@EQBWAYKEM?YFSDy@Ae@Ba@AUBMA[Fo@AY@[CkAFiBTsBBa@DSPGFuBJaBCEL_ADQDGBM?WEICACD@COEI@_@CYGC@ONI@s@Em@Em@O{AOyAIu@KMGy@KYAUEk@AUIa@?[CGC_ACOEg@Cy@McBEGC[GWAUKMIOAOEcAIICK@QCK?YIYCc@MUEK@i@CSASEO?WOIYs@IO?ODKAe@_@[e@_@Ke@EWIGI_@aAKMSK",
+"average_heartrate": 93.2,
+"average_speed": 1.479,
+"source": "strava",
+"streak": 52
+},
+{
+"run_id": 9256675897,
+"name": "Evening Run",
+"distance": 9.1,
+"moving_time": "0:00:07",
+"type": "Run",
+"start_date": "2023-06-13 11:02:39+00:00",
+"start_date_local": "2023-06-13 19:02:39",
+"location_country": "China",
+"summary_polyline": "",
+"average_heartrate": 78.7,
+"average_speed": 1.304,
+"source": "strava",
+"streak": 52
 }
 ]
