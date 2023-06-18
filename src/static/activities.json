@@ -55618,5 +55618,20 @@
 "average_speed": 3.18,
 "source": "strava",
 "streak": 57
+},
+{
+"run_id": 9289343496,
+"name": "Zwift - Bike in Richmond",
+"distance": 33509.7,
+"moving_time": "1:20:21",
+"type": "VirtualRide",
+"start_date": "2023-06-18 12:45:03+00:00",
+"start_date_local": "2023-06-18 20:45:03",
+"location_country": "Richmond City Hall, 900, East Broad Street, Shockoe Slip, Richmond, Virginia, 23219, United States",
+"summary_polyline": "sfcdFjzrwM_T~a@St@Hd@JLvDzDfD~CxBxAp@Ib@k@~DaJxNkYjI{OzJmQVCTNdGnGRDPIhAwBZ_ADm@OiCTsArByEvEyHbCmExBkE\\{Av@{ArHeMbCqDfAqAnPyLrE_FzDkAfDkAp@i@DQEa@g@KwAZ{GvCqF~F{@l@iAd@gANyEQoIzAU@GSf@s@@QISq@UiALG]x@c@b@eAb@R\\b@\\Hj@SFM@a@Wk@_BiB]OQBS^w@nBiI|OK`@J`@`CtBBf@uClGc@n@YDUM_MoM]KYVgChFeJdQWbAH^|@fAlKvJLTAXo@xAmQ|[QPiA[{@{@iD_BgA]wAUgBuAWEQJ{@vAc]jq@GXJn@xD`EhDbD~BzAf@Ad@i@dEkJdO}YtHwNdHqMbBoCZ@VT~FfGTBPM|AoDF_AOsBRuAzBgF|E_I|BeEvBiE^_Bz@_BjH_MlCyDfAkAhPsLrEaFzIoCf@]Rk@M_@OCwATgHxCw@p@eEvE}@l@y@ZkAPwEQaJ~AOCCQh@q@@SGQo@WoALGWDIt@_@`@aATBn@n@XJn@UFS?YSg@eBoB]OSFoAxCgIxOG\\L\\tBhBPZGb@}@pBsAtCc@j@UBa@WyLkMSG[PkNnX[x@?^LXt@|@xKdKDPCRg@jAgBhDqGhLmFdJeAW}@{@kDaBeA]qAQkBwAUGSF{@tA_]~p@Qr@Hb@|JzJjAx@`@NR@^Sd@u@vDuIxNiY|HeOxJmQRUVBdGlGf@RPM~AoDDq@M{BR}A|BkFpEoHlC}ElBwD`@cBl@iA|HuM|BiDnAwAlPyLrE_FzIqCt@m@Dc@GQ]GmATsH`DkF|F_Al@_A`@kAP{EQsIzAWAAQf@q@@SKSm@SgANIKASv@a@f@gA^Pd@h@RDl@QFKBa@Um@qA{A]Y_@AU\\w@pBmI`PG`@N`@`CvBAd@uClGe@n@Y?UOwLiM]M[RsC|FqJdR?b@PZ|@dAdKnJJRAXm@vA}Qn\\qA[u@w@kDcBgA]sAQoByAe@Dw@pA_]`q@Od@ARNd@pJlJbBjA`@D^Ob@q@|DaJfNgXlIaPzJqQRSVDjGpGPLRANOxAeDFeAMsBRuA|BmFxEyHjC_FfBgDb@kBn@kAvHkM`CoDvA}A~OkLzEgFxIqCp@g@H_@M]MC_BVgHxCaGnGgAn@_Bb@oFOgJ|AEI@Sf@m@G_@o@WkANKYFKr@]^aA",
+"average_heartrate": 115.1,
+"average_speed": 6.951,
+"source": "strava",
+"streak": 57
 }
 ]
