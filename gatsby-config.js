@@ -9,7 +9,7 @@ module.exports = {
     navLinks: [
       {
         name: 'Strava',
-        url: 'https://www.strava.com/athletes/neyond',
+        url: 'https://www.strava.com/athletes/yangli',
       },
        {
         name: 'Blog',
