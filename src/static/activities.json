@@ -56203,5 +56203,35 @@
 "average_speed": 7.349,
 "source": "strava",
 "streak": 12
+},
+{
+"run_id": 9390314813,
+"name": "Run 14km in 27\u00b0C",
+"distance": 13999.6,
+"moving_time": "1:12:56",
+"type": "Run",
+"start_date": "2023-07-04 22:52:33+00:00",
+"start_date_local": "2023-07-05 06:52:33",
+"location_country": "\u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a\uff08\u6258\u7ba1\uff09, \u6d2a\u5c71\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430074, \u4e2d\u56fd",
+"summary_polyline": "ovcyD_rmyTHb@p@pAPx@NRLx@d@bAn@|BTj@TAxA{@|Am@fCyAd@]CU}@_BKe@UWSg@E_@ICOy@Cu@m@_BIg@_AqAOk@U_@q@T{A|@Kr@J|@{A^gAr@?d@b@jAPdAT`@d@vBRj@RX\\xAr@`BXHbBcAZIpCyAlA}@w@cCa@kAUY}@sCk@cCwAqCwCrA?r@Nt@APeBf@}@`@Ab@V`B|@|Bf@hBfAdCHn@\\z@P@pBiAlBu@xBuAAYQW{@sCUyAq@yAg@{AiAmCa@w@o@RWVmAj@Cf@N`@Eb@kBd@g@VMXDp@b@dALt@Xf@n@nCp@lALv@n@lBXGnA_A~FkCDOUi@Ms@c@aAQ_BmAyCw@_DSQm@yAo@PoBjAFnAFTGZaBXy@\\ILC^j@jCLb@b@l@NhAHFXdAz@~Al@hBNAd@]pHuDBSi@gAYcAUu@Ak@_@cAE_@m@sAQ{@kA}BGg@IMcAN]^gA`@Dt@\\XBTMTmCr@g@^@l@t@tBDd@Rt@\\dATd@BZ^fABXl@jANj@RBfGsDxAq@e@eAeAiDW{AoAgDy@eBMKIk@KGcAZaAp@CJZv@ATKNs@^kAZy@d@`@tB~@vBz@~BZ`A\\lB`@bARAtFcD~Am@BMi@_AQg@Q}@SwAm@sBk@_BoAsC]k@}@Rs@j@]JCPH^Vl@GLWN}AVk@TWV?V\\vADj@^pA\\v@pCtHVCnIyEu@qBm@iDYi@qBoEUgA]s@mAZo@d@MBKLCN^j@H`@CJoCp@o@d@Cd@p@lC`@t@f@xAFb@V`@hAdEZHpCwAAQ}@wAc@X]Li@GYQ[o@S_Ai@aBBu@HUXYz@Gf@TPVdAhE@VGT_@f@u@Fm@_@uAuEHu@Zc@j@Kj@JV^Z~Ab@`AJd@Cp@Wb@YN_@?s@YYk@]wAa@kAAa@FUVc@JGZG\\Bj@^b@dAn@dCGx@Y`@m@H]GYSyAiE@{@d@m@h@In@N^n@VpAf@vABVGl@UZa@Ra@@o@Wu@yC[s@Ck@FW\\m@^Ql@Hd@n@fApD@r@Qj@[Pa@Bw@[S_@]qAi@_BBm@j@eAHcAIq@Dy@M]OO@_@n@q@`CyA@QUIIQ",
+"average_heartrate": 139.8,
+"average_speed": 3.199,
+"source": "strava",
+"streak": 13
+},
+{
+"run_id": 9390493955,
+"name": "Ride 22km in 28\u00b0C",
+"distance": 22042.6,
+"moving_time": "1:00:09",
+"type": "Ride",
+"start_date": "2023-07-05 00:24:00+00:00",
+"start_date_local": "2023-07-05 08:24:00",
+"location_country": "China",
+"summary_polyline": "",
+"average_heartrate": 128.8,
+"average_speed": 6.108,
+"source": "strava",
+"streak": 13
 }
 ]
