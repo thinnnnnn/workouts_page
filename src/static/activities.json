@@ -56578,5 +56578,20 @@
 "average_speed": 3.138,
 "source": "strava",
 "streak": 24
+},
+{
+"run_id": 9462281276,
+"name": "Ride 20km in 27\u00b0C",
+"distance": 20468.5,
+"moving_time": "1:00:00",
+"type": "Ride",
+"start_date": "2023-07-16 12:52:21+00:00",
+"start_date_local": "2023-07-16 20:52:21",
+"location_country": "China",
+"summary_polyline": "",
+"average_heartrate": 105.2,
+"average_speed": 5.686,
+"source": "strava",
+"streak": 24
 }
 ]
