@@ -56608,5 +56608,20 @@
 "average_speed": 3.265,
 "source": "strava",
 "streak": 25
+},
+{
+"run_id": 9465598858,
+"name": "Commute Walk 2km in 31\u00b0C",
+"distance": 2142.9,
+"moving_time": "0:24:36",
+"type": "Hike",
+"start_date": "2023-07-17 02:20:00+00:00",
+"start_date_local": "2023-07-17 10:20:00",
+"location_country": "\u5149\u8c37\u4e00\u8def\u66fe\u5bb6\u57b8, \u5149\u8c37\u4e00\u8def, \u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a\uff08\u6258\u7ba1\uff09, \u6c5f\u590f\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430074, \u4e2d\u56fd",
+"summary_polyline": "gb`yDeujyTItA?d@BP@Ff@P",
+"average_heartrate": 90.5,
+"average_speed": 1.452,
+"source": "strava",
+"streak": 25
 }
 ]
