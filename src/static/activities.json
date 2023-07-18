@@ -56668,5 +56668,35 @@
 "average_speed": 1.358,
 "source": "strava",
 "streak": 26
+},
+{
+"run_id": 9473147814,
+"name": "Commute Walk 2km in 32\u00b0C",
+"distance": 2140.9,
+"moving_time": "0:24:50",
+"type": "Hike",
+"start_date": "2023-07-18 08:59:57+00:00",
+"start_date_local": "2023-07-18 16:59:57",
+"location_country": "\u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a\uff08\u6258\u7ba1\uff09, \u6c5f\u590f\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430074, \u4e2d\u56fd",
+"summary_polyline": "i_`yDwojyTq@I]ISMSWg@MOI",
+"average_heartrate": 83.7,
+"average_speed": 1.437,
+"source": "strava",
+"streak": 26
+},
+{
+"run_id": 9474159898,
+"name": "Zwift - VO2 & AC in Watopia",
+"distance": 44253.6,
+"moving_time": "1:09:19",
+"type": "VirtualRide",
+"start_date": "2023-07-18 11:27:15+00:00",
+"start_date_local": "2023-07-18 19:27:15",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "nl`fAipcz^hC_DoAuEvCsCXwCmBuGeGmFIwAjAkEjEcBz@yAKoE_E{E|BiCGgDpIeTb@}Du@kCoH}C}@gBKgBpIcT|Cy@hEl@pCaEbDKhB}@h@_BAkBcDgF\\cAzA}@xBj@rEzHpAbAjB}@vAyEbBLlAdAHxEpCbBRv@Qv@iCdAe@bACtKsAhS~F~IxFh@pLyCfBh@z@hGZvLW|AoBhBK`B^vFv@nB~E^hGtAdBrAb@xCjA~@dAo@tCaJnAgA|CvAh@xCzENjChD|CS~AwBOaCsCyAwBp@yAxBiFCm@yC}CyAqA~@}CnJeAd@}@y@c@uCoB{AcGqAsCDsAq@u@oCQyFbCiDNcC]mKu@wFeB{@_M~CkGk@g@oB}D_FrAwSByKd@w@tBs@b@kAW_AsCiBEoEkD{AgB|EeB|@yHsKuBQsBzBdDvFg@bEuB|@uCFyCdE}Ds@aDv@qIxS@lB|@rBpH`Dv@vBa@nEsIjTDbDyB`C`EhFFjEw@nAkEdBoAzERxAhGpFrA~DNdCi@fBeCpBFzAbAxBuAbCiGhAqCe@GqAhCsElKiDlAmCSoCqAoDcGsFWyApAwE|D}AbAwACgEeEmF`CoCKyClI_Td@{Eu@yBwHeD_AaCD}AjIkStCy@bEr@z@c@|A_D`DKtBeAf@eBEgBaDkFnBqBxB^hHbKxBcAnAoE|AJvAnA@hEnCdBXfAuCnBk@bAAvKsArS~DbFr@pB|Fj@vL{CjBn@r@xE`@dLQnCgB~AYjANdFz@bD|At@pCGdGtAbBpA^nCjAdAdAg@vCaJlAkAtChAp@bDzEPjCfDpCIfBgBD_C_CmBmC`@gBdCuEAc@Q_@oCcDsAsArAuCzI{@d@cAy@i@aDaBmAuGwAsE]w@sB[wGXmAjBeBNmDk@}Lq@kDcBk@gM~CwFm@c@eBgEsFtAmS@qKd@}@`C{@XaAUcAuCgBEoEcBqAwAEyAxEaBz@kAw@iFsI{BYsB`C`DfFBhBe@~AwB`AwCFoC`EoEo@yCx@qArE_GhM@`B~@vBxHhDp@vBa@dEuIlTLtCaClCdEzFB`E_ApAiEfBkA~EXrAdGjFrAxDNbCa@fBmC~BjArEcAlBiAx@qE\\oCa@McAjC}EdKeDtA{BKyCyAeEeGoFU}@nAoF|D}AhA}AEaEeEsF~BkCIaDjJ{VDkCa@qA_HmCkAaBa@qBhIqT`DiAtEl@lCcEvCEhBs@n@wAFuBgD}FjBqBvBTpHlKtBaAtAsEjCj@l@pA?vDhCtAVdAsClBm@hA?vKwAvRdE|Fl@nB",
+"average_heartrate": 133.7,
+"average_speed": 10.64,
+"source": "strava",
+"streak": 26
 }
 ]
