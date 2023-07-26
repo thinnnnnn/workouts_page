@@ -56938,5 +56938,20 @@
 "average_speed": 5.829,
 "source": "strava",
 "streak": 34
+},
+{
+"run_id": 9523685990,
+"name": "Commute Ride 4km in 33\u00b0C",
+"distance": 4701.4,
+"moving_time": "0:14:28",
+"type": "Ride",
+"start_date": "2023-07-26 09:11:53+00:00",
+"start_date_local": "2023-07-26 17:11:53",
+"location_country": "China",
+"summary_polyline": "yk_yDykjyTEQMKm@Kw@Ek@BQAwAU_AIi@Ai@IU?uBSuAG}@Kc@Ko@Gi@@MHS@m@A_D]_@?u@KW?iAYu@KgBCiAKi@M}DWs@IiAEi@Gk@A_DSgBIm@Mo@BOCQGQMSAi@DkBGe@GsAK_AO_BWs@Qw@SyAg@w@Kq@OoAa@}@_@g@O]OSWa@WkCeAa@Sg@]uA[YKMMCQAC@?G?SIUQYKCI@KPSVo@VcA`@w@J[d@kBx@sCj@yCf@}AFEB_@HUPw@NmC`@wBVoBT_A^_CHm@Dy@L}@EUGGICU?a@CKE][UIuBG]@aAIOKO]SQQg@FcECe@EQMWMMKC{@IYQIKYu@e@{@Kc@Sm@y@wBm@_CmAoD",
+"average_heartrate": 114.7,
+"average_speed": 5.416,
+"source": "strava",
+"streak": 34
 }
 ]
