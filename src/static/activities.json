@@ -56953,5 +56953,35 @@
 "average_speed": 5.416,
 "source": "strava",
 "streak": 34
+},
+{
+"run_id": 9528867773,
+"name": "Commute Ride 4km in 37\u00b0C",
+"distance": 4636.8,
+"moving_time": "0:14:12",
+"type": "Ride",
+"start_date": "2023-07-27 02:23:58+00:00",
+"start_date_local": "2023-07-27 10:23:58",
+"location_country": "\u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a\uff08\u6258\u7ba1\uff09, \u6d2a\u5c71\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430074, \u4e2d\u56fd",
+"summary_polyline": "kmcyD}gnyTx@~@zCvCr@n@`DhDpCdCdBrA`Aj@`Bt@|@XnAh@PLb@NPRDHDP`@DhAb@nAZx@X|@J^HbBj@x@Rh@X~A\\bCZvAT|D^pBVpAJx@Ll@Bf@Jp@H|DZx@PvD`@xALzB\\lCPhALtBVTJ^TNRHVFX@j@K~AIdCSfC?XH`AQ|BQlFEvHMhC]p@HVURGPAf@GV@`@Cf@I`@IhABNCZBhDGhA@r@KtBCnAFTRXNNTFlCJtE`@pBFlBP^@",
+"average_heartrate": 113.3,
+"average_speed": 5.442,
+"source": "strava",
+"streak": 35
+},
+{
+"run_id": 9528993784,
+"name": "Commute Ride 4km in 36\u00b0C",
+"distance": 4885.2,
+"moving_time": "0:14:34",
+"type": "Ride",
+"start_date": "2023-07-27 03:26:17+00:00",
+"start_date_local": "2023-07-27 11:26:17",
+"location_country": "\u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a\uff08\u6258\u7ba1\uff09, \u6c5f\u590f\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430074, \u4e2d\u56fd",
+"summary_polyline": "uk_yDcljyTIQEGIAmCMo@?{@Q]ASEg@?gAMwBIcBSq@CSGKOCIAWJsC?e@HoABcACiC@[NmBT_ALs@JU@m@D_@?Q\\aDBaABa@@uAB_@AeABm@CmALgE?{@BQLg@BWTiELgDFq@?gAGYAUEMUYUMk@S}Fm@c@?w@IcAGk@QuAS}D_@iBWwI{@y@MgFi@yAQiAKU?UIW?}AWqA[cAa@{@UmEwA{@a@mBo@e@UW_@CAEBICi@GU?u@OuA_@{BaAaAm@kBuA{EwEs@y@yAwA",
+"average_heartrate": 110.5,
+"average_speed": 5.59,
+"source": "strava",
+"streak": 35
 }
 ]
