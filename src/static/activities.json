@@ -57103,5 +57103,20 @@
 "average_speed": 5.729,
 "source": "strava",
 "streak": 40
+},
+{
+"run_id": 9560683532,
+"name": "Commute Ride 5km in 34\u00b0C",
+"distance": 5103.3,
+"moving_time": "0:15:46",
+"type": "Ride",
+"start_date": "2023-08-01 09:04:20+00:00",
+"start_date_local": "2023-08-01 17:04:20",
+"location_country": "China",
+"summary_polyline": "}l_yDwljyTQCuBM{AQyBIcAQcBQ_DUSGGGAICWHo@LaFBuFBo@D[R{@L]?_@`@}B@e@PcC?_@JaA?sADq@AoDD_A@mARkBDONkFTmENqBCSCGGCM?m@SBACo@GKME{@QmC_@uBOk@MuC]eDWkH{@cBMwASa@Ci@Ma@Ew@EaAM}BQe@K_AI{A_@q@BiAO[Mk@Oo@Ww@Um@WsA]a@Q{@W}@g@_Bc@YOSWMIe@?KEk@G_@Kw@Yg@Ke@OyAq@_Ak@_BmAiHaHw@}@iAgA",
+"average_heartrate": 97.0,
+"average_speed": 5.395,
+"source": "strava",
+"streak": 40
 }
 ]
