@@ -57120,6 +57120,21 @@
 "streak": 40
 },
 {
+"run_id": 9567401214,
+"name": "Run 12km in 31\u00b0C",
+"distance": 12004.4,
+"moving_time": "1:13:10",
+"type": "Run",
+"start_date": "2023-08-01 23:43:52+00:00",
+"start_date_local": "2023-08-02 07:43:52",
+"location_country": "\u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a\uff08\u6258\u7ba1\uff09, \u6d2a\u5c71\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430074, \u4e2d\u56fd",
+"summary_polyline": "kucyD_qmyT`@tA^tBzAbDPz@JLP@ZUnEoBjAq@TWWw@SYG_@{BqHaA_COo@KKSm@GE_A`@aAd@ELPn@?LCb@IHsDz@w@x@q@b@cAt@Qi@BQ`@e@PY?_@E_@@QJQd@QVSf@GT|AAh@o@b@oBzAWGEMFI@YY?OLKNMbA{@z@DFGF[SIOZa@b@V`@OHWBg@HYNQVFB`@EPDVAXERc@`@CLBDK\\DFb@PEAGHWQLe@Bi@PIL]ZSR]JARKdAgAXKJBFXc@n@Gp@Pv@@v@n@`FF`BSRqAY_ABNCZ@|@^n@Af@Fp@PJRIzAS\\APmCtAALPj@NZ`@\\d@vAb@z@`@vA`AxAf@h@~BtA`At@p@p@fAn@tAn@~@RVAFK?wAIIe@?UQKy@GiBIu@mA}ASs@?c@D?EmAJUSSIq@QQSEYNUCQMQ@EGAQXaAFmAKOyA]EGEo@Qi@Fe@\\_@nCeAtCaBBIAIs@gBi@iBMMKe@OWg@wBw@qBKm@OQ_@gAGAWP[B{Al@CF@RFRHp@ENg@V}Br@GJ?NLdAd@nAN`Al@dBLn@`AvB^rAJJvAa@XQ|Bw@hAq@j@SLSAKWk@Qm@k@}@KYGi@a@gAA_@UkAM_@o@gAQi@SUBEa@gAc@HW?sAf@ORPl@Fd@ER}CbAMJAVd@tBl@xBRb@l@bCPdAd@t@Jd@PJjDmA`Ac@XUTCz@e@Za@Mg@a@cAg@k@YgAA[k@_Cc@kAKe@S_@Ic@e@_AGc@IAUN_AR{@b@IZNn@CZONy@V}Av@?b@Hv@h@rA|@zDd@hA\\hAj@pAHBt@StBs@hAq@vBaAFQe@aAo@aAQc@Eg@MY?]Ui@Ie@M]GEKg@KKe@uAQs@Yk@Gk@SKo@V_Bt@CNXjACTe@TyA`@]PMNALLnAx@bCdAbFXf@TV^bAJFjEwAtCqAVSk@uBW[AMS]Ga@MWBMKWUwAq@yA{@sAI_@g@{AE?iC~@E`@HVATDd@iD|@IRB`@ZfBZ|@Jh@`BhF^j@\\hAP@dA]`Bq@\\UVC|BaADGBUWk@O}@Y_@Se@SoAMOQgASs@MSQ_AQg@{@mAIe@KsAS]k@aBSOPXNd@VdBr@vA@XlArCPt@HFMSEMOw@YiAWi@OMKe@",
+"average_heartrate": 134.6,
+"average_speed": 2.734,
+"source": "strava",
+"streak": 41
+},
+{
 "run_id": 9566198022,
 "name": "Commute Ride 4km in 35\u00b0C",
 "distance": 4670.7,
@@ -57131,6 +57146,21 @@
 "summary_polyline": "}kcyDkfnyTnLlLhAbAbAz@hBlAvBbAp@RlBt@lAZhAd@rDpAjAh@bFdBb@HhD^TFx@LvEd@p@DtGt@lDZvFv@jCThAP`CT|@FnD`@XH`@VT`@F\\B\\Ax@_@|H@bBWtDMbF@rBClBMhC?j@EXIVa@bB[xDChA?rCMnC@vBAdAFVT`@JFJBp@FbBFlD\\vBFl@?x@NtAF",
 "average_heartrate": 99.9,
 "average_speed": 6.186,
+"source": "strava",
+"streak": 41
+},
+{
+"run_id": 9567366056,
+"name": "Commute Ride 4km in 35\u00b0C",
+"distance": 4840.9,
+"moving_time": "0:13:10",
+"type": "Ride",
+"start_date": "2023-08-02 08:57:30+00:00",
+"start_date_local": "2023-08-02 16:57:30",
+"location_country": "\u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a\uff08\u6258\u7ba1\uff09, \u6c5f\u590f\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430074, \u4e2d\u56fd",
+"summary_polyline": "_y_yDunjyTiCU}CMICKOCW@e@JoALiE?mDBiAHy@VeABYNw@JkALuCV}BBcB@oFToELaBTwGJoAGuAHq@?QEMCA@AQcAcAAcB[uE_@g@K}@GkAOq@E_H{@aHo@}Eo@_AIw@?q@QeCWUQg@EW@g@CgCk@g@Uw@U}Ao@aBc@}Aq@cBi@w@[u@WcB_@e@Sy@S[Mm@Uw@a@}AgA_BuAsAuAuHuH",
+"average_heartrate": 101.7,
+"average_speed": 6.128,
 "source": "strava",
 "streak": 41
 }
