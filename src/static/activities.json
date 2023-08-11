@@ -57448,5 +57448,20 @@
 "average_speed": 6.287,
 "source": "strava",
 "streak": 50
+},
+{
+"run_id": 9625005263,
+"name": "Commute Ride 5km in 34\u00b0C",
+"distance": 5006.8,
+"moving_time": "0:14:08",
+"type": "Ride",
+"start_date": "2023-08-11 09:09:45+00:00",
+"start_date_local": "2023-08-11 17:09:45",
+"location_country": "\u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a\uff08\u6258\u7ba1\uff09, \u6c5f\u590f\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430074, \u4e2d\u56fd",
+"summary_polyline": "wk_yDskjyTCSKOGESEyBIo@Ee@BGAUKi@COCGE_@?SIYCs@JM?q@Sm@McACiAO[ISKQ?g@L_@Co@FgAAeBWo@Au@IWGc@O{@Me@E_AAiAI_AOkDUs@KgDMeBMkCM}@Io@@e@GGEk@BOFK?sC_@oB_@{BY{@Se@EIE[Y[OcBS{Ac@{B{@a@Kq@q@g@Q}Au@uAi@oA_@YMGCEI@OCCqAi@IU@EPKHMNc@Rs@p@_Bp@kCdAiDLs@l@iCHm@ZgALgCPeAl@oCr@kDXmDFc@?KGSIGaAIIEOQUIcAI}AC{@COIS[USK[G{@@sADw@Ay@AIMSSOKC}@MOGW[O]I]g@oAg@wAMg@Yq@aAmDS_@a@mA",
+"average_heartrate": 115.2,
+"average_speed": 5.904,
+"source": "strava",
+"streak": 50
 }
 ]
