@@ -57733,5 +57733,35 @@
 "average_speed": 3.138,
 "source": "strava",
 "streak": 56
+},
+{
+"run_id": 9669712331,
+"name": "Run 9km in 31\u00b0C",
+"distance": 9955.3,
+"moving_time": "0:56:28",
+"type": "Run",
+"start_date": "2023-08-18 00:07:17+00:00",
+"start_date_local": "2023-08-18 08:07:17",
+"location_country": "\u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a\uff08\u6258\u7ba1\uff09, \u6d2a\u5c71\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430074, \u4e2d\u56fd",
+"summary_polyline": "}qcyDyymyTJTAJEF]PWHMHwAb@GDEJA\\VjATf@\\hAXn@FV?NHZ^x@DP^~@Rl@Ff@HNNFH?hA]jAa@f@YbAc@JARUJCPQVKFG@ISw@{@aCEQ@MKi@Iy@Qg@?KW[IW]g@S]Sk@COWm@GYKOMa@MIm@`@wAd@KNCH?JL\\Hf@AJGL[P}Af@g@TEHAb@FZh@pAFZP^J^Pl@Fn@|@~A`@lATfAHFH@f@INIr@S^Od@]fAk@TEt@g@\\KDGe@qAW}@KQ_@_BMWQm@[o@]oAWq@Ye@Wk@?MMi@EGCKGGI@SHMJm@Ty@^ILANZv@CHMLu@ZIFG@ULg@NWNINAL@RDN\\|@R`@d@|A^nA@RFZ`@z@Vr@JR^pAHD`@Eb@Q\\IvAo@~@i@TIpAy@NOa@_AOm@_@{@CSI]?MGW@GI]Sw@KOOg@Yi@Uo@q@qAa@oAKKGBKJ_A\\ULa@PMJI\\P\\TZ@BMNOHyA^{@d@EL@`@Lb@F\\fAtCTjATl@@LNn@HVVd@H\\Rj@HNLBLELAf@YRGbAa@h@[d@OTMPEl@m@ZKHM?EQc@WgA{@eB@EIQMq@a@kAUeAOa@]wAWm@MSQc@SKM?QHORk@Tu@h@CJBPJRHX?LELMLi@P_ARQLMDOJGT?Zb@rADXRb@X`AHRV`Av@xBd@`ARt@HFB@RCf@OvBcA~@k@ZIROnAm@_@o@Yw@Ia@Ug@S_Aw@{BS{@i@oAG]KSOSKSCa@Ma@MME?cBx@SR]RCFHTNp@GRQFSNqA`@[NOLEXPr@F`@tBrFX~@F`@b@lAPt@FFB@t@OtBaA|Am@XW|@k@PM@CW_@e@oAYe@]s@Y{A[}@_@uAYo@Sq@Ym@S}@EIEAQB]RSFs@b@UHKJCHDPZ^DPKRG^K|A@LIh@El@CLQ\\CT@PFVLXj@hBN\\NL\\LN@PAPIJOJYBYE_@kAkDGMMISGUAYHSPQXCJ?XL`@bAnCHRLLRHTB^ENOL]BQ?SEWgAcDKSMKYIYBODGFS\\EPAL@RBNt@zBRh@@JC?IIc@iAc@{AGe@@QF[LSBM@WBO?y@V_A@U?SMOM_@CQ@QFMZUDAN?fAu@DCF@ROUkAEIU[",
+"average_heartrate": 145.2,
+"average_speed": 2.938,
+"source": "strava",
+"streak": 57
+},
+{
+"run_id": 9669935165,
+"name": "Commute Ride 4km in 37\u00b0C",
+"distance": 4548.6,
+"moving_time": "0:12:20",
+"type": "Ride",
+"start_date": "2023-08-18 02:21:34+00:00",
+"start_date_local": "2023-08-18 10:21:34",
+"location_country": "\u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a\uff08\u6258\u7ba1\uff09, \u6d2a\u5c71\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430074, \u4e2d\u56fd",
+"summary_polyline": "cpcyDwjnyTbAdAdEbE|@`AbEvDNZ`@d@p@f@b@`@pBxAh@ZpAp@dDnARPRZAG^DPVJHjEtAzATt@RpDrAl@NjBX`BP|El@tIx@n@LvBXbCRnDb@zBRpC^nBPp@Bp@L~APb@LRLV^FX?vDYzF?lAO~ACfCMdD@|BEvBMtC@XKbA?Tk@bCSpAEx@AjEM`D?hAGjB@VFPFFHBrADhF\\zBRfCL",
+"average_heartrate": null,
+"average_speed": 6.147,
+"source": "strava",
+"streak": 57
 }
 ]
