@@ -58153,5 +58153,20 @@
 "average_speed": 3.238,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 9774999413,
+"name": "Ride 19km in 29\u00b0C",
+"distance": 19687.3,
+"moving_time": "0:59:34",
+"type": "Ride",
+"start_date": "2023-09-03 11:35:25+00:00",
+"start_date_local": "2023-09-03 19:35:25",
+"location_country": "China",
+"summary_polyline": "",
+"average_heartrate": 135.1,
+"average_speed": 5.508,
+"source": "strava",
+"streak": 3
 }
 ]
