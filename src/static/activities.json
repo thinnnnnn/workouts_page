@@ -58513,5 +58513,20 @@
 "average_speed": 1.347,
 "source": "strava",
 "streak": 13
+},
+{
+"run_id": 9839790697,
+"name": "Commute Afternoon Walk \u2601\ufe0f 2km in 26\u00b0C",
+"distance": 2507.1,
+"moving_time": "0:27:06",
+"type": "Hike",
+"start_date": "2023-09-13 08:46:14+00:00",
+"start_date_local": "2023-09-13 16:46:14",
+"location_country": "\u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a\uff08\u6258\u7ba1\uff09, \u6c5f\u590f\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430074, \u4e2d\u56fd",
+"summary_polyline": "y}_yDsojyTsAKk@Mo@c@g@UKMEQAe@N}BByBJeB@yBBs@J{@ZaBLmATcBCOc@_AQIa@I{CUoAQeBMaKaAiDQ[Em@Q",
+"average_heartrate": 87.8,
+"average_speed": 1.542,
+"source": "strava",
+"streak": 13
 }
 ]
