@@ -58681,7 +58681,7 @@
 },
 {
 "run_id": 9872157659,
-"name": "Commute Afternoon Ride 4km in 32\u00b0C",
+"name": "Commute Afternoon Ride 4km in 32\u00b0C \ud83c\udf25\ufe0f",
 "distance": 4890.6,
 "moving_time": "0:15:16",
 "type": "Ride",
@@ -58691,6 +58691,36 @@
 "summary_polyline": "}k_yDoljyTCIGEIAwBOs@Ai@Gw@GeAAsAQgBEu@KcBMQEOKAQ?_@LqAJcD@mCDiCJuAd@eBJ{@CSF_@AKDe@?qAH{@AICAe@?QJG@GFI@cAEq@QsCW{B]mAGk@GSGu@K}CYiCMgBOo@O[AoB[yCYeAOQMGa@LiBJ}@PeCFeB?cANuACQK[MSGIICw@GoBWaAIqAUe@A[G{A]gFcA_AM{@UmDm@e@MSMKSCUp@mF`@yDJkB@g@Lu@_@YOEIDAF?CB?WOSGMBCCKWOMaC{@k@Yw@e@aBuA[MGI]Sw@u@{C_DaC}BmAuAWU",
 "average_heartrate": 119.2,
 "average_speed": 5.339,
+"source": "strava",
+"streak": 18
+},
+{
+"run_id": 9873056374,
+"name": "\u2601\ufe0f\ud83c\udf19 Evening Run 5km in 32\u00b0C",
+"distance": 5265.1,
+"moving_time": "0:25:24",
+"type": "Run",
+"start_date": "2023-09-18 11:56:39+00:00",
+"start_date_local": "2023-09-18 19:56:39",
+"location_country": "China",
+"summary_polyline": "",
+"average_heartrate": 148.8,
+"average_speed": 3.455,
+"source": "strava",
+"streak": 18
+},
+{
+"run_id": 9873389264,
+"name": "\u2601\ufe0f\ud83c\udf19 Evening Walk 2km in 29\u00b0C",
+"distance": 2815.0,
+"moving_time": "0:41:10",
+"type": "Hike",
+"start_date": "2023-09-18 12:55:49+00:00",
+"start_date_local": "2023-09-18 20:55:49",
+"location_country": "China",
+"summary_polyline": "",
+"average_heartrate": 87.8,
+"average_speed": 1.14,
 "source": "strava",
 "streak": 18
 }
