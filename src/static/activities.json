@@ -58666,7 +58666,7 @@
 },
 {
 "run_id": 9871115573,
-"name": "\u2601\ufe0f Commute Morning Ride 4km in 34\u00b0C",
+"name": "Commute Morning Ride 4km in 34\u00b0C \u2601\ufe0f",
 "distance": 4685.4,
 "moving_time": "0:13:31",
 "type": "Ride",
@@ -58696,7 +58696,7 @@
 },
 {
 "run_id": 9873056374,
-"name": "\u2601\ufe0f\ud83c\udf19 Evening Run 5km in 32\u00b0C",
+"name": "Evening Run 5km in 32\u00b0C \u2601\ufe0f\ud83c\udf19",
 "distance": 5265.1,
 "moving_time": "0:25:24",
 "type": "Run",
@@ -58711,7 +58711,7 @@
 },
 {
 "run_id": 9873389264,
-"name": "\u2601\ufe0f\ud83c\udf19 Evening Walk 2km in 29\u00b0C",
+"name": "Evening Walk 2km in 29\u00b0C \u2601\ufe0f\ud83c\udf19",
 "distance": 2815.0,
 "moving_time": "0:41:10",
 "type": "Hike",
@@ -58726,7 +58726,7 @@
 },
 {
 "run_id": 9876838400,
-"name": "\u2601\ufe0f Morning Run 7km in 32\u00b0C",
+"name": "Morning Run 7km in 32\u00b0C \u2601\ufe0f",
 "distance": 7007.4,
 "moving_time": "0:35:47",
 "type": "Run",
@@ -58736,6 +58736,36 @@
 "summary_polyline": "",
 "average_heartrate": 149.0,
 "average_speed": 3.264,
+"source": "strava",
+"streak": 19
+},
+{
+"run_id": 9877183413,
+"name": "Commute Lunch Ride 4km in 36\u00b0C \ud83c\udf25\ufe0f",
+"distance": 4678.5,
+"moving_time": "0:13:15",
+"type": "Ride",
+"start_date": "2023-09-19 03:03:17+00:00",
+"start_date_local": "2023-09-19 11:03:17",
+"location_country": "\u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a\uff08\u6258\u7ba1\uff09, \u6d2a\u5c71\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430074, \u4e2d\u56fd",
+"summary_polyline": "elcyDofnyT`A|@rExEfD`DlBbBdAx@|@j@nAl@bDlA~@l@TV|@V`@Rz@ZjBh@p@Db@J~Bn@v@Z~@VjCd@D@HR@EFNr@IR?~@PrE^|@LvALhEh@fFf@vARtDZpB\\rIx@`@NRNPRNf@@vA_@jI?fBUpCAnBGn@ClAC|B@x@E|AMjBIj@Aj@CX@ZSrAYbAOvAA|EQxG?nAHV`@Lb@@hFZdADjBP|AH`@D^B",
+"average_heartrate": 120.5,
+"average_speed": 5.885,
+"source": "strava",
+"streak": 19
+},
+{
+"run_id": 9878339906,
+"name": "Commute Afternoon Ride 4km in 33\u00b0C \u2601\ufe0f",
+"distance": 4912.9,
+"moving_time": "0:13:06",
+"type": "Ride",
+"start_date": "2023-09-19 09:24:33+00:00",
+"start_date_local": "2023-09-19 17:24:33",
+"location_country": "\u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a\uff08\u6258\u7ba1\uff09, \u6c5f\u590f\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430074, \u4e2d\u56fd",
+"summary_polyline": "cl_yDwljyTIEaAEkBSiEWoAMuCMy@KWASIIKEMA_@PsEFw@@kFLiBR{@Vw@D[J[GQA[JcCAMFs@ACa@?AEMAe@XG@UAk@Ku@C_@Eu@Mu@Ec@GoDYmGu@}EWqAY{@Gm@OkE_@c@KQSC]FqAf@{E@wCNyACk@GWEKIGMCmAG_C[oB[g@Em@I[KaAOcB_@gAQsAa@_@Bq@UgDk@_@KUKOSGW?IP{AN{@t@sHF}ALw@@a@C[Bm@GC?AGFMGK@UE]Oa@Ko@Yc@Ic@MwBcAq@c@gAy@e@_@cAgAqDmD}@_Ae@c@c@e@q@q@",
+"average_heartrate": 123.3,
+"average_speed": 6.251,
 "source": "strava",
 "streak": 19
 }
