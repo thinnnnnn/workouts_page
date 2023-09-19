@@ -58723,5 +58723,20 @@
 "average_speed": 1.14,
 "source": "strava",
 "streak": 18
+},
+{
+"run_id": 9876838400,
+"name": "\u2601\ufe0f Morning Run 7km in 32\u00b0C",
+"distance": 7007.4,
+"moving_time": "0:35:47",
+"type": "Run",
+"start_date": "2023-09-19 00:15:50+00:00",
+"start_date_local": "2023-09-19 08:15:50",
+"location_country": "China",
+"summary_polyline": "",
+"average_heartrate": 149.0,
+"average_speed": 3.264,
+"source": "strava",
+"streak": 19
 }
 ]
