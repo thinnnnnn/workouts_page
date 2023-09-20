@@ -58783,5 +58783,35 @@
 "average_speed": 2.885,
 "source": "strava",
 "streak": 19
+},
+{
+"run_id": 9883730900,
+"name": "Commute Morning Walk \u2601\ufe0f 2km in -\u00b0C",
+"distance": 2187.8,
+"moving_time": "0:27:02",
+"type": "Hike",
+"start_date": "2023-09-20 02:08:43+00:00",
+"start_date_local": "2023-09-20 10:08:43",
+"location_country": "\u5149\u8c37\u4e00\u8def, \u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a\uff08\u6258\u7ba1\uff09, \u6c5f\u590f\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430074, \u4e2d\u56fd",
+"summary_polyline": "ab`yDqtjyTE~@A`@FVJJRH^FzCF",
+"average_heartrate": 77.0,
+"average_speed": 1.349,
+"source": "strava",
+"streak": 20
+},
+{
+"run_id": 9884945659,
+"name": "Commute Afternoon Walk 2km in -\u00b0C \u2601\ufe0f",
+"distance": 2563.7,
+"moving_time": "0:26:57",
+"type": "Hike",
+"start_date": "2023-09-20 09:00:13+00:00",
+"start_date_local": "2023-09-20 17:00:13",
+"location_country": "\u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a\uff08\u6258\u7ba1\uff09, \u6c5f\u590f\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430074, \u4e2d\u56fd",
+"summary_polyline": "ia`yDapjyTOGOQCMCUPaG?iEF_ALgAPo@j@{AD_@EmAFwBC]GSOKOEY?y@DgBK}BYyHu@{BOaEa@}@E_@Gy@S",
+"average_heartrate": 83.4,
+"average_speed": 1.585,
+"source": "strava",
+"streak": 20
 }
 ]
