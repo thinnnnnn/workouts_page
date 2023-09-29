@@ -59113,5 +59113,20 @@
 "average_speed": 6.265,
 "source": "strava",
 "streak": 27
+},
+{
+"run_id": 9940101639,
+"name": "60min@E 11km in 27\u00b0C \ud83c\udf25\ufe0f",
+"distance": 11512.6,
+"moving_time": "1:00:55",
+"type": "Run",
+"start_date": "2023-09-28 22:12:48+00:00",
+"start_date_local": "2023-09-29 06:12:48",
+"location_country": "China",
+"summary_polyline": "",
+"average_heartrate": 141.1,
+"average_speed": 3.15,
+"source": "strava",
+"streak": 1
 }
 ]
