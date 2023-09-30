@@ -59128,5 +59128,20 @@
 "average_speed": 3.15,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 9945943703,
+"name": "60min@E/6ST 12km in 26\u00b0C \ud83c\udf27\ufe0f",
+"distance": 12522.1,
+"moving_time": "1:05:55",
+"type": "Run",
+"start_date": "2023-09-29 22:53:15+00:00",
+"start_date_local": "2023-09-30 06:53:15",
+"location_country": "\u534a\u8fb9\u5e97, \u9ec4\u9642\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, \u4e2d\u56fd",
+"summary_polyline": "mty{Dyb_xTYMQE_AGa@CY?_DQ{BG}@GW@iAOYKqCwAkBu@kBaAm@W[Q_@IQM}@]UQ[M_Ai@k@c@y@s@YQ[OSECEUKa@[SEEE{@K]Ke@@[Eo@Oe@EIEU@i@Cg@Iy@C]Eo@AmAQgEYq@Ky@Ee@@_@H]LWN}Bv@k@BoA?YB[A_AKwAY}@Ik@I_AEgAKsAYaAWm@Ya@Kg@Y[MeFyAk@G]@a@AsBUuCE{BDaAEe@DoAD{@A]C}@SeCGOEWYMGUE[?eDTg@JcAb@o@b@WR[`@WR_@LUBiBYeBQuB]i@Wu@Kq@QgAI_@AQD}@j@c@d@QZKJk@VYTi@XkA|@o@VeAz@{Ah@SF_AFoB@kA]g@Kk@Ee@H_@Je@FAB?DJ@tAS`@?ZBXF`AZb@B`AA`@?dAGNEbBq@t@m@`Ai@fBqAn@]d@]f@o@PM~@i@XGNAx@J`ARd@FTFZPNDtAP`APv@DjBV\\Ed@Q^[p@w@p@]t@[^GvCQl@AZFHFNRPHbCF~@XP@lAAtBOr@FdAC|A?f@@TAjAHfANxA@^BzBr@zA^hAd@ZFXN\\JLHTHtBh@z@JlADn@Jd@Bn@FjAVfAHdCCXCzAe@xAm@^I`@AdAFj@HtBPnCNZDjAFbBR^?tB^`@DfAC`@JP?h@^`Bx@VRJNb@b@`@X~Az@b@R\\HPHd@X|C~AnAf@\\F|Ax@ZHxAr@`@Ld@AxDRn@@@A{@KkCG}@Gg@K_@KyBcAoBeA}CsAaAk@mAg@wCeBSIa@_@CAC@FP\\\\zA`ArAr@p@TjAl@n@T~BnAbCbA`CfAXFz@Bf@F`K`@r@Fb@H",
+"average_heartrate": 143.2,
+"average_speed": 3.166,
+"source": "strava",
+"streak": 2
 }
 ]
