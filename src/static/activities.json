@@ -59158,5 +59158,20 @@
 "average_speed": 3.235,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 9959098030,
+"name": "60min@E/6ST 11km in 27\u00b0C",
+"distance": 11828.2,
+"moving_time": "1:06:49",
+"type": "Run",
+"start_date": "2023-10-01 23:15:58+00:00",
+"start_date_local": "2023-10-02 07:15:58",
+"location_country": "\u534a\u8fb9\u5e97, \u9ec4\u9642\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, \u4e2d\u56fd",
+"summary_polyline": "sty{Dcc_xTm@OaAGwBGo@E_DG_CMs@MkBaAeAc@{@a@gAa@w@e@q@Yw@e@m@W_Ag@a@O}A_Ag@g@e@_@{@]y@e@q@Sa@GqACo@Ky@UWCUAY@{@Kq@AYG{@C}@QeBKWEE@SGsAUo@Cu@@UBeEzAS@i@?qADW?}ASgAYwBS}AGm@K}Bk@k@Ui@SaAc@sA[u@UeAc@c@IoBEaBQqBCsCBcAGiBLiB?cAW{BK[KQSGEYGU?mDTe@H{At@o@f@q@r@g@RUDiBYqAMcCc@a@SMEq@IiAU_AIi@Ly@d@[ZYh@WPm@Z_@ZDHDAxAu@PMT_@^]|@g@XEV?fCb@\\Dd@VRHtDb@f@D`APX@XEd@Sf@g@FM\\Yf@YbAa@`@IhDSX?`@HRTVLzBDnAV~@@jCMp@D\\AnBAXApBDhAPh@B`A?r@JpBp@PBjA\\b@Nd@Vf@Ll@XbCp@z@HvAFvBT`ATf@B|@N|AI`AA\\IJI|Am@b@SXEh@ClAFh@JhCRjBJt@Fx@DND^@b@F`@?^D`AVh@HnBBl@FNDNLb@RLNh@VfB|AbAn@ZLf@Xl@VRDpDjB`Br@PLtAj@d@Nf@^v@\\VDL?rAFvCHvBNlDLxCx@n@JAGGG]OwA_@c@Gy@Sc@AUEsBKY@}AG_@?gAEC@ABLFZDzAHPBfABBA@CCGcBMwFWE?CFPF`AHfA@bETJA@CCEq@IiAG[@s@CqBK[C_@IGB@DFDd@FbBHhBLzCDfBH`AFZH",
+"average_heartrate": 138.8,
+"average_speed": 2.95,
+"source": "strava",
+"streak": 4
 }
 ]
