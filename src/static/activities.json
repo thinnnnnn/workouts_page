@@ -59623,5 +59623,35 @@
 "average_speed": 3.456,
 "source": "strava",
 "streak": 13
+},
+{
+"run_id": 10058896210,
+"name": "Commute Morning Ride 4km in 29\u00b0C \ud83c\udf1e",
+"distance": 4687.0,
+"moving_time": "0:13:24",
+"type": "Ride",
+"start_date": "2023-10-18 02:31:28+00:00",
+"start_date_local": "2023-10-18 10:31:28",
+"location_country": "\u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a\uff08\u6258\u7ba1\uff09, \u6d2a\u5c71\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430074, \u4e2d\u56fd",
+"summary_polyline": "}kcyDufnyTtGvGpAjA|@bAvArAt@l@x@j@|@d@RR`@T|@\\r@Rn@ZhAb@^XNVHFnBt@nA\\h@RbAFTF`Cz@xAf@x@PxC`@R@lAN~@HrBXdE\\x@NdCXlFl@zALz@NzCZfAPrDVdCXVDp@P\\RLPHTHbA?ZEd@ItBMtBEnA@`AU|BCvBGfCAnBGhEI|AC~@C\\m@fBYdE?rEMpC@fACd@?lAZd@j@VPBnBLl@Hz@BvBTvBHbDT",
+"average_heartrate": 113.8,
+"average_speed": 5.83,
+"source": "strava",
+"streak": 13
+},
+{
+"run_id": 10059978036,
+"name": "Commute Afternoon Ride 4km in 27\u00b0C \ud83c\udf1e",
+"distance": 4913.6,
+"moving_time": "0:13:38",
+"type": "Ride",
+"start_date": "2023-10-18 09:06:35+00:00",
+"start_date_local": "2023-10-18 17:06:35",
+"location_country": "\u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a\uff08\u6258\u7ba1\uff09, \u6c5f\u590f\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430074, \u4e2d\u56fd",
+"summary_polyline": "sk_yDiljyT@EAGOG[?QEyAIgAAi@M}Gg@aDQSEIECKC[X_HAyAAkCL_B`@uBPqAVoEAUCGEC]?H@[FUNIB[?gCYcAI_BU_OyAuAGSEW?cASyBQkBSy@S{@KQMGGEYFqB\\oDJkDN_BMy@EGIESE}AIqAWgAO_@I[CKC?CI@e@Cm@Qi@Ko@Su@IcB]m@OWOYIYCu@@c@MuCi@SGQMKQCSViCJo@Bq@^cDPiDNo@CQFwAE@?GQ?OG@BOMU?uAa@s@KuB{@{@g@eCkBmBwBuHqH",
+"average_heartrate": 119.3,
+"average_speed": 6.007,
+"source": "strava",
+"streak": 13
 }
 ]
