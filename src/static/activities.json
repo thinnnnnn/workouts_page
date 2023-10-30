@@ -59968,5 +59968,20 @@
 "average_speed": 3.853,
 "source": "strava",
 "streak": 23
+},
+{
+"run_id": 10128289953,
+"name": "Morning Run 5km in 28\u00b0C \ud83c\udf2b\ufe0f",
+"distance": 5608.7,
+"moving_time": "0:31:14",
+"type": "Run",
+"start_date": "2023-10-30 00:30:09+00:00",
+"start_date_local": "2023-10-30 08:30:09",
+"location_country": "China",
+"summary_polyline": "",
+"average_heartrate": 141.1,
+"average_speed": 2.993,
+"source": "strava",
+"streak": 1
 }
 ]
