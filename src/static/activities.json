@@ -60163,5 +60163,20 @@
 "average_speed": 3.577,
 "source": "strava",
 "streak": 6
+},
+{
+"run_id": 10161676720,
+"name": "Morning Run 14km in 25\u00b0C \u2601\ufe0f",
+"distance": 14318.1,
+"moving_time": "1:20:23",
+"type": "Run",
+"start_date": "2023-11-04 23:22:00+00:00",
+"start_date_local": "2023-11-05 07:22:00",
+"location_country": "\u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a\uff08\u6258\u7ba1\uff09, \u6d2a\u5c71\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430074, \u4e2d\u56fd",
+"summary_polyline": "ogcyDu`nyT|@r@nDvD`AzA?VQTYLKTmBpAsBz@m@qAYaAYc@UcAyAkEOK]HeBn@ALTzAKnBa@~Ak@jA?n@\\bA\\h@^xAn@Xp@Cd@c@Lo@Ge@eAmDm@c@q@@e@RWx@Fp@~@xCTf@RNn@Fj@YZm@@s@o@oBu@}Ao@Qy@PWd@Ap@`AfD\\p@h@Rz@O`@m@DaAiA_DYe@YQ[Ey@TUh@?t@z@bDVj@p@Xn@Kl@w@Fk@Ka@{AuDk@Wy@N]r@?t@z@~CZr@n@P|@YRWNe@Cq@aBcEo@S]D[RSn@D|@t@|CRd@RPh@Fh@Sb@q@Dy@kAiDUc@UQYEs@P[r@@r@d@xBl@xAt@T`A_@Vk@@}@aAgCi@{@m@Q{@RSb@?|@n@nCd@dAp@Tt@Ub@o@Fw@_AkCk@cAm@Sw@NUb@A|@l@zBn@tAp@Rn@Md@m@Dy@sAyDQWs@Wm@NY`@Kz@n@dCl@xAp@Pp@Md@g@Ja@AWSu@yAiDg@Q_ARSTEV?p@ZrAt@zBB@uAuEFw@N]\\Qr@Aj@d@fA~CNr@E\\OXk@^k@?i@a@{@}BYoAPaAv@c@f@D^\\dAtCPx@Ov@k@f@i@Bc@W}AsEBu@JWXSZI^Dd@\\vAhEGr@i@j@q@Fi@Y{AiEDu@^k@n@Mr@ZRZhAjD@^G\\c@f@g@Js@Y[m@eAeDFo@`@i@ZM\\?j@ZvAfE?d@I\\e@f@u@@g@]wAiEJ{@`@e@p@Gn@^vAnEIz@g@d@w@Ag@a@wAeENaAj@e@r@Bd@`@tAlEA\\M\\QTYLk@Ak@a@uAeEA]La@f@e@n@Ah@\\lAfDJl@Kr@a@b@s@B]IWYqAkEDa@Rc@^W\\Ed@NZZfAdDHl@Op@o@d@q@Ec@c@s@sB]uALy@n@e@h@@j@b@jAfDFl@Op@SV]Lu@Ka@a@IWb@z@j@Nr@QVc@oBkFjAdEB@wAaEvA`EEWmAoDE@vAdE?KuAyDpAbED@AMuAwDtAbE@K{A_ElAnDZd@b@pAl@|@zCwAv@m@AWk@kAW{@HWdImECOgAeAcDqCaBsBeDgD",
+"average_heartrate": 137.6,
+"average_speed": 2.969,
+"source": "strava",
+"streak": 7
 }
 ]
