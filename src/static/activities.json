@@ -60178,5 +60178,20 @@
 "average_speed": 2.969,
 "source": "strava",
 "streak": 7
+},
+{
+"run_id": 10168229330,
+"name": "Morning Run 10km in 25\u00b0C \ud83c\udf1e",
+"distance": 10514.7,
+"moving_time": "0:59:51",
+"type": "Run",
+"start_date": "2023-11-06 00:06:48+00:00",
+"start_date_local": "2023-11-06 08:06:48",
+"location_country": "\u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a\uff08\u6258\u7ba1\uff09, \u6d2a\u5c71\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430074, \u4e2d\u56fd",
+"summary_polyline": "khcyDcbnyTd@d@d@^h@d@JNHBTPd@p@nAdAt@t@j@r@NLAHEDiAh@CHYd@A`@@J?TCTDHE`ABTA|@RJf@@@FCZ@h@DLp@BVAXDHEDSBcCAMDsA?IIMICeAEQBKNGdAEjC?h@DJ`@BdA@HCF[@wCBeAAQGGQCoAAE@GHIvB@|@Cb@?\\FTlA?RBFAHE@YFuEAUIGMCaAEMBMLCJCh@A|BAV@l@DNP@l@A`@BLAFKAeBDcBCq@AKICmAEU@CBCLGhBC`C@VDBp@@^ARBJADI@mBDmCEIGIIAeACOBIFCDAZIpD@v@FFnA?RBNEDa@@sE?QGIMEQAu@CI@OHC\\GnC?vA@JJBTAjA@HCBK?qAF}CAMEIs@Gc@?K?IDGRIpC@jBHDH?f@Ar@@FEDG@}BBc@?uAEMYEq@EY@OFEL@l@GfB@`BBJBBpA?X@DABE@Q@gBF}BCUACk@Ec@BOCM?EBELIjDCZBP?f@BDDBbB@HCDO@}@BiBAuAIGsAGS?GJKjGB@BE?_@Dw@@uC@WBIB?D@\\@|@@HB@BGz@ExDCNIFQE]@_@COEEEBO@q@?cBDwADGfBBFLCRIjC@dACXGD]Cy@AIAEGDiEDu@DI~ADHBElA@r@EzBELED}AICCCO?uBHaCDCXBfA?F@BNG`AEnB@v@ETGBUCaAEIIFoFBMPGlABJBBHGz@CrB?x@CVIFWEeAEIIHyDFgABEh@Br@AF@DFEh@C`ECXKNSI{@CMGEIFmAAq@FyBDEt@@f@ALFGfAAfBCh@@ZANEHEBQG_A?MACODwABuC@OLCzABDDEpACfC@`@GPGBWE_ACMEAIN{FBGH?`@Dx@?DF@JG\\A~ACf@@`AERIDQCU@q@EKK?KHgABkD@EJA~ADBHGlACbDCPEFE?QCa@@e@EEGAIBmAGC]AOEGGB]BsEBOFSDAv@c@b@KFQAGs@a@{@gAwA{As@m@{DcE_A}@",
+"average_heartrate": 132.2,
+"average_speed": 2.928,
+"source": "strava",
+"streak": 8
 }
 ]
