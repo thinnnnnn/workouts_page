@@ -60298,5 +60298,20 @@
 "average_speed": 5.576,
 "source": "strava",
 "streak": 10
+},
+{
+"run_id": 10182317893,
+"name": "Zwift - Climb Portal: Col d'Aspin at 100% Elevation in Watopia",
+"distance": 28670.4,
+"moving_time": "1:03:30",
+"type": "VirtualRide",
+"start_date": "2023-11-08 11:41:56+00:00",
+"start_date_local": "2023-11-08 19:41:56",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "bt_fAev{y^{AzBaBfAcB^eDKWFKTfAdG`@zGGz@g@`AAn@jBtFr@vEfAhEFr@]fB@tAP~@`AdBm@~EXdGQr@eAxBEh@JpAM^YRg@DSMa@g@Su@?oA|@cCF}@Y{@kBoB]u@@e@h@{@Ay@W_CwAuHcAoDcDiFaByJu@yAqAu@eCq@aBMmCByC\\eB?aDdCmD`AeB~@[GcAeA_@JMTGd@Hh@X^h@VnAIbDgAjCe@hFYtBNxBf@dAp@b@`A@tAmAhCMv@Rb@hAd@^`@^n@Fn@mB|Ii@~CAlAb@zAE~@eCpKgApJe@rAcBpCW`AHV^XhCv@f@^VdA?xA]pA]f@}ALeAGu@Yc@i@[_Am@wDs@iCv@oOe@uMi@sGa@g@w@BYRI\\JzBq@nJy@rAyBpBy@`BoB|GsCbN_AxCmHxKgB~DgAvDyDlRIpATv@lA|@bBPh@v@RfAe@vHAlEJfB_CxLe@GKk@j@yI]{BgAyD{BcFc@_@uAg@g@q@_FgNu@a@_@b@Af@`@x@fAlEhDjQn@xIShAgArCGt@pBrFl@jFt@`D|ApEf@VlADvC~A|@bAtBvDlD|CfA~Bc@p@Ej@Jh@f@b@`AFt@c@Rq@Q_As@g@iADkAiCgDuCaCcEeAgAcCqAoAGe@UkBuFk@iCg@yEsBwFJw@lAaDJy@q@wIkDyQeAgE_@u@@a@TWv@j@rEtMb@p@~BjA~BlF~@dDb@rCi@`GCvAHXVNZC~AeHd@cDKaHf@_I[}Ai@q@}AMkAu@Ww@JyA`EwRx@wCjBgExHkLz@yCjCoMpBcHt@{AbC{Bv@wAl@wJK_BD_@VU^E^NN\\j@pH^vLw@xNx@hDl@pDXv@h@j@v@XvAFpAS`@m@ZoA?}Aa@oAwDyAUS?[tCgGvAaLfAaEx@eE?{@a@sA?{@xCgOKw@]m@g@g@kAg@GYNy@fAwBFw@Iu@Yq@}@u@}Dy@oCGkCRwHjBsAR[Gg@e@KYDw@PW^Bx@bAXB|BgAdDaAvC_CpB@hD]nC@rANbCt@dAv@f@lA|ApJfDrFrAbFzAjJB~@c@t@I^D^^r@xAxA`@z@AbAaArC?z@^lAd@d@VDdAe@FYCyBrAcDBeAYoEh@eDB_AcAeBOu@EoA^wBKaAeA_Ey@iFmA_D",
+"average_heartrate": 141.6,
+"average_speed": 7.525,
+"source": "strava",
+"streak": 10
 }
 ]
