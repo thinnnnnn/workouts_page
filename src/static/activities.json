@@ -60358,5 +60358,20 @@
 "average_speed": 1.545,
 "source": "strava",
 "streak": 11
+},
+{
+"run_id": 10188152576,
+"name": "Zwift - Sub Threshold #2 in Watopia",
+"distance": 39119.8,
+"moving_time": "1:11:15",
+"type": "VirtualRide",
+"start_date": "2023-11-09 11:37:54+00:00",
+"start_date_local": "2023-11-09 19:37:54",
+"location_country": "Usili, Temotu, Solomon Islands",
+"summary_polyline": "z_gfAoc}y^~I`B`FCd@^IdB^b@~Be@dDdA[bAaDN[lAzDrCbBjCf@`Ck@bGtBdBj@|Bg@|AQ~BeANmDcAkBlBHjAbCtB^pBqCPj@lCsAt@E|@b@fAnChA^dGnDbDnApDfDpAxAjBpFbAlBu@tFY|Al@^fChAhAxEw@nBtDpB\\jCSnAaB|@IvAh@XtBlErA|BiApAqEmA{B_DgBHeFrB}CrFaAfCgCxMGfJwGjGDnCeAtEd@tC|A`Ji@pA~CpBn@nIO~Ai@hBgE|DwBfAaHxLkObAaCbEuA`DeMa@gD`JqAl@{@]}AmBAwAsAcAkCmDfBmAs@r@mBm@eCfAkMkA_BYcI_BmBoGcAKyArIuAtDqE~BpCh@rB~@X|GcAbFyERyDrBqDTmBw@_BwGkBrAcFa@sFhGwAjDiJRkGhBiCn@eFtF{CbFKt@uAWkGXgC}G{B[s@zHaCFqBaI_He@\\U`EkGB]a@ImJqDi@OyOvCUdBcARy@_@iCsAkAh@kFs@eEwFwDoDcEaHdA}GuB}HFiBe@q@_BSqHkMwONeD|AwEOmA{C_@sD`C?jAvBfAM|AtAtCe@lAkADwIwVoEoA{@sEiEiAeEhBuAwBsDKk@gD_Js@_AsHbAoBdB}@@s@wCyByCg@oB_EuAu@_Bf@iFhFmAa@AsC{A]gDbByB_@mBhAs@pBeFmAiEtCcE\\mBiAKuB_AIcAh@{@pDgFmA{BdDmIRoD~BaCbDeC`IqA?wEmCyFtBsA~B{@xJmBlBgDGwHkD{EnAyBOkDvCuFp@cCbGu@`@uFcFyF^yEgC{Dc@iBn@uDxD{DNeBrAi@pBzAhEM~EeMnH}@`E{B`AoAxBbAnDzAl@hAxEi@nBkBZGl@`CPLj@iB~AeEtAi@tIhBhHbFtFS~G\\vBdAVxDiApGeErClCnA?\\oBsB}B@eCmAmBVqAtDQpJoD`KkA|HFxJzB`J~FlDxFsAlH@zBqCfAkBxD`AtBC~@eDjBu@i@y@Tf@|B}AzD^jFoFrEG~@r@pBjB`AI|BwAzA_CX{@`AIzJi@xC{AvBy@~CeDdB}@xCgEzCaExKEjF{AzEVxD|ElHxFvB|DzF~BvAnO|@bR{EdHfBdFAXdCb@b@`Cg@xCz@MfAcDPa@lA|G|Gh@fCk@bGvBhBh@tBi@bBS~B}@LmDeAoBjBLxA|BjB`@pBoCNl@bCuA|@BnB`DxAf@pGbDtCvAzDfDrAjA`BtFlAnHwA`BP~@h@hAzDjCg@pBDtAzClAj@",
+"average_heartrate": 132.9,
+"average_speed": 9.151,
+"source": "strava",
+"streak": 11
 }
 ]
