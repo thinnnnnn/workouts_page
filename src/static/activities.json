@@ -60313,5 +60313,20 @@
 "average_speed": 7.525,
 "source": "strava",
 "streak": 10
+},
+{
+"run_id": 10185977944,
+"name": "Zwift - Going Coastal in Watopia",
+"distance": 21257.5,
+"moving_time": "0:40:32",
+"type": "VirtualRide",
+"start_date": "2023-11-09 00:17:50+00:00",
+"start_date_local": "2023-11-09 08:17:50",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "|x`fAmmfz^v@wBP_AHuBQsAu@{@oEwAkAy@c@s@a@iAG_AHo@|F_Mh@{Ab@kBfAe@nAOn@FvAl@`AEt@e@|@wB`@g@vCGnA]f@c@h@oBEaB]u@qBeCQo@Lc@b@g@j@_@r@Oj@Fn@b@|EdIh@h@`@Pv@It@q@l@iCf@mA`@Ip@Lz@b@`@d@Np@KxBFr@`@`@lB|@R~@Wx@{Bt@[ZQl@I`CH~FqAhPGbBH`@l@hApCtCX~AZPvBBlA^p@DtL{Cp@?t@f@^lAXdDXhGDvDSbBeBvAW~@DrDh@zDd@t@jAf@xCEtAl@rBN~@XbBtAXhCd@n@f@Vj@K^e@tCaJ\\k@l@W`ALxAdAJ^DtAN^`@JzBEbANh@^tA`CpALpAQlA{@Tk@NcAWqBJaApCaDbB{@rA?nBXt@ZpBvAx@V|@@pCg@h@DnA~@zBrCr@N`@OVYlA{Dr@cA~@[xBAl@Kt@_@tAcBb@WfCNpCeAv@G~A`@vEfCvANzAGz@c@t@uA`@aCXmFVy@p@_AvBsAzBa@bAPbD|Bd@Dd@Mr@_At@kEZw@zAkAn@}AfAe@xAkAh@IzDFfBQl@[r@wBd@Uj@H~BdAp@?b@g@ZgCZ]d@Ox@L@hBz@Tj@r@TFrEe@`CsBp@WfABd@b@~@Z~@Dj@k@LkAzA_AXAhA\\f@@tBuAb@Kn@@^LNb@GvB`@`@n@BrAm@jDeEf@Wl@?`Ah@r@lBz@rAh@VjBLtBdAj@v@?d@oBhAq@~@Ol@^~BH~BVp@nAf@dEAhANXb@@|ARh@l@LdBI`@FXVn@vAXNl@GpAmAh@UnAFxBr@h@v@LbCVh@h@RbBB\\N^f@v@hDpClGvAjFb@|@\\T^Bn@W^k@@c@uAuCJaBY[}Ao@?}@dAkAlBs@hAC~@\\NZ@p@aB~EOpA@bAv@zAbHnHpBvCX~ACrEPx@X^n@\\bANnFOpAFpEbBjAPlAKbDy@r@?\\NpC|DxEpCj@|ARtBg@nFLVr@ZNV`@pA@x@St@w@Rg@h@sBCm@`@NtOZ\\`C@XRF`@@`IBPZXxGCN_@BaDZYv@b@`ErDhArA@v@U^uFlA",
+"average_heartrate": 113.5,
+"average_speed": 8.741,
+"source": "strava",
+"streak": 11
 }
 ]
