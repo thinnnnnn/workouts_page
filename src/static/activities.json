@@ -60373,5 +60373,20 @@
 "average_speed": 9.151,
 "source": "strava",
 "streak": 11
+},
+{
+"run_id": 10191554773,
+"name": "Zwift - Temple Trek in Watopia",
+"distance": 21261.5,
+"moving_time": "0:43:35",
+"type": "VirtualRide",
+"start_date": "2023-11-10 00:16:14+00:00",
+"start_date_local": "2023-11-10 08:16:14",
+"location_country": "Usili, Temotu, Solomon Islands",
+"summary_polyline": "p_gfAmc}y^pB?xAZzCbAvBFrBG^^@VObAVd@j@D`Bg@nATdA`@N`@a@n@cCDa@NUp@Db@XZdCvAx@v@dAnBvApEp@x@bAj@hAZr@Wh@eAI{Ab@g@l@IvANj@R^n@z@^FZ@nAb@f@lU|Hj@@zB[tBT`@VRdAzAl@^jCOj@{@p@kAc@q@P[h@@zAm@^}AJ}AWcAXa@A_CyAiBSwAc@s@V_@n@@v@n@lCW|BBp@p@|@nAf@JXs@tB@n@\\h@r@j@pBf@rAhAp@PpCkAjBDr@o@Vw@S{@?_@p@aAF]o@aB?]Ve@z@OrBPVTt@tAl@Vr@Od@oAVQj@NbAhAl@Vr@I~Ao@`@@pBjAxBb@NXNxAbATfFHhEUr@YjAiBxEmCdB[dD^vBaAl@EbBHlB^dBlAh@JvAElDk@vAFZXt@dC~Al@vCJxB_@lAFp@OdAo@j@}Bt@aAv@m@vAa@^[X}@j@_FbMuOz@wBj@[xBa@d@a@~CeMCm@c@uAJk@xAK~Ag@zCOh@a@Dy@Us@a@UeALYKyA_BOuA]][GYHkCbBe@OYc@C[h@i@Lg@Ck@c@i@Ge@hAmMIY{@}@IYIqFMkAc@cAk@a@aAUyCYaAYQa@Du@LUp@U~DOjAWv@q@jA_Cr@a@b@Fd@tAv@n@j@vBx@XbDy@zBGl@c@zAqBzAeAPk@BmCxB_ENu@Aw@Uy@e@_@iEm@o@YW]GWFe@rA}CAw@e@iC@k@`@k@hDIf@QZa@t@{CnBaENgAFiEPg@vAeBNoDb@w@zAmAfCcA~@KtC@d@OZ_@Ng@Bw@YkFZeAAm@s@u@gFeAWQG[H[VQtGyAVi@?o@M[kAmAuEgE[I[HMVCfDOVuGAS]A}Ic@e@{BAYSSkOd@_@xB?b@g@z@WVy@A}@a@sAWa@w@a@?o@f@gEW{Bi@yAwEqCy@y@_BcC_@SgAByCt@gAJgAQ{CoAeAWsHJu@Io@Ya@g@Oq@B_FWuAeBmCyGcHiAgBEkAP{A~AsE?m@Ui@eA_@{AFwB`Au@dAEj@JXrBbAKbBrAjC?h@QXe@Za@B]Sa@s@_B_GoCgG{@oDY_@e@UqBEYMSg@KyB]u@mAm@eC_@u@R_BtA[BYM",
+"average_heartrate": 101.1,
+"average_speed": 8.131,
+"source": "strava",
+"streak": 12
 }
 ]
