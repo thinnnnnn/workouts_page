@@ -60463,5 +60463,35 @@
 "average_speed": 3.235,
 "source": "strava",
 "streak": 16
+},
+{
+"run_id": 10214556405,
+"name": "Commute Morning Ride 4km in 15\u00b0C \ud83c\udf1e",
+"distance": 4513.9,
+"moving_time": "0:12:08",
+"type": "Ride",
+"start_date": "2023-11-14 02:36:53+00:00",
+"start_date_local": "2023-11-14 10:36:53",
+"location_country": "\u5149\u8c37\u4e00\u8def, \u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a\uff08\u6258\u7ba1\uff09, \u6d2a\u5c71\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430074, \u4e2d\u56fd",
+"summary_polyline": "epcyDqjnyTpDlDbDxCNRlClC`AdA`@^lB|AnAr@rA|@\\PrBt@j@LVZVFEHb@J^`@h@NZPJA|@`@pA\\pANpE~A|Ab@f@FpBNb@HnBVlGl@~ATbCXlBPV?ZFjC\\d@DpAR~ALjB\\bDPhBRv@@|@XTPNRDJBL@h@OzDBv@I`C?zAS|BGbA?pAG~AEbC@zCIxB@n@Wz@@RU~@Ch@]lBE^CzA?|COvC?zAEdABVHTJPPJHBrCPfAJnA@TFd@DxFXn@D",
+"average_heartrate": null,
+"average_speed": 6.2,
+"source": "strava",
+"streak": 16
+},
+{
+"run_id": 10215537078,
+"name": "Commute Afternoon Ride 4km in 15\u00b0C \ud83c\udf1e",
+"distance": 4898.7,
+"moving_time": "0:15:23",
+"type": "Ride",
+"start_date": "2023-11-14 09:00:08+00:00",
+"start_date_local": "2023-11-14 17:00:08",
+"location_country": "\u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a\uff08\u6258\u7ba1\uff09, \u6c5f\u590f\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430074, \u4e2d\u56fd",
+"summary_polyline": "sk_yDeljyTKSUG_BIoAK_@?_@G_AAgAMo@@UGaAMsAKsAOKGIMCQXgJEeCB}@F}@F_@T}@Rk@A[La@AKBWAq@HuAASDc@?GGBACk@@SDKL_@?oTyBuD]uAG{@SmHw@s@OIGMSAYBo@LiBP_BH_CFy@@g@JcACWQUMYOISEmBSmBYiAWAAE@m@CeAWqDm@}Bi@g@EeAWeAM}@WaAMGEOe@@ULk@Di@R{ALgBXmCJqBD[La@AWEGMGu@GOOW?KUMOOGYIiAe@gAa@USa@U_Ay@qAu@y@s@w@aAoBgBoAwA_D{C",
+"average_heartrate": null,
+"average_speed": 5.307,
+"source": "strava",
+"streak": 16
 }
 ]
