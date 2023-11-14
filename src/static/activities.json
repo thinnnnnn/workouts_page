@@ -60493,5 +60493,20 @@
 "average_speed": 5.307,
 "source": "strava",
 "streak": 16
+},
+{
+"run_id": 10216393076,
+"name": "Evening Ride 21km in 16\u00b0C",
+"distance": 21115.6,
+"moving_time": "1:02:19",
+"type": "Ride",
+"start_date": "2023-11-14 11:19:17+00:00",
+"start_date_local": "2023-11-14 19:19:17",
+"location_country": "China",
+"summary_polyline": "",
+"average_heartrate": 125.9,
+"average_speed": 5.647,
+"source": "strava",
+"streak": 16
 }
 ]
