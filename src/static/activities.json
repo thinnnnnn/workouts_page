@@ -60553,5 +60553,50 @@
 "average_speed": 10.161,
 "source": "strava",
 "streak": 17
+},
+{
+"run_id": 10226509579,
+"name": "Commute Morning Walk 0km in -\u00b0C \ud83c\udf1e",
+"distance": 862.9,
+"moving_time": "0:08:42",
+"type": "Hike",
+"start_date": "2023-11-16 02:22:39+00:00",
+"start_date_local": "2023-11-16 10:22:39",
+"location_country": "China",
+"summary_polyline": "",
+"average_heartrate": 93.1,
+"average_speed": 1.653,
+"source": "strava",
+"streak": 18
+},
+{
+"run_id": 10226509578,
+"name": "Commute Morning Ride 1km in -\u00b0C \ud83c\udf1e",
+"distance": 1312.9,
+"moving_time": "0:05:30",
+"type": "Ride",
+"start_date": "2023-11-16 02:32:14+00:00",
+"start_date_local": "2023-11-16 10:32:14",
+"location_country": "China",
+"summary_polyline": "",
+"average_heartrate": 96.4,
+"average_speed": 3.978,
+"source": "strava",
+"streak": 18
+},
+{
+"run_id": 10227390631,
+"name": "Commute Afternoon Ride 2km in -\u00b0C \ud83c\udf2b\ufe0f",
+"distance": 2334.9,
+"moving_time": "0:10:20",
+"type": "Ride",
+"start_date": "2023-11-16 08:55:04+00:00",
+"start_date_local": "2023-11-16 16:55:04",
+"location_country": "\u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a\uff08\u6258\u7ba1\uff09, \u6c5f\u590f\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430074, \u4e2d\u56fd",
+"summary_polyline": "qm`yDaskyTsKeAiEY[E",
+"average_heartrate": 96.7,
+"average_speed": 3.766,
+"source": "strava",
+"streak": 18
 }
 ]
