@@ -60628,5 +60628,20 @@
 "average_speed": 3.123,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 10245312882,
+"name": "Zwift - Zwift Academy 2018 Workout #2: Strength Reloaded in Watopia",
+"distance": 50285.2,
+"moving_time": "1:26:04",
+"type": "VirtualRide",
+"start_date": "2023-11-19 11:00:16+00:00",
+"start_date_local": "2023-11-19 19:00:16",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "ly`fAonfz^x@_DG}DmIeEiAsFtIuSzCo@vDt@rCcEvGmAf@eEeDsFjC_CzAb@rHhKjB_ArAsElDdAL`FfDbD_EtDoA`a@lFbIfGj@bLyChB`@~AhTUxB}BxCn@hJxB~A`LpA|BdFfA|@lAs@xEaL~CnAl@|CtENdEpDrDwANuGvFaFrE^bFhCfFc@rFbFjAm@|B{FfFi@nDyCtI_AxHjDxD@bBoB|@wJjAwBtFwB~EnCvAKvBsHpHeHrIUzBeDjFhAvBwE~@LLpB|BfAbEe@|DmChFhAx@}B|Ay@zB`@`EeB|@`@ApCpA^|FsFzAUvDrFhHpCmDxE~@|HbJx@b@~CbEVpAvBdEgBdEdAx@pErEtAzIvVpAIh@yAwAwCJaBmB}@CmApDwBhCXoAhHKdDbMlO^pIn@jAzKZfHvBtHaAdDdEzEvC`ApEi@fFvBxEsBzB}CVHvOvDt@`@lKxGDv@aFxHvGIjByHrCtHxCBpK{@xAaFLwF~Ck@|EiBpCWtGeDvIiG|A\\xFuAzE|GtBt@rAkCjHOnDcFvEeH`AcF{GwDrEmIpAH`B|GlAtApBTxHjAjBiA~Ln@vBe@jCz@h@`EeBx@hCvApA~AEd@vAo@x@yIhA\\rDaD`MeEtAwNbSmAjHmDdBcB`EoB~@_JJ{Am@sA}CmJf@gC{AyEg@wCfAwGAwIpGgNNwB|BwFbAyBfDElFlFbFwAhEoAt@cFaA]wBaBq@iCjBeCT{Bc@mBoDyEr@aBmE}Ak@qJlAeFaAyFuD_BeEwC_Ck@{GqDgC|A{Bm@iCnCQsDiHnBmBpFr@|@wF_DqEh@}F]}BkHoHXcAlD[?uAyCw@yBh@s@eD}FEwGcBwR|EoPyAcGwHkGgCkEyGWiExAcEz@iLiZkINaJ_@sAsBlAaBvGq@g@IoEoA{@q^cGcMZwEsMmBeB}Bp@e@pCtHdQcM~BkAzA~@r@rM}@mNnBYp@jOv@f@~DbClEuCfBAv@dAlC~AJTz@aDb@hAnAUd@iDo@{Bh@wGlGmBtLNbVwGnN{BvBaAbEcFjC}G?Pu@zCe@?m@aAa@yFhBoEgDFiCjB_Ak@{JiAe@oCr@y@fBoAVyCqGxFkL{GcVnByAxD|Bb@cA{EwKgKsDoFuDkCyIl@oCtIsHkD{D~B_BqAcMd@gFwBwCa@iClEwMn@uHy@oIsBqCeBqGdEaTsAsCgFeCoBeIv@mGwBuFv@}@|C?d@iFfBg@xEdB^tCxBt@_A~Cr@pAdIShByAl@gBmA{DxCwCPuDuBcGgGmGlAkFvEoB",
+"average_heartrate": 135.6,
+"average_speed": 9.738,
+"source": "strava",
+"streak": 2
 }
 ]
