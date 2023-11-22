@@ -60703,5 +60703,20 @@
 "average_speed": 3.484,
 "source": "strava",
 "streak": 4
+},
+{
+"run_id": 10260218164,
+"name": "Zwift - Threshold Development in Watopia",
+"distance": 48699.9,
+"moving_time": "1:18:38",
+"type": "VirtualRide",
+"start_date": "2023-11-22 00:21:04+00:00",
+"start_date_local": "2023-11-22 08:21:04",
+"location_country": "Muie Village, Temotu, Solomon Islands",
+"summary_polyline": "ln`fA{qcz^lA{BoAkExCuCTeDmBeG{F_FSwAtA}E|DyA|@sAAeEeE}F|B}BKyCnIeTf@qEy@cCkH{CgAsErIcTtCu@hEp@rCcE|CIvBgA^kEaDmFrBqBxBb@bH~JxBcA`BuEdD`BHvEbCrA\\dAcEdE?bKsAvS|FzIvFh@zL}CbBr@tAtROlCeCnDjAnK`Fh@xGxA`BtA\\pCpA`A~@i@|CmJfA_AtChAr@dDvELnCjDhCG~AkAVyCmBkBsCNaCpCgECm@[_@mCuCmAmA|@yCdJgAr@cA}@e@{CaBmAiGwAcFc@{@sCScG|BuCT{CuA_S_Bw@yL|CiGg@sF_JtA_SB}K~DwDWeAmC{AGuEoDcBiB~EcBz@oHiKyB]yB~BbDrFa@zDyGrAiC|DaEo@gDx@oI|SdA`FtHbDn@tBe@lEsIrTJtC{BbCdEtFB`EeAvAyDtAsA~ERzAfGpFdBxH]`BqChCjAhEaArBiA|@_E\\aD]QcAdCyElKmDtAgCgBwIcGmFSkApAaFdE_B|@uAGiEcEqF`CiCOuCxIwT^cE{@_CcHsCmA}EvIcTtCs@jEn@lCaElGgAh@oEcDoFtBuBtB`@bHbKvB{@`B}EfD|ADtEdD`D_EpDAtKqA|StFrIlGh@jLyCfBv@pAfSQ~BaC|CfArKtFp@jGxAzAlAb@vChA|@`Ag@zCeJhAgA~CrAZlCnF`@bCbDlCEnBsBB{B{BiBsC`@cBbC_FA{@aDaDsAiAz@sEzKoA}@g@_DaBkAoGwA_Fe@kAmKbCiDNmC{AgSiBm@{L|CaGm@iFyItAmS@oK~DsDYoAkCyAEsE}AsA_BIwArEeB`AmHeKsBe@cC~BdD|Fk@`EoGdAgC|DmEm@_Dx@mIvSFxB|@lBrH`Dn@nB_@lEwIpTH~C{BdC`EhFFfEw@nAqEnBkAbFVjAdGpFdB`Ic@bBkCvBjA|EmApBgGpAuC]SgAbCuExKuDlAoCkBmIgGqFMkAlAuEdEaBbAaBG_EeEqFzB}BGcDpIeTd@iEu@eCwHgD}@yEjIoSzC{@~Dt@vCcErGkAj@eEeDmFtBaCtBb@nHbKpBgApAoErD|ADpEjCzAXlAaErDCtKuAdS~FbJ|Fh@vL{CdBp@rAbSWpC{BzChAnK~Ej@`H|AzAnA`@vCfAz@`Ac@`DsJpA_AlClAj@~CdFT~BbDpCChBaBFoC{BgBgCZsBjCkEAq@][gCaDoAiAdA_DlJ_A^aAaA]kCmB{AkMcBeA{Ae@cGHoBhBcB^oByA}TiBq@sM|CkFm@]_B",
+"average_heartrate": 142.4,
+"average_speed": 10.322,
+"source": "strava",
+"streak": 5
 }
 ]
