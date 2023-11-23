@@ -60748,5 +60748,20 @@
 "average_speed": 4.074,
 "source": "strava",
 "streak": 5
+},
+{
+"run_id": 10265838214,
+"name": "Zwift - Jon's Mix in London",
+"distance": 32808.9,
+"moving_time": "0:55:21",
+"type": "VirtualRide",
+"start_date": "2023-11-23 00:20:38+00:00",
+"start_date_local": "2023-11-23 08:20:38",
+"location_country": "The Mall, Westminster, Covent Garden, City of Westminster, Greater London, England, SW1A 2BB, United Kingdom",
+"summary_polyline": "yajyH`z[IvIBh@DPJCFk@?kIn@mb@BuIPm@Z]rA@\\M`DmDTe@BYkDcs@?{Bj@cPAgCI_@QOg@G}H@kCNqFbAcBh@cGfCo@L_@C}@u@s@YKS}CmHuEsLwBoGw@_DKOMJ@VLn@fA|DvBjGdEpKFfACxDFb@RNpB_@VFNXXdBPVl@Hh@ZPR`@v@lPni@~I~YDZA^UnBEdLu@|f@?`BBXLJHSBs@@gLh@}]DyJPk@\\[tAB\\Q~CkDRe@BYq@}LyBke@@aCf@uO@mBIq@YYiAEqHBmCTkFdAiIbDkAPeAy@g@MOOsDuImEcLoB}Fw@_DIUMAETJn@n@fCjBrFhF|MJ|@AnE@ZHR`@BpA]^BVb@NfAPf@j@LZLZT`@r@pQzk@bI`XF`@A`@SdBEhLu@jg@?jAFl@L?Ho@?aJl@{a@@iINm@Za@`@Gr@F^MbDoDRe@B[{@wOoBub@?wBh@qO@mACkAIUKKk@KkIBqCPsB\\kCn@qIfDs@JOEq@m@{@[MSyCgHwEuLyBuGw@_DMUMNRtA|@|CzBtGbEhKJz@CzDDz@NNR?jA[d@CNNJVTtAJVNLd@B`@Tn@z@nRjn@hHbVD`@Y`CAjJw@ri@@nADVL?Fq@@uJl@ca@D}C?yDTo@PQ`BAPK|CgDXk@D_@kDes@?mBj@sP?yAGy@]]c@EgIB{CRkFfAqIfDeALaAw@y@]eD}H_FgMoB{F{@iDMGGTRhA|@`DhBnFzE`MDt@CzDFp@LLP?pA]^AZ\\`@tBLLn@F\\TZ\\Vf@`Sxo@bGzRPt@@\\WrBCxJu@nh@AzAHj@JAFm@@sJl@ya@@sHPu@^a@nA@b@Q|CiDVm@?]_AkQiBw`@?qBh@sO?wCGYOOa@K{IBgCPgF`AcJnDeALaAw@w@]MW{CgHsEqLqB}FcA}DQCCZFZbAzDzBvGnEbLDz@CzDB^HVd@?jA[d@FVn@TrALRd@Db@P^`@Zl@zRjo@xGvT@b@S`BC^CrKs@bg@AlBDVJHHSBs@?yIl@cb@BwHRs@LSf@Kz@Db@WrC}CXk@B_@kDas@?aCh@uO@mBGq@Y[gAGiHBmDVyEdAkIdDeANeAw@q@WKOkDcIoEkLqB_Gy@gDIQM@CTXrAb@dBlAlD",
+"average_heartrate": 140.0,
+"average_speed": 9.879,
+"source": "strava",
+"streak": 6
 }
 ]
