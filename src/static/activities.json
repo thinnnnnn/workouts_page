@@ -60808,5 +60808,20 @@
 "average_speed": 3.003,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 10284978338,
+"name": "Zwift - SST (Long) on Greater London Flat in Watopia",
+"distance": 75336.2,
+"moving_time": "2:10:50",
+"type": "VirtualRide",
+"start_date": "2023-11-26 11:43:20+00:00",
+"start_date_local": "2023-11-26 19:43:20",
+"location_country": "Usili, Temotu, Solomon Islands",
+"summary_polyline": "j`gfAqc}y^rP`B|@hD~GVuElD`NrQtB^jAqE~CClDrFfU|H`HClChCR|D}D`@cA`DuTaA\\|JhClBk@|D`HfEdI{AhB{L|FtCdBoBzCjB~Ds@dIxFvLK|IsGlLaA~IbCrIo@fErEzKc@`IoIpAmHtNcShEwA~CeM]oDjKgCiH}HqF~@dAeUaB}K_KwGjIqA`EuE`GzG`G_AfF_FxCuMsIoEr@mMlGaBvI_^`OuEPsL{HiDlIiFgIwHu@vE}GHYaKwDu@SsOvG}CwB}EY}LcK}I}H~@}TuCgAuKeMmOzAoMwC_@{DlC`EtJcB`BcJ}VqEqA_AwEcEeAaEjBuGoCk@aDyIq@_AiHjDqFsH{CqDmFuIhGsDoEiHfAwCrDmFiAcKpDqDiEmC|EuEqAeChDoIR{HlHaCxHyGoCyFhB{FlRqNoDkI~@cLfE_EfHoFaF}FZsJiD}P|GkAbDnA~KkMxHeGnJdF|L}CvDpCz@oH~Dg@bJjIvOX`L~NgGrF~BiCqP|c@aG|KtBbKvGdJlKhAbMjFcBp@qIrCo@pAnOpExBtB_FuAsc@vRUpA|GjEfAbHqC~C_M~HyCpQhLd@pDvIlGK|EfEzHgDtKz@zIqGtE{DuB{BhAyCjGtD|GmCxI}Vn@kC}EgMeByCiLwN_A_HtHoDpK`@dSrGvJuA|GoJrFgJQ}BtEjDjAdEsF~MyF~AsHoGoJm@_RuBzQgDvB_FfP_Ev@RqJaFpCoCpYiD}Af@yW}BwCcCjE@`PcBjFyFgDlDyN{BuA_E|FkClPuB{CtBsK}C\\aFpU~C~KtR|OzOhA~Q}E|OdBj@`DjHZsEnDpMhQbCh@fAkEnCMjE|FbUxHzHNrCnGoEfAk@vCmHV{KuAVtJlCxBk@zDpHlE|HgBRwJnA{@|FtChBqBbDnBnDw@hIzFxLMzIqGfLaA|I`CjJg@zDnEpKc@fIsIlAkHvNcSdEqAfDyM[gDzJcBoCeCiCsE{Fx@hAsTcBkLcKsFzIyBnDoEfF|G~GaAdFyE|C}MsIqExA{Ee@iFjGaBxIe^nOwF@}KwHkDzHaCFqBaI_HaA`FmGA]iKuDq@MuOrGwCuBsEGkLkL}JcHdAcUsCeAsKeMmO|AmMyCg@wD~B~DlKiBvAcJaWeEaAcA}EqEgAuDjBuGmCg@aDaJu@}@wHjD}E{HgDwC_FeJ~FwAsDyA[qHhAkCrD{FiAqJpDgEgE_CxEmFkAiB~C_OlC}GrNqGoCyElAsDfOoBbCeNqDqI|@aLfEuDhH{FaFuF\\uJkDaQzGoAfDjAdLaMlHgGlJdFdM{CbEnCl@iHrDq@~IjBlH`FrFTdLrN_GqJdFcf@hL",
+"average_heartrate": 150.0,
+"average_speed": 9.597,
+"source": "strava",
+"streak": 2
 }
 ]
