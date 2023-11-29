@@ -60898,5 +60898,20 @@
 "average_speed": 5.375,
 "source": "strava",
 "streak": 4
+},
+{
+"run_id": 10298482104,
+"name": "Zwift - Group Workout: Long | Fast Twitch HIIT | ZA 2023 on The Big Ring in Watopia",
+"distance": 38523.2,
+"moving_time": "1:06:11",
+"type": "VirtualRide",
+"start_date": "2023-11-29 00:00:01+00:00",
+"start_date_local": "2023-11-29 08:00:01",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "ly_fA{_dz^vCdBDxB~Bz@cAtC|@zAfIYfCwCkAcF|C_DF{DqBwFsFwEMgAlAyEhEcBz@qAAiEeE{FzB{BEiDhIuSd@uEq@}BqHaD_AoBIeBtIaTdDu@pDr@dDkErCCtBcAf@kBCaBaDcFv@{AhBi@rAr@~GxJrBcArAoEvAHtAdAJ~EfCxA\\~@Y~@sBp@s@jAAhKoAbTxFtI~Fh@dLyCfB\\z@tEb@fMUdCyBhCl@~JnBzAnCG~G`BrAdA^rChAdAhAg@vCaJlAmAzCnAf@xCvERxBvCvAXdDoAd@sBMiDtFaFjE\\bFhCfFe@vFdFlAo@`C{FdFg@hDwCnCJnEkAlHfDzDFfBmB~@wJtAcC`CuAvBWpEnCbAA|@cAtAiGnA{@t@kB`DqBxIW|BcDzElA`AoDz@k@dAP@hBzChAnDa@zDmCjFjAp@sBzA_AfCZ~DaBz@`@@tCjAXrGaG|AAzCbFpCb@`DzBIr@eBx@aAnBz@lHvAj@lGPp@hDlDHjB`CtDkBbE~@hAdFbE`AdJ~VpAS^sAqAiCJaB{BwAB{@hD{BxC\\HtA{AdEMhDlM`PRlHj@xAxBl@rHEvGrBjHgArDjE`FzCz@nEi@fFtAtA`@`CU~@{Ax@{B?i@h@PhOvDr@ZfKdH@LqDb@i@hIfIU~@oGvAk@z@~FrBz@x@_@|BFrHy@j@uEFmFxCq@hFkBnCQdGcD|Iu@p@cDFu@l@`@hFwA`FlAhAjEl@x@xAObByB~DQtDcFvE}G`As@YgCwFk@I_ErEoGf@{@n@FxA~GlAtArBRvHlAjBiA`Ml@fCk@nBbAt@xDiB~BhEtBJh@fAc@hAgJpA`@jDaDdMgEvA}@zB}LjOoAhHsDlByAvDiAr@aKT_Bq@}A}C{Ij@mC}AcFc@mCbAqD_@wAXmFxCkBxBkNLmCjCyEp@}BtCa@rEd@nAtD|B^tAoAxDwBdAkEsAUqBwAk@{@@}AjBwCNcBc@iBmD_Fn@{@_A_@iCqAk@iGPqBv@iF_A{AmB_DiA}AcEsCyBk@aCCaDqCkA_@w@DcAvA{@i@iCjBN^a@g@{BmBuA_@mApBuBhDfAlAWNgCf@iBo@yBuBgBn@oF]}BkByC}DkC\\qAdDSHsAeD}@{Bd@[c@Q_C}FCsGcBgS|EyOsAsGaIaG_CqEaHUuDxAyEAsEhAkDa@{@cYeHs@qBr@eGc@oAy@Hw@jAu@lFi@d@q@e@GoEm@o@c`@sG",
+"average_heartrate": 139.6,
+"average_speed": 9.701,
+"source": "strava",
+"streak": 5
 }
 ]
