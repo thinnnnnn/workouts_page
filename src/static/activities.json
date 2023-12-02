@@ -60988,5 +60988,20 @@
 "average_speed": 3.575,
 "source": "strava",
 "streak": 8
+},
+{
+"run_id": 10313930201,
+"name": "Commute Morning Ride 1km at -\u00b0C \ud83c\udf1e",
+"distance": 1540.2,
+"moving_time": "0:07:46",
+"type": "Ride",
+"start_date": "2023-12-02 02:18:22+00:00",
+"start_date_local": "2023-12-02 10:18:22",
+"location_country": "China",
+"summary_polyline": "",
+"average_heartrate": 103.0,
+"average_speed": 3.305,
+"source": "strava",
+"streak": 8
 }
 ]
