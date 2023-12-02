@@ -61003,5 +61003,20 @@
 "average_speed": 3.305,
 "source": "strava",
 "streak": 8
+},
+{
+"run_id": 10315608493,
+"name": "Zwift - Race: Race #1 | Rolling Highlands | ZA 2023 (A) on Rolling Highlands in Scotland",
+"distance": 27022.0,
+"moving_time": "0:40:51",
+"type": "VirtualRide",
+"start_date": "2023-12-02 11:00:18+00:00",
+"start_date_local": "2023-12-02 19:00:18",
+"location_country": "Portcullis Buttress, North Ayrshire, Alba / Scotland, United Kingdom",
+"summary_polyline": "eqrrIt_{^aBq@cBH{@iAo@I}@vBkBnAa@nCq@n@aCmEyB^y@lB_@pFm@tC{@rAcBj@cAhAoCvKgAzA_A[iB}Ek@a@wFpD}Aj@eBwB}ChAaCqC}@\\_FdH_APiB_E{@mF_Bm@y@dCfAfDW~CsGtBsCvCYbA?tAp@zA~DxA`FiApD^`AxAZtFjBtCdBwCf@uBW{Bf@sCu@wFv@yCmA{GzAqCdAKzBlCvCgAzApBjBq@rFmDr@p@`BpEfANj@}@tCiLjAqAhBq@n@gAf@cC^yFt@mBbCq@jCtEd@k@j@}C~Ay@`A}Bp@@v@lAvBKzGzBjNfAv@|A?dFTjB`DpFb@bCdB`EZzHc@|CqBQy@lEsCr@{@bDEtB~@~AnJv@t@`DRrJKzBg@|@mDFaCjBgAhCYhEcBrBkFC_B|Ae@[_@aCe@]_EeAeHBg@p@{@xDmJbKmFnJcBNcAw@gBwF_AkAyFZmA_Aq@_Cy@yGqEqKm@mFhAeJz@gBnAb@PtBa@jAa@J{CqCuCrAmBmFqCjDiB_B?_BhByEOgDd@oCy@eFn@eBHqAeAuDm@WuB`CaAKaBoEk@iE{Ay@k@z@UxAfA~CWvCwGzBqCpC[lC`ArBzDpArEkA`Ef@x@`BZlFdBlCz@eAtAiEUoCb@sCu@eFn@wADkAmAaGP}@nAcBx@KfCtCtCiAtApB|IaFt@l@lBzEx@Jp@aAtCiLlAqA~Ai@r@gAj@sC^sFr@iBdAs@hADdBzDb@P~@wDrBqA^yA`@]f@Fj@dAhCAdGpB~NjAt@`BPdIbDtFj@vCbBdET~GIfBc@jAiB[w@nEoCh@}@jDGtB~@zAvJ`An@|CR~IMfC]|@{DN_CjBeAjC[hEcBlBkF?cBxAi@q@YmB_@YoEiA_HJeBpFiJxJ_FbJkBZoAmAkAgEgAeB{FXgAo@q@aBcAcIqEgKo@wFfAkJz@iBnA\\VrBUdAe@`@sDuCeBxAg@CgBmFk@VgBpC_BmAE{BjBaFSsCf@}Bw@uFv@kDiAgE{@SgBzB}@EgBuEe@_Em@y@w@G}@lChAlDUlCm@p@gFjAaDlDKbCt@~A`ErA|EiA~Dj@n@dATnFjAdCl@\\dC}FUeDf@eCy@wEx@aDoA_HtAsChAQ|BrCzCiAt@|Ah@RxGoEbAQn@p@bBpEz@Rx@mAxCoLjDqBr@oAdA}Jr@eBjCs@hB|Df@Rz@uDpBqAr@qBr@Cn@jA",
+"average_heartrate": 151.1,
+"average_speed": 11.025,
+"source": "strava",
+"streak": 8
 }
 ]
