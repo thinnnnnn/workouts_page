@@ -61018,5 +61018,20 @@
 "average_speed": 11.025,
 "source": "strava",
 "streak": 8
+},
+{
+"run_id": 10320269432,
+"name": "Zwift - Really Saw Legs in Makuri Islands",
+"distance": 43555.3,
+"moving_time": "1:17:08",
+"type": "VirtualRide",
+"start_date": "2023-12-03 08:07:04+00:00",
+"start_date_local": "2023-12-03 16:07:04",
+"location_country": "Lata, Nuva Station Ward, Temotu, Solomon Islands",
+"summary_polyline": "tow`Agvcs^cAh@gEq@iJl@wAeD{BcBeF^}H}EyDtAuEwD_GnAsAqAMuC}@g@oEdB_AlBmB|@_ITyH_Du@aCoBiAbB_FcAuCDaCvCiCZkCe@yFqCyDlA_EuA{Cp@uApDg@r@qBvDu@^qA{AyA_Hm@CiCtB_@qCEa@_AnELfBjC|@_A`BdArAeAjGe@bFlAmBsENgApGv@~AiAWiBcI_@eJjAqCxAwBiBtA_DcGgEsAv@mEiCoFjHoL{CaEwBoCuDwEy@sEaHEoCfAyA_@q@}Ee@yGhEgBSAuCsAkB~@aNeHiFsGNkF|CPrMxElDm@~ExBlHa@bB|@hBOhBhCzLGdJtCnJnEm@~I|SxBPlCzBrD@zDtGbFyChFFx@hFzB`C[hBiCjCGtB~@zAlHfCjE_@dCeF_AwGbD}CRaCe@yFqCcElAyDoAyAAoAx@iAbDc@|@uBfDk@f@qAeAwA}H{@HkCpBMaDWM_A|@l@l@m@~AVlBhCt@_ApAdA~AcAzGg@lOlDbBpBtAq@a@}BhBs@pCxBxAtF`IA@pEuA`DdAxIpCjCxHrA~I`L?`BoB~BrC~DY~G~EtDfBdJ_Ar@sEq@gJl@sAeD{BeBuEf@mIeF}DvAiEuDyGbAaAmAKkC_Am@oEfBgAtBiBt@wHTaIeDo@yBqBwAdB}EeAqCBuBzCqCXgCc@yFsC_ElAsDuAgDv@sAhDc@z@uBpDs@^sAwAwAaHk@GiCxB_@yCK[{@jBEfBVjBfCp@}@zAbA`BeAhGe@dFlAoBsEPmAnG|@|AeAUkBaI_@cJhAyCxAuBeBhAqDsFyDgAz@}EkCyFjHcKkC_FeCuCwDsE{@uEcHEiCdAkAa@gAgF_@gGdEiBME{CqAyBbAeMuH}FqGZyFtDr@rMnEtCo@pEzBvHa@jBz@zAQzApC~MMjIxCzJnEm@vIrSdCXvC~B`DErDtG`ABfEcDxEXh@tE~BbCQfBuC`DGbB`AbBzIdCrDe@jBqE}@{G`DaDVcCe@_GqCyDlAyDsAkDx@mAdDc@|@uBpDq@\\wAoAoAgHm@GmCvBY{COW_AlBCdBZhBdC~@_AhAdAzAcAxGg@vOpDdBlBlAo@]eC~Am@nCnBdBbGjCXrDYApEsAdD`AjIpClCxHtAdJhLC|AmBzBrCfE]nG`FxD~AdKoRPgEcGmA[yCx@kIcF{DxAgEuDwGdAaAoAKkC}@k@mEbBkDlDgIT_IiDm@wBmBcAbBoFcA}F`D_DTeCg@_GmCoDjAaEuAuCt@}AnDi@v@sBjDk@d@wAkAsA{H_AFaCvBY{CKWaAlBAhB`@",
+"average_heartrate": 129.7,
+"average_speed": 9.411,
+"source": "strava",
+"streak": 9
 }
 ]
