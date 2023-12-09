@@ -61213,5 +61213,20 @@
 "average_speed": 3.859,
 "source": "strava",
 "streak": 13
+},
+{
+"run_id": 10348051391,
+"name": "Zwift - SST (Long) in Watopia",
+"distance": 85128.6,
+"moving_time": "2:10:38",
+"type": "VirtualRide",
+"start_date": "2023-12-08 12:03:08+00:00",
+"start_date_local": "2023-12-08 20:03:08",
+"location_country": "Muie Village, Temotu, Solomon Islands",
+"summary_polyline": "jn`fAyqcz^nAeCoAcEnDuH}JoQrAoE`G}DGyDeEqFhNoc@q@iCyHgDaAoErI_TxICxCcExGsA\\gEaDmFlBsB~K`LrEsGhDnAJ|EfDhDaEtDwA|_@xF~I|W}@tAjRuCnInAjK|NbC`E`HvHuMxK`GnChD~FsCaDsEmEhDgF?uEuFqHtMeEeHsN{BmAqKrCyH{AcSsWdAyFoIrAi`@`EaEgDaDM_FsDqAmErG_LcLwBvBbDxFa@~DqGlAuCbE}I@wIdTdAzEdJrGgNjd@`EfFDdEeGxDoA|ExG~HfBjImDzEjArEoA|B{Kp@rBcHvKqDjAkCmBoIsG}HjAsEdGuD?iEeE}FxByBlJ_`@gJyGaA_FnIqSdJIrCcEnGmA`@kEaD_FnB_ChLdLjEyGhDvADnEhDfDaE~DwA``@|F|IzW}@rApTuC`IpArIrNzBjEhHvHuMzK~FdCfDxFaBJoCuBiB{M`DeFuFyGtMqEeH{NeCeAuKpCcHyAmScXbAmFsIrAy_@bEgEcD}CMaFyDuAgErGeLeLuBvBbDxFk@hEiGbAwCdEwIAuIxS~@hFfJ~GiNvc@fExF@xD_GtDuAnFxGrHfBnImDvEjAzEwA~ByK^vByGdN}HeBcI}GgIrA_FbGyDGcE_EyFdNqc@iJcHaAwEvI{S~IAvCgEdGcAj@eEeDyFtBuBfLhLhE{GlD~AFvE`D`DaEtDyAx_@|FdJzWaArArTuCtHrA`JvN~BnEfHrHyMtDlFbFTnChDnFqBuBqFqFdDgFAaFqFeHpM_EaH}NeCeAoKpC_I{A{RaXdAoF_JvAy_@`EqDcDgDOeFqDuAaExGiLiL}BxBbDzFg@bEmGfAoC`E_J@wI`TdAdFbJjGiNdd@dEtFB`EcGvDqAjFzGvHdBlIkDpEhAvEoA~BeLb@fCaHfKcDpAmCkBoIuGcIlAsEhGaEI_EaEwFxBuBlJc`@gJyGaA_FzI{SjIBtCaExGoAf@aEeDyFpBsBfLdLhEwGlDxAH|EbDtCcEbEsA~_@rFxI~WaAtAjRsCpInAlKrN|BxEjHdHwMbL`GfCdD|F_CwB}EsMbDwEwFoHvMyEmHkN{BiAmKrCeHsAkSePbBeGk@kFsItAe`@`EmDiDuDCmEsDcBeEzGkLiL{BdC`DfF_@dEyGrAiCzD{IAyI|S~@fFfJ`HgNpc@bE|FB`E_GlDsA|EvGfIhBfIqDfFlAfEkA|BeLl@vByGbLyD`AmCkBeIuGaIhAoEhG}DIsE_EeFjNyc@iJaHcAuEvIaTrI@rCaErGiAl@iEeDkFnBaChLdLjEyGhDrADrEhDdD_EtDyAh`@bGbJpWgAvApRsCbInAxKlNxBtEjHhHuMhLbGnCfDlFoBkBoFcN~C}EsFcHtMkEgH{MkBeB_JrCqHwAkUuVbA",
+"average_heartrate": 143.9,
+"average_speed": 10.861,
+"source": "strava",
+"streak": 14
 }
 ]
