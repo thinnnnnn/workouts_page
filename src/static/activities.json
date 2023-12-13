@@ -61303,5 +61303,20 @@
 "average_speed": 4.193,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 10368905275,
+"name": "Commute Afternoon Ride 2km at -\u00b0C",
+"distance": 2725.4,
+"moving_time": "0:12:07",
+"type": "Ride",
+"start_date": "2023-12-12 08:48:02+00:00",
+"start_date_local": "2023-12-12 16:48:02",
+"location_country": "\u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a\uff08\u6258\u7ba1\uff09, \u6c5f\u590f\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430074, \u4e2d\u56fd",
+"summary_polyline": "qk_yDkkjyTEUGKQOSE_He@{F[yBWMGQWASMMa@GMIAOBs@TyCBmCHy@?qBDeAN}Af@cCLy@?a@K]CWEGgTyB_DYaCMmAY",
+"average_heartrate": 98.5,
+"average_speed": 3.749,
+"source": "strava",
+"streak": 3
 }
 ]
