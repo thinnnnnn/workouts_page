@@ -61378,5 +61378,20 @@
 "average_speed": 4.148,
 "source": "strava",
 "streak": 5
+},
+{
+"run_id": 10382100367,
+"name": "2023 Richmond",
+"distance": 42883.3,
+"moving_time": "1:25:42",
+"type": "VirtualRide",
+"start_date": "2023-12-15 01:14:38+00:00",
+"start_date_local": "2023-12-15 09:14:38",
+"location_country": "Richmond City Hall, 900, East Broad Street, Shockoe Slip, Richmond, Virginia, 23219, United States",
+"summary_polyline": "g_adFxppwM|AgDNo@Wg@qBeBIc@fJoQp@iBNC\\R~AjBL`@K^]J]Kc@i@_@Ks@nAi@RITB\\TJn@Mr@FNVe@p@@`@ZJvI{AxENxAWzBoAdFuFrHaDfAUR?HPQf@q@^cIdCyEbFaQhMmAzA_CjDuHhMm@lA]~A{BfEwIbOwBfFUpAL~BG`AcBjDk@W_GgG[EURwNrWaUrc@}EhK_@J}@_@sAeAkIgIUA_@TeXvi@Dj@X\\dI|Fh@LvCBL\\I~FGbe@eGpVUnBYX{@UwGmDyK}EcDsCm@M_@Dk@p@_DnGQv@GpAW\\q@N[\\iEbIcRl_@MNQ?GQDWvXsi@LoBHU~AcAbDwGd@yAx@]\\e@h^gs@F[C]OSgH_FOi@Di@`Tsb@vc@a|@f@s@R@vB|AlALjA^lDdBj@n@rA^j@o@bNsVnByD\\cAIc@yKaK{@eAESXiAtKoStAwCPORFtJ~JpAnA^J^OVa@vCsGB]Yi@oBaBIUBQzI{P~@}BR@n@j@dAnANh@GRa@PSA{@y@SCg@bA}@j@?^RPt@Mv@LFZg@v@PZZ?`J{AxDPtAQ|BiA|FiGfHyCpAWNFBPS`@}@d@}HdCsE|E}PfMkAvAgCvDgHtL{@bB[xAmBrDaJpO}BrFQnALdCEl@yAhDOJ_@Q}FgG_@M[RqNhWqUld@kEpJ_@RSAm@[yAgAmIiIS?a@\\aWjg@a@lAFb@TXjI~FxDPLBDNIrGGfe@eG`VYzBULm@KiHwDeKqEiC{Bu@g@e@Ge@LaEzHOj@A`AOf@aA^[\\kEfIcRn_@OJQECUHUjX_i@Pi@@gANg@pAq@pDiHf@yAfAm@l^ks@Nk@Qk@cHyEWo@Hs@lx@__Bd@w@b@EbBrAnDx@vCvAfA`Ax@V\\KvJuQtF}JZ{@Kk@qK{J_AiAGU\\gArKkSvA_DRMRLpLxLZXb@?p@{@rCqGA[MU}BoBCc@dJeQx@sB^J`@b@jAvAF`@OZYF[Ii@o@_@Em@jAu@d@?ZNRfAOn@P@Zc@p@J\\XBlIyArELvAQjAg@`As@fFuFdHyCpAWP@FLMb@k@^oIlCaFhF{PdMaAjAiCxDqHbMs@zA_@|AqBzD}IjO{BpFOzAL|AGhAaBlDa@K_GiG_@O[PyNvW{Tdc@yEjKs@Tq@]{FgFyCaD_@Ig@^{IhQ",
+"average_heartrate": 128.5,
+"average_speed": 8.34,
+"source": "strava",
+"streak": 6
 }
 ]
