@@ -61423,5 +61423,20 @@
 "average_speed": 4.157,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 10407729065,
+"name": "Zwift - Day 4 in Watopia",
+"distance": 53877.8,
+"moving_time": "1:29:03",
+"type": "VirtualRide",
+"start_date": "2023-12-20 00:29:24+00:00",
+"start_date_local": "2023-12-20 08:29:24",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "zk`fAcpcz^zC_DiAeFtCiCXyCkBmGeGoFK{AhAiEdGwDCiEcEwFzByBIcDlI{Sh@cEs@sCsHaDeAuEzIgTtCm@bEp@hC_EvGmAh@eEeD}FvBqBlB^tHhKjB_A|A{EjDzAFxEdDxCcE~DAtKsAhSrF|I|Fj@|L{CdBl@vAnRQ|CaClDlAlK~Ef@zG|A|ApA^pChA~@dAg@vCaJlAkAvClAd@xChFXjChDbDYxAuBCoBaCeBoCf@_B`C_FCaAgDcDiAsGtMsAcAe@yCeBoAiNwBy@wCQeG~ByCPyCwA{RoBq@_M|CiFg@{F{ItAaS@uK`E{DWoAkCuAK_FwD{A_B|EcBz@oHiK_C[sBbC`DfFa@dEwGpAeCzDsEo@wCv@oIxS~@`FnH`Dx@zBg@xEoIbTHzC{B~BdEvFFvDcA|AiEhBkAzEPjAjGxFdBvHg@nBgCpBjAtEmA|BqGpAmCa@OcAhC_FtKmDhAoCmBmIcGkFOiAnA_FjEeBx@uAMqE}DwEzBgCI_DpIiTd@cFw@oBeHuCkAeFzIaTnCm@`Er@rCaExGuA`@eEaDaFlBaCxB\\tHhKjBeApAoEnDnAFtEhDbDcE~DAtKuAdSxFbJ|Fj@bM_DxAj@vArRO~CaChDfAjKzNbC|AlA`@pClAhAjAo@tEcLdDlAn@~CtENhCdDrCElBuBA}BaCeBeC`@cBdCcF?w@}CeDwA}ExKeAz@gA{@c@uCmB{AgNuBmAsKbCeDNiD{AmRqBk@uLzCwFi@qFyItAeS?qKbEgEeD}CK{E{DuAsAnEcBdAwHmKoB_@aC`CdDzFi@~DqGhAoC~D{Dq@iDx@kIpS@tB|@rBtHdDp@nBa@lEwIrTJxCyBzB~DxFLtDcAbBeEbBqAfFRjAhGrFdB~Ha@dBmCvBjAnEsAfCqGlAcC]UiAnCcFbKaDtAgCcBqImGwFMmAhAqEpEoBx@yAIeEaEgF~BoCMqCrImTd@mE_AeCcHqCkAyExIgTpCq@`Et@~CiEzCGtBeA`@eEcDeF|BcCfB\\rHjKlB}@dB}EfDbBBnEhCxAZjA_EnDEhLsAzRpF|IbGl@rLyChBh@xArRSbD_CvCRhGz@tCbFd@hGtAfBrA`@vCnA~@fAu@pCyIfAeAxChAf@zChFXrCjDtDk@fAsCe@cBgCgAwBp@yAzBaFCw@aDeDqAkAfAwCbJ}@h@gA_Ae@yCeBqAoGuA{Ec@oAcJtBwD\\iBmAuT_BcAmM~CkGq@eFaJxAeS?iKhD}BLoBwCiBA_EkAaBaCSwAvEkBt@_JiLkBXmA|A`DxFa@fEkGfAuCdEgEo@sCl@uIpSExB`AzBpHbDt@zBe@lEuHdR",
+"average_heartrate": 142.4,
+"average_speed": 10.084,
+"source": "strava",
+"streak": 2
 }
 ]
