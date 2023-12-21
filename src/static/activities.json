@@ -61468,5 +61468,20 @@
 "average_speed": 5.703,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 10412648578,
+"name": "Zwift - The Gorby in Yorkshire",
+"distance": 33961.0,
+"moving_time": "1:00:12",
+"type": "VirtualRide",
+"start_date": "2023-12-21 00:17:13+00:00",
+"start_date_local": "2023-12-21 08:17:13",
+"location_country": "West Park, Low Harrogate, Harrogate, North Yorkshire, England, HG2 0NE, United Kingdom",
+"summary_polyline": "yiqhI|~lHcDvAsH`BElA`@rH|@bBnCvC`AbG~AtFpLbWjAxD|@hEdAlHLPzH_ErAy@l@sATeADoCLs@hDmBFWEs@eHgb@{E}NM}A@cBS_@wCx@{A?y@u@oAeBoBqEc@LcFnDyKpCEj@PrEP|BL`@fA~AtBvBfAtG|AhF~KbVjAhDfAdFnAhIPFdIiEhAy@t@uBRoEt@u@rB}@LYE_AgHib@sEaNSaBBeBSk@cDx@kA?_Ay@iA{AuB{EWDiFvDcLvCDjCXdFt@bBvC|ChAxGlBpGjLrVdBtGxAvJHTL?dKwFl@mATaAHoADqBj@m@tB_ATa@i@sEgG}]wEmNKyA@_BQa@Y?qCz@k@Di@Q_CuCeBiEOG}F`EwKjCIb@d@dJbAdBfClCdAnGjBnGhLpVjB`HzA~JNPPGzJsFx@sBPcB?iBL]xC}ANODa@q@kFcGe]sEeNG{CGm@]M{D`Aq@OsBcCsB}ESEmFxDeLrCGh@D|Ab@jGjAjBrBpBpAlHbBtFxLrW~AfGxAtJFTNBjK_Gx@{BJoA@qBJYj@g@vB}@Li@s@oFaGc]wEqNIyDUSsCz@yA?aCqCiBgEKSO?oFzD}KlCK^\\~HRfA`AvAzB|BdAjG`BvFlL~Vv@~BhAfFlAhINPdB}@fH}Db@}@\\sAHkDJ_@jDmBD]IcAiHqb@uEgNG{CGk@]O{D`Aq@OuBeCqB{EUE}F`EoKhCKd@\\|HXlAz@lA|BbCfArGjBlGtLhWzA~F|AbKZJzJoFb@y@^oALmA@uBHUn@g@vBaAHg@s@oFaGc]kEgMSuABaBGk@WQqCz@yAAaCoCsB{Ea@H_FpD}KnCI^d@fJ~@bBfCjCjA`HhBbGrJhSfAnCvArFdBtKd@MjJgFd@{@\\oALcBCgAHa@x@s@pB{@H]o@iF_Ga]uEeNOaB@kBU[eDz@kACaA}@iA_BaBaESMoFvDaLrCMb@d@hJv@vArCzCdArGlBnGnLxVzAvF~AlKFVNDhKyFj@oATaAHoADqBj@k@xBaAPa@q@oF_G_]wEoNKwAB_BQa@kDz@m@Di@SqB_CwBaFQAqFzDkKhCWLCb@ZbHPnAlAdBtBzBfArGjBlGjLtV`BfGbBrKPJjK}Fx@sBNcB@gBL]xC}ANOB_@s@kFaGc]sEgNKcBEeBYM}D`Aq@OsBcCsB}EUEsFzDcL|CRrGX~BjAfBpBnBdAnGlBnGtLhW~AhGfBtKlKuFl@kAV_AJmAAuANs@bDeBHQAs@c@}CsF{[[}AaAwC",
+"average_heartrate": 148.5,
+"average_speed": 9.402,
+"source": "strava",
+"streak": 3
 }
 ]
