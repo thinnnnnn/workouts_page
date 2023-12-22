@@ -61513,5 +61513,20 @@
 "average_speed": 6.213,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 10419491915,
+"name": "Zwift - TT#1 The Polish in Watopia",
+"distance": 23887.3,
+"moving_time": "1:22:35",
+"type": "VirtualRide",
+"start_date": "2023-12-22 11:30:37+00:00",
+"start_date_local": "2023-12-22 19:30:37",
+"location_country": "Usili, Temotu, Solomon Islands",
+"summary_polyline": "rjffAq||y^`EUbLuDrBWlCb@nC~@|BJxBI`@b@IbBb@`@fCe@nCv@Hf@Yb@aDP_@p@Bf@|DnC`BjC^hAB`Am@nFXd@fBpAZ|@Fn@i@`BNrAc@j@_ANqCaAa@AkBnBAb@^|@rB~A@n@Z|@WTcAa@s@ZAd@n@zAIRkAj@Ih@J~@n@j@rBr@Jh@CrBZlBf@v@~B`Bn@lAd@jB^^tC~@dA|AnC\\dBj@nBu@rB?t@]|@?jBj@Vr@PbBv@x@f@@bAm@z@K|@Db@XHh@O`CyCxQiA`FCt@Vn@tDbEvB~CtAzArAzCdDnCtAzD^~BCROCa@qB}@_BuBcA}EaA}CcEeG}Ec@?GZbDpCZ~@ETYC]qAcC_AuCcCUEYNBb@v@f@tAnBbAf@\\x@fAfA|@~BYHOkA_A{@cD{AY@OVQbCx@xEWrCRrC_AfEo@`HBXZN\\QPgCt@gCzEyBr@qANNa@`AyCpC_@v@WrAErD`@tCe@~@k@\\{AS_BJuEs@SHEV~EhCnBd@zAzAd@NjBK^[b@_AP?@J{AzBaAb@eAN[GgBwAwCOgDaAWL?PlHzC|BfCn@ZbFKh@MhAcAzAHGRoABy@pAg@ZaALcDz@oC_@cCwAgAiAm@DETHThBhA|ClD|@h@pEZtC^d@If@s@v@[h@y@VFeCpDkAn@oFDyBXqDo@a@JE`@\\vA@dDPnDpAfC^fB@`AQTc@BeAy@_@GuARm@ZuClFe@fBoArCkExFQx@JRVDfAyAdDiBvG}B~@CfAvBt@hA{Bm@gAFqAd@qAx@aEfEmAx@Ef@b@HtBwArC@fAj@nBfCdAv@|EdB~D~BrFh@f@U^eAR@G`Do@~@uDhBqGx@MXPXhH~B`Hx@lCG|@Y`Aw@LFsEfEqEtAqG~@yGb@}Br@cGhAQ\\?`@p@j@xD_AlBZfDDf@^TfBQbAkB~@w@`AwCr@sAYm@u@_B}GGs@Ja@tGoAvBq@~Ge@bG}@`FcBbEaE[IqA|@_ARkC?wG{@iGsBYWTWxFs@dBm@xA}@p@w@Fc@FoBIc@]Ba@`A_@NiBGkCa@sDyBiFkBu@m@wBkCw@k@qCIeAZsA~@QUrGmGvBmAfBWdCh@?]o@u@s@_BYY_@GsIrCmCzAsAxAK[H]xEuG|CwH",
+"average_heartrate": 139.9,
+"average_speed": 4.821,
+"source": "strava",
+"streak": 4
 }
 ]
