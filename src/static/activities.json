@@ -61873,5 +61873,50 @@
 "average_speed": 3.091,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 10515637449,
+"name": "Commute Morning Walk 0km at -\u00b0C \ud83c\udf2b\ufe0f",
+"distance": 333.6,
+"moving_time": "0:03:27",
+"type": "Hike",
+"start_date": "2024-01-08 02:20:41+00:00",
+"start_date_local": "2024-01-08 10:20:41",
+"location_country": "China",
+"summary_polyline": "",
+"average_heartrate": 101.5,
+"average_speed": 1.612,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 10515637456,
+"name": "Commute Morning Ride 2km at -\u00b0C \ud83c\udf2b\ufe0f",
+"distance": 2169.4,
+"moving_time": "0:08:31",
+"type": "Ride",
+"start_date": "2024-01-08 02:24:42+00:00",
+"start_date_local": "2024-01-08 10:24:42",
+"location_country": "\u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a\uff08\u6258\u7ba1\uff09, \u6c5f\u590f\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430074, \u4e2d\u56fd",
+"summary_polyline": "mm`yD}rkyTpIbAPDNJHLFL?^MxA@XFR@Ji@xASfAAdAMxEe@|J?XBHLDRAj@S\\E|Nx@fBN`@FNFLJJX",
+"average_heartrate": 108.8,
+"average_speed": 4.245,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 10516441918,
+"name": "Commute Afternoon Ride 2km at -\u00b0C \ud83c\udf2b\ufe0f",
+"distance": 2536.7,
+"moving_time": "0:10:01",
+"type": "Ride",
+"start_date": "2024-01-08 08:37:58+00:00",
+"start_date_local": "2024-01-08 16:37:58",
+"location_country": "\u957f\u57ce\u793e\u533a, \u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a\uff08\u6258\u7ba1\uff09, \u6c5f\u590f\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430074, \u4e2d\u56fd",
+"summary_polyline": "el_yDkljyTUSg@KaCMcACuAO_CSkAEmCYYM[i@OIYGEE@e@ReDBkBFi@By@@cBBsAHo@j@{DJeA?[M}@ICs@AaCSmBUkAIqBW_K}@o@M_@@[Ay@Q",
+"average_heartrate": 103.7,
+"average_speed": 4.221,
+"source": "strava",
+"streak": 1
 }
 ]
