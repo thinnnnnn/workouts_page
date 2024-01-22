@@ -62188,5 +62188,20 @@
 "average_speed": 3.042,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 10604924530,
+"name": "Morning Run 11km at 1\u00b0C \u2744\ufe0f\ud83e\udd76",
+"distance": 11009.0,
+"moving_time": "0:59:47",
+"type": "Run",
+"start_date": "2024-01-22 00:22:02+00:00",
+"start_date_local": "2024-01-22 08:22:02",
+"location_country": "\u7965\u548c\u96c5\u5c45\u793e\u533a, \u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a\uff08\u6258\u7ba1\uff09, \u6d2a\u5c71\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430074, \u4e2d\u56fd",
+"summary_polyline": "kzbyDeqlyTF}@Ja@B@@CHm@DYCSEEI@i@QiBC]E[KENGr@Qt@Ed@BPEh@B`BIn@A^CLDRF@n@@^Hf@F^FJCHUFUPiBPu@h@sD?UGGO?KHOBWGa@?WE]@]Ke@CGCEAEDAFBTCPCv@@NCRAh@EZA|@?ZEz@BZCR@DZFvAJh@@JGDDNs@L_AHc@LYNiAAMDKPwA@SOKy@Ma@?aAMc@AIEI@KCGLEfAKx@DDBACI@MJs@BWAQHy@CcABc@CYB[AODeDAWBO?[EQLwC?sACe@L}AJ_@HMl@g@JAZO@A?Eu@a@UEEa@a@gAKQSUSOS[k@c@_@m@USSGOMgAsAAGMOSQ",
+"average_heartrate": 141.7,
+"average_speed": 3.069,
+"source": "strava",
+"streak": 4
 }
 ]
