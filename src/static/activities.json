@@ -62728,5 +62728,20 @@
 "average_speed": 3.459,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 10777413625,
+"name": "Zwift - The Uber Pretzel in Watopia",
+"distance": 100152.0,
+"moving_time": "3:33:37",
+"type": "VirtualRide",
+"start_date": "2024-02-17 04:22:11+00:00",
+"start_date_local": "2024-02-17 12:22:11",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "~x_fAi_`z^xDuIv[qGjK}LdSpKlVoEaAuJ`fA{[dFlCkCoP~XaGbOJjNlF`OlOrAhMhFgBl@mIjCu@|AzOnEpBtBcFuAoc@nRWtA|GhEjA`HgCpDuMfKqBtVvS~HbUcDpKh@dKoGzDeFkBuErHjDbH}AzHgX~AwCeF{L{A_DoLwN}@kMzTX~RvGhKqAxGoJvFgJQ_CzEnDdA|SgNdBiHyGwKQmQaChQsKzT{Dp@XmJaFbCkCpYqDmAf@sWeC_D}Et]}FoDnDqNqCkAsH`XwBwCzBaKaDDgFnXpEzJfQfNfPhAhQ{EdPbBj@`DrHh@uEjDnMbQlIwDtE`Gv^~HzBpIoHzDgQcCU~KnC`C_@lEpH~DpHkBfAoLhK^xPjDKlE_MxH?nElFvEuAvEiDx@_HoFgIxBsCgEeLiEsQJoNwNo@cHoD}Bn@iGnCMsDcHbJeAz@uFaDyEJwJgHiHlEqDeHYaQiGuR|EiPwA_VuU`CuXaZeI]aMyEbJaCqHcm@oFiIwPyChEvH`QqO`FrOIgOxCnO`AfDfKwC~CbE`EiD|@x@jBoQdHgCng@cLbT_GfCmGSxLwDdHqKaFuPwS{@uH|G~FnN|KuE`HhCl@_FoCuFgJgBmGnErAfJbHtBpEwEw@_F}I@pBbIlEwEaIQt@gCjIhCmAtGqDz@mFsCw@kIpG}DnIdB~AhMmGiCoLnEmFkNnHmG`TlAbElPaL~L_LfAuE{CxBuJuAuFqJfCkBoGtFyK{GoUzPa@sBmNxHxFlDiCeD}EnBeBvKzKhMiI`EdFhDwGxHhD_@cDzC}BmDeKiOu@fO}CqOPpOkFyHaSvEoAzFjOfL]jFin@}BgB_PfEwBsHlv@eT@_MkIsOl@cJjH_EoCo@zCgEgFiLdVuViB{IgGq@qCgFqInMcFoHqN_CaAmKz@o\\}W|@yF{IvAu_@xDqFeFmKeIvFgKkLsC~BdDbGk@~DwKbGgJDwIjTlL~NiNpc@hEnLuItKxJdPiDtIfA`FeMdDHsFmKsH{BpG{E`ApDtYvH~GeEnSpG~XsFrWjDtDr^cK`O}M~Q~K`i@eL`@`SkFd]iKRqF_OmE?nGpUmOjFrOUoQhC_DfLcZiGaXnDf@sIh\\iKfFn@LcL~DoGqCoG{Nk@kTbKxBbO}FyKkAfK~AXNaCoFQs@{TwCyGvFmZmG{SfEgSwHaHuD{XxEwAvBmGbKlHItFxMkDkA}EjDaJyJoOxIgLmEsL~M}_@WaFoK{IdIwTrWgHj@kEeDuFhBoBnLbL~DqGhC\\zEhLeE~DoAb`@xFzIvWeA{@p\\z@bKlOxCnEdHrIqMvCfF`Gn@fBhGgVzXfFrL{C`EnC|@kHnDm@fJjIpO?|Lmt@fRn@zJyLdD",
+"average_heartrate": 120.3,
+"average_speed": 7.814,
+"source": "strava",
+"streak": 2
 }
 ]
