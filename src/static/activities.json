@@ -63047,7 +63047,7 @@
 {
 "run_id": 10885472037,
 "name": "Morning Run 11km at 9\u00b0C \u2601\ufe0f",
-"distance": 11001.6,
+"distance": 11001.5,
 "moving_time": "0:58:42",
 "type": "Run",
 "start_date": "2024-03-04 00:16:29+00:00",
@@ -63061,9 +63061,9 @@
 },
 {
 "run_id": 10892030340,
-"name": "9* 3MIN/2MIN 16km at 9\u00b0C \ud83c\udf2b\ufe0f",
+"name": "9*3MIN/2MIN 16km at 9\u00b0C \ud83c\udf2b\ufe0f",
 "distance": 16332.5,
-"moving_time": "1:20:59",
+"moving_time": "1:21:00",
 "type": "Run",
 "start_date": "2024-03-04 23:11:44+00:00",
 "start_date_local": "2024-03-05 07:11:44",
@@ -63071,6 +63071,36 @@
 "summary_polyline": "uhcyDsbnyTnEtEjEbEyI~DWU_A{DkC_GmCdAMf@b@~@a@tEc@r@Iz@lAnDd@j@\\Lr@Gj@i@?wAiAkD_@c@m@Kw@XYfBzAhEr@\\x@Sb@s@?_AcBgEm@Sy@N[j@Ev@f@|Br@tA|@Zx@WZy@Aq@o@qB}@aBo@Ko@T]t@?t@dBpEl@Rt@W^m@@w@o@iCo@sAc@Os@Jm@n@K|@jB|Ep@Pv@YXe@Bw@gB_Fi@Ku@Ne@n@Ax@dBrEn@Rv@UZi@Fy@eByEm@ScAd@[r@?p@rApDb@d@jAAl@y@?oAeBaEu@Om@Re@p@C~@lBjEr@Lt@WZm@?y@uA{D_@_@oAJ[\\Ib@Bz@dA~Cj@p@h@DdAk@LcAkBcFq@[q@Pi@nAAl@fBfEp@Vp@Qb@o@F_A_BmE{@Um@Ne@r@Al@`BzEl@Rv@Sb@k@Fw@gB}Ek@Ws@R_@d@QlAdBvEl@H~@_@Vm@?o@gBuEm@Sw@Vc@`A?n@pBtEf@Fr@Ud@m@Bm@iB{Eq@Uu@ZYh@Cv@|AnEx@Xn@Yb@o@@w@eBqEw@Wo@P_@v@AbAdBjEr@Tl@M`@g@HcAgBwEo@Sy@T[n@Ar@lBrEt@Pl@Q^k@@_AcBoEi@U{@Le@v@Cv@fBrEp@Vl@Of@y@?}@gBmEk@Sq@Pc@r@Cv@dBrEt@Nn@Q^o@?aAaBgEw@Yw@\\c@~@@b@vAdE^\\dAC`@WVo@Aw@_AoCWk@w@g@eAXa@fANdA`BnDfALt@m@Ho@Ik@kAaDk@o@k@Eo@b@W|@Fl@dBjEt@Hz@c@Vo@Ae@wA{Dc@i@s@Ig@Z_@t@Dv@|AfEp@V`AWZu@Aq@cBiEg@W}@R_@h@Ax@bBxEz@Tr@YTg@Du@iByEq@So@N[`@Mz@jB`FhATb@UPa@B}A}A_Ei@Ss@Ha@b@Q~@b@bB]{ABq@n@w@jAF|A|DLl@G^m@v@iAIo@iA{@uCN}@l@g@~@J`@l@a@m@k@USsCIiC`C{AZHx@lDbBtFvB~E_BjAo@FwAcFm@qAIq@wCoGTc@vB_Af@RpBvHnAnCxGiD|@s@oOgO",
 "average_heartrate": 146.2,
 "average_speed": 3.361,
+"source": "strava",
+"streak": 12
+},
+{
+"run_id": 10892563775,
+"name": "Commute Morning Walk 2km at -\u00b0C \ud83c\udf2b\ufe0f",
+"distance": 2102.1,
+"moving_time": "0:21:58",
+"type": "Hike",
+"start_date": "2024-03-05 02:41:24+00:00",
+"start_date_local": "2024-03-05 10:41:24",
+"location_country": "\u5149\u8c37\u4e00\u8def, \u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a\uff08\u6258\u7ba1\uff09, \u6c5f\u590f\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430074, \u4e2d\u56fd",
+"summary_polyline": "_b`yDatjyTCr@@^DPLLPHXDdCJ",
+"average_heartrate": 100.2,
+"average_speed": 1.595,
+"source": "strava",
+"streak": 12
+},
+{
+"run_id": 10893793646,
+"name": "Commute Afternoon Ride 4km at -\u00b0C \ud83c\udf2b\ufe0f",
+"distance": 4910.6,
+"moving_time": "0:19:12",
+"type": "Ride",
+"start_date": "2024-03-05 08:36:04+00:00",
+"start_date_local": "2024-03-05 16:36:04",
+"location_country": "\u957f\u57ce\u793e\u533a, \u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a\uff08\u6258\u7ba1\uff09, \u6c5f\u590f\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430074, \u4e2d\u56fd",
+"summary_polyline": "uk_yDskjyTK[KISGoCO_BOoE]s@CuC[SEMOEOCYV}FBeGHcAJa@Tq@^uCNmDCYKMOCQ@q@Rk@AsBQyDe@gFe@sC[kF]_AU}@MiD_@cC_@m@a@mA]e@QMKSWKGiA[KGQS[{@MI]QKM]oAYg@GY?SHa@fAqDJ_@?_@MWMKWImB]uEcA{@GyE_Aa@QKKGOEQ?]\\yCn@wGJ}BFe@COOIyAYk@g@aBm@sAo@s@e@oDoC{EuEwCyC",
+"average_heartrate": 112.4,
+"average_speed": 4.263,
 "source": "strava",
 "streak": 12
 }
