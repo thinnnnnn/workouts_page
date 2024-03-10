@@ -63238,5 +63238,20 @@
 "average_speed": 3.235,
 "source": "strava",
 "streak": 17
+},
+{
+"run_id": 10929382925,
+"name": "Zwift - Island Hopper in Makuri Islands",
+"distance": 18361.3,
+"moving_time": "0:36:12",
+"type": "VirtualRide",
+"start_date": "2024-03-10 11:29:42+00:00",
+"start_date_local": "2024-03-10 19:29:42",
+"location_country": "Temotu, Solomon Islands",
+"summary_polyline": "~w|`A{j_s^\\j@^fAh@l@v@ZlAJra@Ar@Sl@a@|@_A^u@Fq@G_@iA_CGm@`@s@bCuAP[?Oy@mBQaB}@_AEO?QLa@r@s@N_@Ic@}@cAUq@IyBi@{D@gALq@Q[k@SSUKy@?_BI]iAy@[g@?o@l@}A@c@SGeAn@]Bs@Yq@o@g@u@_@_AAc@ZwBM]_@Qo@@c@b@Ut@_@|B[l@e@BOKK_@@g@Lw@jAiD^cBfA{A@aCYaAAc@Po@v@aAJa@a@y@]Mo@Bo@P{@v@[z@C`@B~@Qd@kARuAhA{@^eBb@wANgA?gCc@gAGiBHuCd@_HfDcB\\uBLkBrAy@`@aCd@_CLYRY~Ao@f@MTn@lEVRvA`@n@h@Pj@?|ARd@n@VbCVj@\\Rj@TlBPXdAT`DOv@i@V_@Bm@Ou@g@o@w@IkA^WTM^BfB|AxK`@`An@^bEKj@D`@\\PdAMhGTnIK^wAv@{@z@Y|@Bp@Pj@`@`@bDxAb@ZXb@`CbJ\\vBD~Ak@jC?j@X^vA`@VTH^MzATp@n@h@~BPxAKz@i@Ne@Di@SgBUe@a@c@kAe@c@@WPSd@Il@B`@x@hB_@nEFd@V\\h@Tj@AjE{A~Ek@r@a@r@oB^[v@O|BEl@UZk@b@kCv@gA|J}Jx@c@rC}@x@m@Vs@\\aCNa@ZYx@W`AC`Db@f@X|ApBl@RVEd@_@ZeAGYqAaAOq@DYp@_A|@s@p@UXBjAbAv@tAj@\\l@UXe@[}@wC{Ee@e@c@Ga@HkAh@o@GiAoAm@kBk@]{@@wCf@m@Ci@UKUEm@PgCMe@OKy@KkAL_GhCc@B_@Gc@c@a@iAQcBeAmA?QH_@~@_AFc@O_@}@cAMa@OqCe@mD?u@NcAEOy@_@SUImA@_AH]hAy@Nk@?_AGMy@]G]DOZSbCm@R[?QCM[QqBEm@Mg@eAMEYLYt@QRe@?aCwEUUiAk@CwAc@o@I]BkC]{AR_At@_AL]g@eA{@EuAd@i@p@Qj@El@Bx@IZULy@LaBlA{Al@eBZwAFyDi@gC@qDj@iCjA",
+"average_heartrate": 110.2,
+"average_speed": 8.454,
+"source": "strava",
+"streak": 17
 }
 ]
