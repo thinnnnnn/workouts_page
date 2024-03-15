@@ -63448,5 +63448,20 @@
 "average_speed": 3.083,
 "source": "strava",
 "streak": 22
+},
+{
+"run_id": 10964348982,
+"name": "Commute Evening Walk 1km at -\u00b0C \u2601\ufe0f\ud83c\udf19",
+"distance": 1571.0,
+"moving_time": "0:18:50",
+"type": "Hike",
+"start_date": "2024-03-15 11:52:46+00:00",
+"start_date_local": "2024-03-15 19:52:46",
+"location_country": "China",
+"summary_polyline": "",
+"average_heartrate": 87.5,
+"average_speed": 1.39,
+"source": "strava",
+"streak": 22
 }
 ]
