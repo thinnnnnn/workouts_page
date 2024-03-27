@@ -63823,5 +63823,20 @@
 "average_speed": 4.48,
 "source": "strava",
 "streak": 34
+},
+{
+"run_id": 11047872062,
+"name": "Zwift - Zone2 (60MIN) in Watopia",
+"distance": 37205.3,
+"moving_time": "1:00:31",
+"type": "VirtualRide",
+"start_date": "2024-03-27 10:43:32+00:00",
+"start_date_local": "2024-03-27 18:43:32",
+"location_country": "Muie Village, Temotu, Solomon Islands",
+"summary_polyline": "pn`fA_rcz^hAwBeAaCIkAnCcC^wA?yAuBsG}F_FIuAnAqEfE_B|@_BHuB]}AyDqE`CsCWiBJs@pIcTb@aEOwAi@w@aF_BgAw@_AmBIkB~FkMvAuE~Cq@xBt@z@C|@i@dBaDtCCnB}@j@eBCkBaDqFh@eAdAk@nBXnFvIbAr@z@Ix@y@xAsExAPjA|@JbFlCzAXfAUr@gC~@e@`AAdLqA|RdEpFTvA\\RpFj@fM_D`Br@r@~E\\zM_@hBcBvAOpB\\fFv@tBpAj@vCGpAl@lD`@hBvAb@xCpA|@dAy@jCoIbAkAlAHzAfAh@xC~ERfCdD~ABtAa@r@s@ZuAWgBkCuAwBl@gB`C_FGWWWeCaBiAiAIkAnAsC|Iw@f@oAcAe@uC}AmAqGyAeCHuAi@y@gCWeGTeAjBeBRsCg@{Lq@eEy@k@s@EgM|CkFi@m@mBcEeFtA{S@qKf@y@|By@X_A_@mAgCwAEqEsAmAiBO{AxEeBz@iA{@aFkIq@a@kA@sAt@e@nAbDhF@fBe@~AiBz@}CFsCdEkADuBu@aDp@}A~EyF~LBpB~@pBdA|@lFfBp@tBa@fEuIpTNpC_CdCTbAnD~DN|AMzA}@tA_EzAuA`FNvA~DvCrAjBlAtDLdC_@xAkCxBD~AbAlBw@lBoAfAcIVk@a@Is@bC}EhBiAnDe@lCmAf@k@X_BQeCuA}DsAcBwDoCMeAf@yCn@qAnDoAjAyANaBWqBoDyDOw@|B}BMuCvIwT`@mEs@wBqFgBgA_A}@{B@cB|F_MpAoEvCs@bCt@dAEv@k@`B{CrCEpB{@j@eBAmBcDiFb@cAjAs@~@Ex@b@jFtIdAp@jB}@xAyElBVbAfA@dEjCbB\\dAQt@kCdAe@bAAxKuAzRn@vA|CfDd@bB~Fn@|L}CbBh@v@`F^|JOlDmBlBUjATnFx@vCtAn@jCIrGxAdBvAZjCjAbAfAk@rC}IrAmAvCnAb@xCfFXpChDpCQfAy@ZaAM_CoC{AyBn@uAzBmFAYY[iCsA_AgAQiAx@{ChJ_At@mAeAe@uCaBoAwDg@yAo@kCHuAq@u@wCQ{FRu@jBeBRqCe@wLq@kE_Ao@w@?qLxC}Fm@k@qB_EeFtAwS?cKb@_AbC}@XaAWcAkCuAK_FuByAsAJqArEcBt@iA}@iFsI{@[aAHiAt@c@bAbDrF?hBi@~AiBx@yCDwCdEiABwBs@kD~@oAtEoF~KOxA^fBlAdBfHxCX|Bg@tD",
+"average_heartrate": 122.5,
+"average_speed": 10.247,
+"source": "strava",
+"streak": 34
 }
 ]
