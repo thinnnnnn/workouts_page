@@ -64693,5 +64693,20 @@
 "average_speed": 3.249,
 "source": "strava",
 "streak": 15
+},
+{
+"run_id": 11214201319,
+"name": "Commute Morning Walk 3km at -\u00b0C \u2601\ufe0f",
+"distance": 3451.8,
+"moving_time": "0:45:34",
+"type": "Hike",
+"start_date": "2024-04-19 01:37:23+00:00",
+"start_date_local": "2024-04-19 09:37:23",
+"location_country": "China",
+"summary_polyline": "",
+"average_heartrate": 78.4,
+"average_speed": 1.263,
+"source": "strava",
+"streak": 15
 }
 ]
