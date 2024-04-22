@@ -64738,5 +64738,20 @@
 "average_speed": 2.917,
 "source": "strava",
 "streak": 17
+},
+{
+"run_id": 11235814799,
+"name": "Morning Run 6km at 26\u00b0C \ud83c\udf1e",
+"distance": 6788.0,
+"moving_time": "0:35:41",
+"type": "Run",
+"start_date": "2024-04-22 00:15:00+00:00",
+"start_date_local": "2024-04-22 08:15:00",
+"location_country": "\u7965\u548c\u96c5\u5c45\u793e\u533a, \u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a, \u6d2a\u5c71\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430074, \u4e2d\u56fd",
+"summary_polyline": "aicyDacnyTfBlBt@p@t@|@t@j@fAxAd@^b@TDD?BGHOBiAj@c@NUNUFc@X}@XSLKTOPM@U]cAcDWi@Uo@e@wAOo@Yu@OCi@R}A~@GJ@RBTTn@CFKHi@NoAXm@b@EJATLp@f@~ANXhA`DTd@Lp@f@dAVfAJHJ?DAj@_@rDcB|@o@l@UJI?EAKk@}As@kB}@wCk@qAU}@Qc@GYk@wAIGMBcAd@w@h@GL?`@Vn@ENGFQFgAVu@\\YPETD\\`@dAH^`@bA^pA\\z@^r@Nt@p@|BNDJAn@YnCsAjAu@nAi@BIQk@o@}Au@yBqAgDi@gBGYe@gAEWGGICo@X\\GRI@YWgAc@kAMMAp@Hn@Nr@HLJFDP@MC[_@}AYw@B|@BLVr@DRRVBN@IC[c@gBWo@BjAF`@Pp@VVBFAG@OUwASaAECEIJrBDZFPRVD?@F@g@o@wBIa@@dAD\\V`AJJB?FR@i@Km@Sw@[y@HxAHf@NXHBJRJn@L^NVTTHTl@lAr@lCp@rAPf@H@DA\\W~Aw@j@_@hCqAXU?EEIwCuCs@g@mB{Bm@e@cBgB",
+"average_heartrate": 139.0,
+"average_speed": 3.17,
+"source": "strava",
+"streak": 18
 }
 ]
