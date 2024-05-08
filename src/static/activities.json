@@ -65278,5 +65278,20 @@
 "average_speed": 5.257,
 "source": "strava",
 "streak": 5
+},
+{
+"run_id": 11360754019,
+"name": "Evening Run 8km at 29\u00b0C \u2601\ufe0f",
+"distance": 8215.8,
+"moving_time": "0:41:04",
+"type": "Run",
+"start_date": "2024-05-08 12:11:37+00:00",
+"start_date_local": "2024-05-08 20:11:37",
+"location_country": "\u7965\u548c\u96c5\u5c45\u793e\u533a, \u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a, \u6d2a\u5c71\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430074, \u4e2d\u56fd",
+"summary_polyline": "sicyDqcnyTnCrChBbBp@v@h@b@^d@x@p@BFEFk@Ri@^WHg@ZiAf@_B|@K?IGMWg@sBSk@S]}@iCGQKo@Qg@IOICIDWFw@n@m@XOLCNFd@FNAXELQHw@Rc@Pi@XGFEN?f@Nx@r@bB\\|ALx@P`@Xb@JX\\j@Xp@FZJLJBJCn@[|Ai@z@e@bBo@ZWj@YLAP@RBH?NHNXHl@KxCDtDDZBBLDJCLGFKDWCe@i@y@EMA}BDuA@{AEUM?EBEL?PPr@ErC@`FBLBBLBLCPQDO@UG[]i@IWCe@D_E?kAEQIEKFCPNv@Bf@GfFDn@@bAFJLBLCHKFOB]Kg@]a@IW?W@k@BoFEKCCMBEL?RJ^Ff@CjA?pACxB@`AFRLDNCDCLSD]AMEUg@u@CSBuBAa@B_AAe@@_@CUIEKDEL?HP~@ElEBZAtB@RDJJBFATMFKDa@CWEMc@i@GWBuDBa@Ao@@c@AKIEMDCXNbACrA?jCBjCFPJ@NENQFU@WEWEK_@_@I[BuCBqAEaACMICIHALLv@Bb@EjAAbC?fCBJBDFBLARKJ]@WG[e@s@EY?_@HkF?WEKKEEBEBCN@VL\\@PErEDdAApAFPLBF?NMN[?[I[a@g@EU?g@FyCE}@Bo@EMIEKHCNNv@BZGnCDfDAb@BRHDF@JCLSDKBUEc@i@y@Co@DaDAgBFeADyEDYFOROt@]NIFKAMGKo@e@yCaDk@g@eEgE",
+"average_heartrate": 140.0,
+"average_speed": 3.334,
+"source": "strava",
+"streak": 5
 }
 ]
