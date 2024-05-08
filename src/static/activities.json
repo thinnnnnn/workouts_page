@@ -65233,5 +65233,50 @@
 "average_speed": 3.302,
 "source": "strava",
 "streak": 5
+},
+{
+"run_id": 11357866396,
+"name": "Commute Morning Ride 4km at 31\u00b0C \u2601\ufe0f",
+"distance": 4706.3,
+"moving_time": "0:12:47",
+"type": "Ride",
+"start_date": "2024-05-08 02:49:48+00:00",
+"start_date_local": "2024-05-08 10:49:48",
+"location_country": "\u7965\u548c\u96c5\u5c45\u793e\u533a, \u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a, \u6d2a\u5c71\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430074, \u4e2d\u56fd",
+"summary_polyline": "gkcyDuenyTdD`Dj@p@rCpCdAhA`DbCtBlApCfAJF^^FCDHPB^Ph@d@n@Pp@XjA^rAZp@Fd@JhDnAxA^~APp@BvB^bD^bBHn@FxATfAJr@R`E\\|Ft@|ALxATxCTrBTjAJdATTJR\\DRS`GGj@Cb@@zDMjAInB?v@MxDA|A@`BEpAUzCSlACPKP]jDCvA?pCOpDB`DXr@FFHBxCTjCFlALnBJp@HbCN",
+"average_heartrate": 113.7,
+"average_speed": 6.136,
+"source": "strava",
+"streak": 5
+},
+{
+"run_id": 11359117052,
+"name": "Commute Lunch Walk 1km at -\u00b0C \u2601\ufe0f",
+"distance": 1288.2,
+"moving_time": "0:17:08",
+"type": "Hike",
+"start_date": "2024-05-08 04:53:30+00:00",
+"start_date_local": "2024-05-08 12:53:30",
+"location_country": "China",
+"summary_polyline": "",
+"average_heartrate": 77.3,
+"average_speed": 1.253,
+"source": "strava",
+"streak": 5
+},
+{
+"run_id": 11359088095,
+"name": "Commute Afternoon Ride 5km at 31\u00b0C \ud83c\udf1e",
+"distance": 5073.0,
+"moving_time": "0:16:05",
+"type": "Ride",
+"start_date": "2024-05-08 08:33:20+00:00",
+"start_date_local": "2024-05-08 16:33:20",
+"location_country": "\u957f\u57ce\u793e\u533a, \u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a, \u6c5f\u590f\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430074, \u4e2d\u56fd",
+"summary_polyline": "yk_yDaljyTIUIEs@Ik@CqAMuA?]I_@AkAO}@Go@EcAAs@Ma@CeBS_CCcBKo@B[Ee@MmAImAQy@Ao@G_@ImAIe@Oy@KeAGkH[gBQsBGkDg@oAFo@CgBSaAIsB[i@I}@U]Kk@[g@MiB]aCu@sAk@Q]OIw@Qm@_@}@_@kAo@gBe@IGCKKM@BQOq@[CSTWJU^wAp@{AnAkFl@sCpAiFHmA?YHm@XgA^yBNmANq@`@aCFeAN{@L_Bf@aEZcEJy@@w@AKM_@W[w@[]K}@_@sAw@u@o@q@_@w@k@_A_Ac@i@oBcBkBuBwBwB",
+"average_heartrate": 118.4,
+"average_speed": 5.257,
+"source": "strava",
+"streak": 5
 }
 ]
