@@ -65428,5 +65428,20 @@
 "average_speed": 3.281,
 "source": "strava",
 "streak": 9
+},
+{
+"run_id": 11397399690,
+"name": "Morning Run 6km at 28\u00b0C \ud83c\udf1e",
+"distance": 6199.9,
+"moving_time": "0:30:39",
+"type": "Run",
+"start_date": "2024-05-13 00:14:07+00:00",
+"start_date_local": "2024-05-13 08:14:07",
+"location_country": "China",
+"summary_polyline": "",
+"average_heartrate": 140.3,
+"average_speed": 3.371,
+"source": "strava",
+"streak": 10
 }
 ]
