@@ -65488,5 +65488,20 @@
 "average_speed": 3.188,
 "source": "strava",
 "streak": 10
+},
+{
+"run_id": 11404970932,
+"name": "2x10min@Tw/2m 2x5min@Tw/1m 15km at 24\u00b0C \ud83c\udf1e",
+"distance": 15014.0,
+"moving_time": "1:08:03",
+"type": "Run",
+"start_date": "2024-05-14 00:07:57+00:00",
+"start_date_local": "2024-05-14 08:07:57",
+"location_country": "China",
+"summary_polyline": "",
+"average_heartrate": 153.9,
+"average_speed": 3.677,
+"source": "strava",
+"streak": 11
 }
 ]
