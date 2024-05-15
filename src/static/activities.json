@@ -65578,5 +65578,20 @@
 "average_speed": 4.985,
 "source": "strava",
 "streak": 12
+},
+{
+"run_id": 11416018631,
+"name": "Evening Run 6km at 29\u00b0C \ud83c\udf19",
+"distance": 6074.5,
+"moving_time": "0:29:47",
+"type": "Run",
+"start_date": "2024-05-15 11:49:11+00:00",
+"start_date_local": "2024-05-15 19:49:11",
+"location_country": "\u7965\u548c\u96c5\u5c45\u793e\u533a, \u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a, \u6d2a\u5c71\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430074, \u4e2d\u56fd",
+"summary_polyline": "ohcyDkbnyT\\`@fAbAd@j@hAx@f@l@fAdAb@h@PPFNGL[RSDwA|@[LSLy@P_@TODQPQBIAEIQ_A_@yA@ILM~Bu@NKn@[J?DBDHLp@Fh@Tp@AHi@Zm@TYT[LSNMAYLI?M[I_@[_AKe@AEDITM`@Oh@Ox@[|@[LAFD?JCVJt@Tx@CJqAx@g@PQBo@\\O@CC[sA[}@AMBEHGVIxAo@|@Y\\QHABBDX?^Lf@@b@L\\ABg@Xi@J]XIBMJYJIH_@NC?CEWqA]aAAK@KHG^MdAWt@g@VI\\OBAHBFl@\\lBARy@ZQP[LONE?OLi@LQHE?CCQy@Us@U{@xB}@ZQZK`@UJAD@BDHl@@\\HVThA{@\\CBm@RqAn@U@a@cBY}@AEDIPKTG`Ae@tAi@XED?BBJxABJD^N`@?HI@gAj@WHE?YLQ@q@^E?CGESEG[mAMi@AEDIXQbA_@lBaAL@FDPh@Ll@JdA?Pc@Ng@Zq@LIFSF[TUHGEEIKo@k@_B?MHIdCcARE`@UVIFFBJFr@NdAJXDBN@`Ac@t@e@BKCE]WsA{AWUmCyCg@g@w@o@}AcB",
+"average_heartrate": 137.8,
+"average_speed": 3.399,
+"source": "strava",
+"streak": 12
 }
 ]
