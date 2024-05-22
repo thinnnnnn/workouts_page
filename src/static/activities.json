@@ -65762,7 +65762,7 @@
 {
 "run_id": 11467693189,
 "name": "3*1.6km@Tw/2m 12km at 28\u00b0C \u2601\ufe0f",
-"distance": 12433.0,
+"distance": 12433.1,
 "moving_time": "0:56:47",
 "type": "Run",
 "start_date": "2024-05-22 00:02:37+00:00",
@@ -65771,6 +65771,36 @@
 "summary_polyline": "{hcyD}bnyTxCnCbF`F`@n@o@b@y@RuDfCEEs@PMYKcA]gAO_@q@oAkAaEM[[Di@b@yA|@C`@R^Dn@EdAW~Bg@r@Eh@BZbB`Ez@\\p@S^w@Dw@{AyD_@]SI[?s@b@Wd@D`Ar@jBPz@^`@^Lj@?d@]Pc@@{@Mq@eAmCW[i@EiA^[v@H`Ab@j@f@bBV\\x@V`@EVSRe@Dc@A]mAeDU[o@]o@Jg@h@G`@@`@|@tCh@`AZN\\Bn@S\\s@@y@q@}Bs@_Bs@Og@Pe@n@Iz@|@tC`@z@r@\\v@M`@o@FYAo@_@sAy@sBWQa@Ii@Hi@l@Iz@jAbET\\v@Xt@U^y@@q@Km@sAiDk@Ue@BYNc@h@Gj@Db@z@pBRv@LTXT\\Dt@Ob@k@Dc@Cc@_BcEi@[o@Fq@p@E`ARt@h@bATz@R\\j@Vx@Kd@u@Dy@]kAqAqCk@QY?YLa@z@@x@x@vB^pAVR\\Hj@GVOR[Jq@O}@{AqDq@Ye@HYN[v@D|@lAlDZ^|@N\\KVURs@Ew@{A}DKIq@Uq@R]h@GZBj@dBpEb@Rd@C\\OPSJ_@@}@i@eB{@gBq@Sm@L]b@HAPYXK`@@f@TfAnCT|@?n@M\\c@\\UD]C_@SY]gAeDCy@Pg@NO^M\\@r@XnAvDF^A`@I\\e@\\g@H_@KWSu@qB_@uAA_@DWHWZ[v@Eb@RhApCXnA?^ITa@b@q@Do@UYe@cAkDBw@N]NMz@Ep@XxAjEAn@[j@i@P_@Gg@YUa@aA_D?_A\\i@`@KdATX^ThAn@hBAl@M`@u@^u@G]e@s@}BQYIoARe@|@YV@\\PZb@dAbD@h@K`@SZ[N]B_@Ie@g@q@cB[sA@c@Pm@HMp@SVB`@R`@z@`AxCCn@c@l@w@LQE]WyA_EAeAZa@n@SXB`@XRXjAdDBn@Ul@]Te@HYGYS[k@aA}CAo@Rc@XWVIb@@l@`@pA~D@`@Ov@fA|AfEqBPUAWiAsCDM|CgBtBw@r@k@EOg@[cDoDiEqDsA}A",
 "average_heartrate": 149.0,
 "average_speed": 3.649,
+"source": "strava",
+"streak": 19
+},
+{
+"run_id": 11468080734,
+"name": "Commute Morning Ride 2km at -\u00b0C \u2601\ufe0f",
+"distance": 2085.5,
+"moving_time": "0:08:02",
+"type": "Ride",
+"start_date": "2024-05-22 02:50:32+00:00",
+"start_date_local": "2024-05-22 10:50:32",
+"location_country": "\u5149\u8c37\u4e00\u8def, \u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a, \u6c5f\u590f\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430074, \u4e2d\u56fd",
+"summary_polyline": "wa`yDiwjyTIvAGbBDj@NPh@LvDRbIj@`BTVLJN",
+"average_heartrate": 96.8,
+"average_speed": 4.327,
+"source": "strava",
+"streak": 19
+},
+{
+"run_id": 11469312227,
+"name": "Commute Afternoon Ride 4km at -\u00b0C \ud83c\udf25\ufe0f\ud83e\udd75\ufe0f",
+"distance": 4748.2,
+"moving_time": "0:19:54",
+"type": "Ride",
+"start_date": "2024-05-22 08:33:02+00:00",
+"start_date_local": "2024-05-22 16:33:02",
+"location_country": "\u957f\u57ce\u793e\u533a, \u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a, \u6c5f\u590f\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430074, \u4e2d\u56fd",
+"summary_polyline": "qk_yDokjyTEUKQSMUE_CGcBQkAGmGO_BMKEIKQw@UCWMJyBFk@@y@PcDAsAB_@ByAVgBf@sECYSq@CC_BW_BKgDa@iFe@iAQgHi@iAUmGo@iAWSI]Wi@Mk@Sa@U_@i@[Ks@QQKQ[Us@IGYIOOIWM{@_@c@EO?[He@nAiEAOSQGUGMOIWGyFiAoB[oE{@i@SIIKQCO?[j@qE\\{DPwCHq@?MCIKG_@A[Ia@EW[QKgBq@eCsAu@o@mAy@y@u@{J}J",
+"average_heartrate": 95.4,
+"average_speed": 3.977,
 "source": "strava",
 "streak": 19
 }
