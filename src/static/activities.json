@@ -66343,5 +66343,20 @@
 "average_speed": 3.308,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 11623712993,
+"name": "Commute Morning Ride 2km at -\u00b0C",
+"distance": 2191.5,
+"moving_time": "0:09:41",
+"type": "Ride",
+"start_date": "2024-06-11 02:55:56+00:00",
+"start_date_local": "2024-06-11 10:55:56",
+"location_country": "\u5149\u8c37\u4e00\u8def\u66fe\u5bb6\u57b8, \u5149\u8c37\u4e00\u8def, \u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a, \u6c5f\u590f\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430074, \u4e2d\u56fd",
+"summary_polyline": "}a`yDoujyTI|B@VF\\NJd@FdADbBLxDRxFd@TFJHJ^",
+"average_heartrate": 102.3,
+"average_speed": 3.772,
+"source": "strava",
+"streak": 3
 }
 ]
