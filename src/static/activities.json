@@ -66463,5 +66463,20 @@
 "average_speed": 3.381,
 "source": "strava",
 "streak": 6
+},
+{
+"run_id": 11654345510,
+"name": "Zwift - Mayan Mash in Watopia",
+"distance": 34952.9,
+"moving_time": "1:17:14",
+"type": "VirtualRide",
+"start_date": "2024-06-15 00:51:23+00:00",
+"start_date_local": "2024-06-15 08:51:23",
+"location_country": "Temuo, Temotu, Solomon Islands",
+"summary_polyline": "pinfAcs}y^y@fJn@xBu@nAB^dAx@zDiBr@|BvAxArBFXdBm@d@qIbAMj@f@lC_DzLqEdB}@|B{LlOcAzGyDpB_B`E_Bp@}GFWcAvBgNyAqG\\{AaAm@yC`@{EoDjB{D{@eCzDg@ZeAs@}@}EaA_AaDd@gFt@qA~@c@dDnBnCRr@oCpAAb@r@`@vEk@f@mC?m@fBoF_A_@c@b@kDlCqCdA_En@KvBt@lAcAkAsCjAoHyGaBwDmENcAvA}Ax@sEOmAqBcBt@yC_@}CDkCXcAjB]dAsCJoAmAwABkAtC_BhCj@r@Qd@u@]wCf@iBl@OrB^zAeAbA}Jp@KpBn@`AQlBsAd@kBgAoCcDQuC{BgB\\]OUiAhAwAc@qAy@OiBl@c@]WgBvAiCx@aIsAmBoC?gAu@W}FoIW{E_DwAl@s@nFgAx@iAe@QoFkAu@wAh@K`Fs@p@kAa@QmF}@}@qAd@YrFc@b@u@WW_G}@}@oAf@JxEc@j@}CcBuLAoDjGv@tIUz@eGrDu@MkBeBkAHeAhAg@vCgBrAZtBlCpC@vB{A~EmEzBqFg@sJ?mC_FmFJiEcByAcEGgD_AgAmA[yDJqFg@cFdF{BhEcFdTBtF{CbBgBdIgCzFmC`Bm@k@K}@dAeFEs@i@_@gBPoB|Bm@vDMlFaAlFGvDwBX_AuBY{KdAgJs@qBmAq@eA`A_AvCD|Oi@bCgAlBo@VkDoDSy@Z{DnBgD`@cB?cAo@k@aC`@}BjEg@pB}AbMuA[m@yBzBaJq@yBBaAzCuB|@sC`DaBz@cDvAoBj@oDMaHTiAz@}@zBUdByBAkBiB_Au@iCh@}ArEcDc@mEXeB`AaBc@iCd@QbAl@dDgBJaAeAuABs@hBkDlC}@AyBx@gEzAQzBv@H`Jd@rAv@XxBe@~AmAt@mB]qCNeAt@_A|ALl@jLf@lBhAxAlCRj@o@`AmDeAmFTyGiA_P`@kBtAa@dPLv@|@RzEvAz@jBPbCqAzCm@^{@ZgEzAwD~@w@dGwBvBd@jHjG`EvBf@rDbEhArCjEK~EbDhEl@tC`AdArJHtBvAv@@Vu@MgEt@g@|@XX`Gh@v@`AQZ_Gr@k@`AVZ~FnAx@z@a@JyEd@{@fBLZxFlA|@tAs@n@iFhA{@dGfDpzA?|BbAjBcAjInCTl@_@|AXrFYzAs@`@kEBgElBsAfBWbE",
+"average_heartrate": 124.6,
+"average_speed": 7.543,
+"source": "strava",
+"streak": 7
 }
 ]
