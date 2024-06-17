@@ -66538,5 +66538,20 @@
 "average_speed": 4.019,
 "source": "strava",
 "streak": 9
+},
+{
+"run_id": 11672601162,
+"name": "Evening Run 7km at 31\u00b0C",
+"distance": 7008.8,
+"moving_time": "0:36:47",
+"type": "Run",
+"start_date": "2024-06-17 11:38:37+00:00",
+"start_date_local": "2024-06-17 19:38:37",
+"location_country": "\u7965\u548c\u96c5\u5c45\u793e\u533a, \u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a, \u6d2a\u5c71\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430074, \u4e2d\u56fd",
+"summary_polyline": "mhcyDmbnyT`DdDZ`@jA|@rA|Al@b@ELgAj@}@\\{@j@_@Jg@Rs@d@I@GCGM[mA[_AAIDIZMn@IZId@Wr@i@LEFBRh@`@hAHN@TMLi@Ri@\\oAj@SLODGGIUc@yAUe@CSFKx@Kv@WZOb@]ZOL@DD`@`AVfA@FEH]VsB`A]TYLICUk@WiAWm@@Ip@Y^E|@]\\STWHEJ@LNr@|B@DCLWTkAf@g@Z[Ha@TG?EAEKSk@UeAUc@AIFGZKXEXMTCn@S`@_@ZIDBH\\l@nAJZ?DEN[NcAb@yAv@KHC@ICOYYqAMUIUCQBIbAUXKPMn@Sd@_@HCHFDTN\\f@rABNEHgA`@s@h@o@RYRI@EEg@_BYs@CKDMHGvA]x@Yj@g@JCFBDZTx@\\t@@TGFi@Ru@`@u@ZIDQTQFKCKMS{@c@uA@OJM|AYv@a@^]PED?`@~A`@t@@FEFwCvAg@\\K@IEUa@k@oBAI@IJOdAObAi@f@]RGD@DJZpA\\n@APGFaBp@}A`AGAGGGMMk@Sg@Sw@AIDI\\Oz@U|@c@b@[PEFDXnAb@~@APa@Xe@Ve@Ju@\\URQHIAEI}@qC?EDIDALIrA]j@Yf@a@PEF?DFTdA`@~@HJH@XI~@k@TSBKEIuAgAe@i@yCuC{@aAuAsA",
+"average_heartrate": 138.5,
+"average_speed": 3.176,
+"source": "strava",
+"streak": 9
 }
 ]
