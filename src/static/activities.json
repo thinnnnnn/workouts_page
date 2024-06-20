@@ -66643,5 +66643,20 @@
 "average_speed": 3.698,
 "source": "strava",
 "streak": 11
+},
+{
+"run_id": 11694307388,
+"name": "Commute Morning Ride 4km at 28\u00b0C",
+"distance": 4693.0,
+"moving_time": "0:14:36",
+"type": "Ride",
+"start_date": "2024-06-20 02:35:36+00:00",
+"start_date_local": "2024-06-20 10:35:36",
+"location_country": "\u7965\u548c\u96c5\u5c45\u793e\u533a, \u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a, \u6d2a\u5c71\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430074, \u4e2d\u56fd",
+"summary_polyline": "ekcyD{enyTJN~B|BdHhHlB|A|AbArAr@p@XxA`@b@XHNBADFb@PO@VBNHXX~@VvBv@p@P|@JfAVbEvAbBZt@JZHd@@~Er@hCRdAFxDh@lBPz@FtARrAJrATb@D`ADp@HhAXXBzBHdDZp@Ph@ZPTJXDn@Az@]tGClDUrCCvBGdA?lFGjBMpA@n@Ij@ORGVUrBMp@E|@C~EMhDCjBBd@Vx@LLHBpDVpEVz@HlADl@Hn@B",
+"average_heartrate": 102.8,
+"average_speed": 5.357,
+"source": "strava",
+"streak": 12
 }
 ]
