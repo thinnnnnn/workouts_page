@@ -66673,5 +66673,20 @@
 "average_speed": 3.414,
 "source": "strava",
 "streak": 13
+},
+{
+"run_id": 11710276258,
+"name": "Afternoon Run 23km at 31\u00b0C",
+"distance": 23008.2,
+"moving_time": "2:00:34",
+"type": "Run",
+"start_date": "2024-06-22 07:34:11+00:00",
+"start_date_local": "2024-06-22 15:34:11",
+"location_country": "\u7965\u548c\u96c5\u5c45\u793e\u533a, \u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a, \u6d2a\u5c71\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430074, \u4e2d\u56fd",
+"summary_polyline": "{fcyD{bnyTpFxFtChCvBvA`Bx@`BTZEPYdAgM@{@p@wCrAeMd@_Dj@wD`AiFPsA|DsQ`@mCF_CY_DWgAg@uAaA_BBUd@c@Rk@Ns@V}CCk@g@}@|FqFxBcEJeBRgHAaAGWBgAO_HKwC_@uGkBwR{@yHSi@KeAM}BkCkUs@qJc@}LSi@?_@SwAN_@Be@IcF[wGm@cJk@mGo@kFCOGAc@Va@Da@UUe@a@oCHg@\\y@A_A_@gBg@mA[We@Ee@RQp@IBW}DUw@oAq@]s@OImAA}Dw@o@JKNEZ@nARxBNvFl@`ELFf@fCL@LcBRXLj@LjCL^^D^Y|@oA^y@h@wBHw@AgAo@qCQuA_AuCYYmAYgAKSHEj@RfBNjDTjAZhDJrDNfAJ\\X@VObAqAVg@r@kCL{@?aAoAwGm@kBUUi@UmAUs@AIPCZZvCAdB@l@r@zEBxCHrARx@\\J\\K|A_CVq@\\sBHaACy@gAaGa@{ASa@_@]kAW{@I]LCh@XlCHhCt@pFFdDPxALZVAZQ~@sA^}@ZeAN}@FiAE{@k@mC]_Cq@cBUU}@YsAKWJGh@ZpCDlBt@dGHnDPnAL\\RDZO`@c@t@sA\\{@VsALkAAo@o@aDSyAWiAc@cAa@_@YK_BU]?KFGXBn@PbBJbCv@lGBlCXpBLXl@Qj@u@j@gA`@mARmAHy@Ay@aAsFu@aCo@m@_C_@YJGb@VjBRbEl@nEDbDVrBHT\\?ZWtAuB`@mALy@LuACi@s@kDQsA}@aCc@]qBg@[@MLGV?d@V|BJtCRp@^~CJnEL~@LZTB\\Q|A}Bl@sBLaAB}@qAmHg@}AY_@a@U_C_@SPGb@X|BJdCp@bGJnELt@LXXFVIbAsAt@iB`@mC?iAy@wDViC[wBDSjAp@PTRhEDRR?Xw@j@Kj@Xd@hA^pABfAAZ_@~@Al@R`BXr@TTd@Jz@]HHFxAdAhKf@|Hp@pQK~@LjBPp@J~B@xCdAnOlA`LNn@~@bJDnA^rAHvAzAtMr@vHZhFV|IFhNM|DMdAkBfD}FdFKVD`@PLP`@?j@SfACr@MjAOd@_@d@GZlAzB\\z@b@fECzCq@`EiChM{AdHs@rFw@pEu@~GSnCWpA]tA_AnNM`@\\t@K`AUFm@q@_C_AsD_CiBuA}BkCk@a@yD}D",
+"average_heartrate": 147.4,
+"average_speed": 3.181,
+"source": "strava",
+"streak": 14
 }
 ]
