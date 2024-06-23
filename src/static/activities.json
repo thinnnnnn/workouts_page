@@ -66688,5 +66688,20 @@
 "average_speed": 3.181,
 "source": "strava",
 "streak": 14
+},
+{
+"run_id": 11715945237,
+"name": "Morning Run 7km at 29\u00b0C",
+"distance": 7003.3,
+"moving_time": "0:38:11",
+"type": "Run",
+"start_date": "2024-06-22 23:56:34+00:00",
+"start_date_local": "2024-06-23 07:56:34",
+"location_country": "\u7965\u548c\u96c5\u5c45\u793e\u533a, \u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a, \u6d2a\u5c71\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430074, \u4e2d\u56fd",
+"summary_polyline": "ygcyD{anyT~@|@`BhBj@b@XXrA|Al@d@LFDFCHKBQHq@P[TmA`@cB`Ac@f@MBIIKi@Qg@[o@]cA]k@Ws@Ss@]yAK[IGI?ULy@j@_A^EJ@PHXLV@HABONSJiBh@c@`@CJ?Tx@rCr@hBXz@l@rAXz@^xAJPHBJCv@c@z@c@XS~@c@h@_@r@UVMVSDIMSSe@{@kCKc@Yu@c@eAg@_AQe@aAyDEGMGKBa@TaBp@IFENALX`AAJEHQJeAZkAd@IHAN?LDPt@rB\\v@l@vBf@fAVr@n@vBFFHBNCzA{@pAm@jAm@^U`@QNKFM?KGSo@cB]eAeBeEq@sBYqASq@OQE?k@`@eBn@GHEL?JVp@DNGNIFyAb@g@Ra@VEXFXXn@l@hBn@xBn@lARz@Vp@\\lAFFPAfB}@jAg@x@g@n@g@n@UJM?IIa@i@oAWs@a@_Bc@y@a@iAYm@Wq@Kc@w@}BGAe@\\w@Xs@`@E?CI@An@CZOz@k@DAF@HNNf@PTl@vALd@Zr@Rt@v@nBJb@LLJ?JGd@c@n@Sp@a@j@Sb@Up@g@l@YFIEOwAmAy@_AoBeBmCsC",
+"average_heartrate": 135.1,
+"average_speed": 3.057,
+"source": "strava",
+"streak": 15
 }
 ]
