@@ -66808,5 +66808,20 @@
 "average_speed": 5.304,
 "source": "strava",
 "streak": 17
+},
+{
+"run_id": 11735193766,
+"name": "Zwift - Neuromuscular + AC #1 in Watopia",
+"distance": 32886.2,
+"moving_time": "1:00:30",
+"type": "VirtualRide",
+"start_date": "2024-06-25 11:10:44+00:00",
+"start_date_local": "2024-06-25 19:10:44",
+"location_country": "Temuo, Temotu, Solomon Islands",
+"summary_polyline": "~infA_v}y^gA|Ln@zBq@nBlAz@rDgB^b@NrApAtAfCZL`BeEl@_E|@`@jDcDfMgEvAaA`CuLdOmAjHsDjBaB`EkBt@uGBYs@zBsNyAuG\\uAcAq@yC`@wEmDjBaEy@gCtDa@\\}@u@gAyE}@k@_ASaBh@sFt@kAz@_@fDpBfCPZUXwBnAEh@t@^xEe@d@sC?i@fBsG}A`@kDpCyC|@uDx@QtBr@lAoAkAaCfA}HcHaBmDsELq@|AgBv@oEOkAqBcBt@_D]kCB_D\\_AbBWhAsCJqAoA{ADgArC_BrCj@j@Qd@w@]oC`@iBr@UtB\\xAeAViFj@sCn@KrBr@x@MlBoAl@iBW}Ay@aAwCK}C_C}BPUkAfAyAe@oA{@OeBl@a@[[aBxAqCx@uHgAqBaDIiA}@CuFrpAGnBbAvBaAhAr@pFlAd@bA_@zAXjFUxAaAf@gEDqFxCe@dAMdDeB`C[`HoBzDq@rCw@p@gDFq@v@d@~EsAfD@fAjAz@jEl@t@|ASfBuBrDOrDiF|EyBDuCx@w@Sc@gBcBmCy@OkDjEiHp@q@z@PlA~GlAlA`BXjIjAxAiA|Ml@xBu@pALb@nAh@jCgBb@Bv@fC`BvAxAGb@dBe@f@qDTqD|@\\pDcDbM}DjAkAjCiLtN}A|HoDfBsAlDu@n@iIf@a@a@Cm@xBqN{AaG\\yAcAq@wC^sEeDE[jBkDy@cCxDg@ZgAu@}@{E_Ag@y@WeBh@qFl@gAdAe@dDnBlCRXYXsBlAEh@r@`@nEc@n@yC@i@fBqG}A^gDtCcD`AuDr@KzBp@dAiAeA_BEo@jA_GCs@_H_BoDsEHm@bBmBt@kEOoAqB_Bt@{C]sCBwC^gAhB]fAaD@gAoA{AF{@pC_BtCf@l@Od@y@]yC`@_B`@SfC\\tA_A\\yFh@gCn@MvBr@x@OnBsAh@eBWwAy@eAaDOuC}B{BTYmAhAyAa@mA}@QeBl@c@[WoBxAoCr@sHaBwB}BHaAm@]eA@uDd@SxoAA|BdAfBcAtAv@bFjAd@v@_@`BXjFY`BcAb@_EByF`Da@lAGnCkBrCWvGoBxDq@pC}@v@kDHg@n@b@fFuAhD@|@pA~@fEl@r@tAOfB{BdEKhDcFxEeCHqCv@u@Qu@eCyA}Bg@E_Ah@{BhDuGh@y@j@F~AjInBl@fBHnF",
+"average_heartrate": 134.9,
+"average_speed": 9.06,
+"source": "strava",
+"streak": 17
 }
 ]
