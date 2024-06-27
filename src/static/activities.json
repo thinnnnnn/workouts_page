@@ -66883,5 +66883,20 @@
 "average_speed": 3.845,
 "source": "strava",
 "streak": 19
+},
+{
+"run_id": 11752270567,
+"name": "Afternoon Walk",
+"distance": 5190.3,
+"moving_time": "1:05:58",
+"type": "Hike",
+"start_date": "2024-06-27 08:40:25+00:00",
+"start_date_local": "2024-06-27 16:40:25",
+"location_country": "\u5f53\u4ee3\u793e\u533a, \u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a, \u6c5f\u590f\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, \u4e2d\u56fd",
+"summary_polyline": "yj_yDkljyT?MEKKGOCoEU}@AeAO_G]eAIg@OQMMSKEQE_@@o@Vc@BcESoBS}@MkDMkCY}DWYGe@Qc@IkEU_AQmAOWMQUI[AWHkBf@kG@y@G_@MYQQq@i@WOa@KyAQe@A}@Us@Ga@A_@@_@Fm@TYAsAk@}DsAaI}CkBm@OIGO@YZoAN}@^cATyAx@{B`@qC^cBD]?SEGKCkAME@OPMFi@H[?uAMw@U{B[OKCS@k@RiDFcC?aDBsCCe@IUQWOIcAc@KKMQu@kBqDcK",
+"average_heartrate": 79.0,
+"average_speed": 1.311,
+"source": "strava",
+"streak": 19
 }
 ]
