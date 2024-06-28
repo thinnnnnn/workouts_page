@@ -66886,7 +66886,7 @@
 },
 {
 "run_id": 11752270567,
-"name": "Afternoon Walk",
+"name": "Commute Afternoon Walk 5km at -\u00b0C",
 "distance": 5190.3,
 "moving_time": "1:05:58",
 "type": "Hike",
@@ -66898,5 +66898,20 @@
 "average_speed": 1.311,
 "source": "strava",
 "streak": 19
+},
+{
+"run_id": 11756485500,
+"name": "Zwift - 4x200R+3x1.6km+4x200R in Watopia",
+"distance": 36900.7,
+"moving_time": "1:08:43",
+"type": "VirtualRide",
+"start_date": "2024-06-28 00:20:54+00:00",
+"start_date_local": "2024-06-28 08:20:54",
+"location_country": "Temuo, Temotu, Solomon Islands",
+"summary_polyline": "p~lfAyvez^}Dw@c@mDmAiAeDg@gDlBeB_C{DSe@_D_Ju@_AiHdAsB|Au@DiA}CsBsCe@iBuDaAs@_BNaGxFgAWGaDuAYeDbBcC]cB~@U|Ac@ZaFmAcEpC{D`@aCiAMwBmACs@j@y@jDcFmAaCfDeIPiDtB}@nB_BtAcAfFy@bAgAAgEkC_FlAsBbC_AbKaB~BsD@kIqDgEnAeCMyD~CaFd@_CzFs@j@}@WcEkE_G^cEaCgDg@uB`@sEjEiFf@wA~CxArEK|EiMtH{@`EoBt@uAlB\\hCd@|@rAd@PzBx@~Ac@lBmB\\Kd@V`@zBViBlB_EhAg@xKlBdGvEfFShHx@|BlHmB`E_D|CnCvAMNeBqBwB?gCmAiBh@eBzCA~FeC|FiAvNm@hLvBhK~GvErHbCpADrIdAnBrBQvBuAz@kB[cDPeAv@y@tAJp@lLf@jB~@vA~B\\z@e@fA}DcAiFReHiAsOb@oBtAa@xOH`Az@TbF~A|@lBJdHoCp@}FlBcEfIyC`KnHjE|Bd@rDfElAlCbEIbFbDfEh@pC~@hAhKNnCzAd@s@I{EbA[t@p@PpFr@p@|@i@RkF~@i@|@d@RpFp@t@~Ak@NkFdAc@bAZPfFjAfAzAu@h@uEfAkAbGdDrHJX~FtA|@|BGtApB}@bIqA`CXpBf@ZnBm@r@PZhAeArANfAh@XbB]rCzBzCNlAvCs@hBaBbAcAJuBq@k@VgA`KuAx@yB_@i@Vg@rBZnCa@l@}D[mCxAU|@pAlBI|A{@`CeBZi@~AZzGs@tCnBhBLtAq@~DkB`DpDtE|G~AkAzHjAxBgAjA_Cw@w@`@y@lDoCrCc@rDd@f@rF`Al@gBrCAn@s@c@{Eg@s@}AFq@dCgCQcDoB{BlBk@hGdAzCbG~ADp@]f@wDd@x@bCiBpDtEbE|C[`Aj@[rAvAvGwB~N`@n@hAL|EY~As@tAuD~DyBnAmHtLcObAaCdEuA`DeM]qDxIgAl@o@UaB_CQuAyAw@{BsDfBeAm@p@{Bo@yBfA_MkAqBUqHqAwB}GiAGgBnIkAvBiD|@c@~BtCd@nBrATdG_AbFwERuDzBcENmBu@wAsEs@gA{@vA_F_@qFr@e@tCC~@s@fD_JRiGjBsCh@}EzF_DxEG~@sAWqGVkC{@s@yEaAa@s@j@k@jGuALoB}HcHm@d@WxDsGCU_KyD}@MkOzCW|A}@XgAg@mCmAiAh@cFw@kE",
+"average_heartrate": 139.3,
+"average_speed": 8.95,
+"source": "strava",
+"streak": 20
 }
 ]
