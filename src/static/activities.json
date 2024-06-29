@@ -66913,5 +66913,20 @@
 "average_speed": 8.95,
 "source": "strava",
 "streak": 20
+},
+{
+"run_id": 11766828304,
+"name": "Zwift - Climb Portal: Pla d'Adet at 100% Elevation in France",
+"distance": 26528.7,
+"moving_time": "1:08:38",
+"type": "VirtualRide",
+"start_date": "2024-06-29 11:28:05+00:00",
+"start_date_local": "2024-06-29 19:28:05",
+"location_country": "Piste du camp des Sapins, Nakar\u00e9, Thio, Province Sud, Nouvelle-Cal\u00e9donie, 98829, France",
+"summary_polyline": "xaqcCwlbu^oJ`OqFvD}ApBk@d@wAj@}JpCiBt@s@r@eB^k@`@_BrBk@d@eBOkDtAuAV}Gp@mDLoAf@OV?^T^f@\\xARhHy@tDIdAi@h@Gb@\\pAbCjC\\`@G\\WVcBLMdBPr@m@zAa@hAKp@HnFs@nH]jBN|At@n@z@lArC^Zv@QvCoBbAMzA|@bAnArC^pBnBpDnAT^N`ARR~@ZfDd@vCzA^^@Zk@DcCyAoBe@iBGWNKXHX^RrB@n@RjGjGrAj@tAH\\LhGpF`CGfFn@t@TzG~BjBz@jBfAtC`CzEpBf@`@t@E`CiBfCMbEZtEbArDTnEhAhJN\\\\ThA`@X`@Bx@a@jAEn@HnAf@tD|BdCvB`KzEfDhBhEfCtFx@tCr@`KhEpC|@bBThGJpA^~DzB|Al@`AJTKNWA[SYyB_Am@e@aBqDwB}CcIuFqHeHqLgKkAwAeC{A]o@m@oBo@g@mB_A_A_AMa@Aa@RkDQgBD]d@aABo@{@gCGgBOw@gBiFA[PqAIk@eCkGUmABm@Pm@zBqDJg@?u@[{AaBaEk@uBQqAAeDK{@Yk@u@u@qFmDoJcAuAg@mDiDPc@Cw@Q_@g@]_A@o@h@M~@F`@\\d@h@R^?r@a@|CvClAp@fKfAlFjDr@p@Xf@NhA@dDRtAf@lB~AtD\\tA@|@G\\]t@_B~BW|@A`@X|AdCfGF^S`BF^hBlFT|Ct@vB@^k@tAC^N~AQzDPx@z@~@`DfBLTb@dB\\h@rCfBxAdBvLnKbGvFjI|F|BdD~AnDh@`@dChAFVKTUJiAO_Bo@aDiBgBk@gGK}ASsDmAaJ{DgDw@qDc@cAWwHsEwL{F_CuBeDsBwAk@}@G{@Bs@\\_@BYMQYO{@UWYI{IMyEkAoDU_FeAkDWoCHs@^}ArA_@@s@g@mEiB{D{CuE{BcIkCeFm@eBJ[MyFcF[O}AKuAm@}FaGy@[eB@a@IKa@VWjCNbATtC`B`@CJ]O]q@i@sCsAeEo@YUSgAW]qDoAwBsByBUc@Ss@aAaAq@e@OmATiChBg@Rc@YwAaD_AcAuAi@{AKkCFqDXoFt@c@G_BJkAXs@p@}AW[R]hBm@TkC[oA_Cg@_@q@DgAh@oDHuHx@sAWi@g@GYL]|@a@jFW`Go@hAUfCiA",
+"average_heartrate": 130.9,
+"average_speed": 6.442,
+"source": "strava",
+"streak": 21
 }
 ]
