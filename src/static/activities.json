@@ -67273,5 +67273,20 @@
 "average_speed": 3.128,
 "source": "strava",
 "streak": 6
+},
+{
+"run_id": 11882104422,
+"name": "Morning Run 8km at 31\u00b0C",
+"distance": 8161.1,
+"moving_time": "0:45:00",
+"type": "Run",
+"start_date": "2024-07-14 00:44:51+00:00",
+"start_date_local": "2024-07-14 08:44:51",
+"location_country": "\u7965\u548c\u96c5\u5c45\u793e\u533a, \u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a, \u6d2a\u5c71\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430074, \u4e2d\u56fd",
+"summary_polyline": "mpcyDkjnyThAhAt@~@dA|@b@f@VRt@v@lAjAPRh@d@\\b@~@v@\\`@h@d@TXFD@LWJONODOLSDSP}@`@SLkAd@[ZWHICEKCOGOOk@KGCWEU?WHKRGp@g@pAi@XILIF?HXBVNv@HR@\\HZA@MFO@MF_@TC?cAd@ONQHMIa@o@Mc@OICICYEGj@m@NIZWPEJI\\O^GHGHALGHCDHZlAJn@FRFHANk@Te@HMDKLUN]FSRY@CCQm@KS?EGIOI?EEIIY?KFOHIRGZURGf@WTQRID@f@UHBPf@Dd@^rACRODYNWDOH]J]TMRE?IDMJO?GEAKUi@I_@EICSKUAQJK^SVUVMh@]h@SZQN?P`ANjAJf@?JMFC?CB_@HEF[JWNi@PWTM@QKOc@SaAEGI_@AKBI^_@z@a@D?XQb@M`@WJ@DBJZd@xBBPCPg@NGDM?ABMBWTa@HGDCAa@XK@C?EKMKIQMi@Yg@CQ@Kv@i@TIdAe@l@SHGNADFXtAHrACD[J}@b@E?AB_@JYNONIBGCMWSq@]{@CO@MBEj@YXI^STELIj@YZKN?`@hB@^DL?PIDg@Ls@\\QLc@Na@\\O@GWKUIa@KSAMIMCMEQ?CJO^SHAXQ^MNKl@On@W^nAR|AADSJEHo@RI@MHYFWHKJG@GFMFG?GEIQa@kAYq@?ODGJAVOz@[FGVILGRGb@WL?FFLb@Th@N|@AVSJw@VQLUJYHc@@UPO@C?EUYw@EE@EKQG[@OVKVONCl@Wx@YXCVUFABBRt@DZBDJl@F`DAfBD?BE?e@@S?{@@M@kAECC@ElCBp@CPB@DK@mBFiACUCEC@CtECFB@B?BICODiABwBCCAB@TAfAEv@AbAF?BEEQBa@AUByBAOCAABCvEFC?wBFoAEMCAA@A~EDEAQB}@A]@m@Cs@@MJYFE^MLM?ENKNEHIBIYWSIWYOU}@eA_A{@MSu@u@_@g@aBsA",
+"average_heartrate": 149.8,
+"average_speed": 3.023,
+"source": "strava",
+"streak": 7
 }
 ]
