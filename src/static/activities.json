@@ -67393,5 +67393,20 @@
 "average_speed": 4.084,
 "source": "strava",
 "streak": 10
+},
+{
+"run_id": 11910579220,
+"name": "Evening Run 13km at 33\u00b0C",
+"distance": 13006.3,
+"moving_time": "1:12:58",
+"type": "Run",
+"start_date": "2024-07-17 12:12:28+00:00",
+"start_date_local": "2024-07-17 20:12:28",
+"location_country": "China",
+"summary_polyline": "",
+"average_heartrate": 138.6,
+"average_speed": 2.971,
+"source": "strava",
+"streak": 10
 }
 ]
