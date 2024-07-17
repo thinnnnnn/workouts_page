@@ -67363,5 +67363,35 @@
 "average_speed": 4.357,
 "source": "strava",
 "streak": 9
+},
+{
+"run_id": 11907109543,
+"name": "Commute Morning Ride 2km at -\u00b0C",
+"distance": 2099.6,
+"moving_time": "0:07:52",
+"type": "Ride",
+"start_date": "2024-07-17 02:46:28+00:00",
+"start_date_local": "2024-07-17 10:46:28",
+"location_country": "\u5149\u8c37\u4e00\u8def\u66fe\u5bb6\u57b8, \u5149\u8c37\u4e00\u8def, \u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a, \u6c5f\u590f\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430074, \u4e2d\u56fd",
+"summary_polyline": "_b`yDaujyTEdCDXFJDDb@FrH`@rAJ`ABvCZXFLLHPBT",
+"average_heartrate": 99.6,
+"average_speed": 4.448,
+"source": "strava",
+"streak": 10
+},
+{
+"run_id": 11908626452,
+"name": "Commute Afternoon Ride 4km at -\u00b0C",
+"distance": 4913.5,
+"moving_time": "0:20:03",
+"type": "Ride",
+"start_date": "2024-07-17 08:44:33+00:00",
+"start_date_local": "2024-07-17 16:44:33",
+"location_country": "\u957f\u57ce\u793e\u533a, \u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a, \u6c5f\u590f\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430074, \u4e2d\u56fd",
+"summary_polyline": "uk_yDaljyTKYIGKEyDSeAKkACaCQs@Ai@KmBM[KoA{@AQV_GDoBFk@@yCRcBf@{CHcA?]COMc@IKKGQCoNqAmJ_AgAIkAUkD[sAQyA]g@_@g@YGKCMHuA`AaK@k@GUIKKIMCkAKmC]_AAOIGYMOQM[MeGeAiAYi@C_AUqCi@e@OSMGICO?_@bAuJb@kFDgBs@?QCyAe@oA[eBu@m@a@aAo@cByAuCqCqFwF",
+"average_heartrate": 96.7,
+"average_speed": 4.084,
+"source": "strava",
+"streak": 10
 }
 ]
