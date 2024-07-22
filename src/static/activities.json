@@ -67468,5 +67468,20 @@
 "average_speed": 3.202,
 "source": "strava",
 "streak": 13
+},
+{
+"run_id": 11949851272,
+"name": "Commute Afternoon Ride 5km at -\u00b0C",
+"distance": 5142.2,
+"moving_time": "0:19:30",
+"type": "Ride",
+"start_date": "2024-07-22 08:37:05+00:00",
+"start_date_local": "2024-07-22 16:37:05",
+"location_country": "\u957f\u57ce\u793e\u533a, \u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a, \u6c5f\u590f\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430074, \u4e2d\u56fd",
+"summary_polyline": "qk_yDykjyTGWIKMGUI_@CcACsCUoAEqHm@a@Ii@_@QE]Bi@TUBw@?kBKeDa@q@MiAKuACe@CuAW}E_@gAQiCU_BSo@EsAEsBSsHg@gAO_B[eAY]QQYEM@Of@gB`@oAdAyDJo@D[C[EOQQSK_Bi@aQqGSMGO?KDW`@yAfA}Et@mCrBoLh@sEt@mH^uFBcB]Au@I_A]wAYgCiAgAw@uAkAkHkHwBmB",
+"average_heartrate": 104.5,
+"average_speed": 4.395,
+"source": "strava",
+"streak": 1
 }
 ]
