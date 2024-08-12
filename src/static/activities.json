@@ -67903,5 +67903,20 @@
 "average_speed": 3.229,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 12124659206,
+"name": "Commute Morning Walk 2km at 32\u00b0C",
+"distance": 2512.4,
+"moving_time": "0:56:57",
+"type": "Hike",
+"start_date": "2024-08-12 00:44:10+00:00",
+"start_date_local": "2024-08-12 08:44:10",
+"location_country": "China",
+"summary_polyline": "",
+"average_heartrate": 83.4,
+"average_speed": 0.735,
+"source": "strava",
+"streak": 2
 }
 ]
