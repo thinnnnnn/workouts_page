@@ -67993,5 +67993,20 @@
 "average_speed": 3.251,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 12170280691,
+"name": "Zwift - Glyph Heights in Watopia",
+"distance": 34341.0,
+"moving_time": "1:16:44",
+"type": "VirtualRide",
+"start_date": "2024-08-17 11:25:12+00:00",
+"start_date_local": "2024-08-17 19:25:12",
+"location_country": "Temuo, Temotu, Solomon Islands",
+"summary_polyline": "zfofAe|_z^sEl@m@`@Z|F{AxDn@xAhFz@v@dAGpB}BlESrD{EpEaHbAs@[gCwFq@GoDnEeHn@u@jAn@nAhG~@hAfBV`IjA~AiArMn@nBu@pAHn@fAn@vDgBx@fCxAtAbBC^bBi@h@yIhAZtDcDdMiEtAaAbCwLfOcAzGqDjBkBjE{Ap@qFXiAq@xBgOyAmGVmBaAa@{C^uEyDjBgDu@sClD[d@cAc@}@wE{@{@cAUmEdAcEhBu@nClBfCRx@mC~@Kr@n@d@bFg@d@uC@e@fBuG}Ab@oDlCsC`A{Dl@O`Ct@hAgAkAoCjAqH_HcBsDsEhBuCx@qEMoAsBaBr@wC[yG`@}AlBa@`AoCHgAmA{ADmAnC{ArCh@r@W`@{@_@uB^uBf@YdC\\rA}@fAcKdDd@dAUjBuA`@gBmAqCaDQwC{B{BPWkAfAyA_@mA}@SeBn@e@]YgBtAeC|@yHmAuBmC?uA_Ae@eGwHGqDoCkAQeA~@s@pFyAd@u@_AOeFgBe@_A~@I~EeA^u@o@Y_GoAa@_A`AQhFs@Rk@w@UuFeAi@aAn@LtEa@f@{CaBsLEwDrGx@nIOt@oGzD_DsBaAFmAjAg@vCaBjANpBrC`D?`CaBzEuEtBcFk@sJ?oC_FoFJeEeByAgEC{C_AkAmGQmFg@eFhFwB~DkF`UH~E{CbB}AlHcC~FgCnBy@UU}@fAmGo@{@qAD{BzBu@vDqAhNGvD}BVy@oB[aLdAuJi@wAiA{@kAx@cAxC@hPuBpFq@JuDwEV}DlBiDf@aCg@wAcBDmAfAiBfEq@xHeArEuAa@k@cB|BeKgAs@sAh@oC|HCdFwAhEXbEbCfEjCjClErAdDbFrB|ApHbAfFF|Q}E~HdBjF?N~BZb@nCc@tCz@Fb@e@j@aDRMtAbFxDrCtHlAjAhCn@bAoAJaCdCKvChBJnB`@b@jUzHvDW`Cd@XhA`Bv@XxCcAhAqAc@s@Rm@xCkHXyCaByDq@qAlAr@zDWfDpCbCm@rDtHnEfDkAtCc@Z}@UmAz@gBo@iCnAo@vBPzBbCv@Sv@{AdDnBlDy@jFnBZlBdA\\lLIfCgCzEkCxA[vD\\nCcArE`@zC~AxIk@`BhDbBDvCcOGcBoAaEZ_BcAk@{C^sEkDhBcE{@}BxDg@\\eAo@}@qFsAk@mB?gCf@oCnA}Ax@InCnBdCPv@mCf@MfAf@j@bFa@n@_DBe@dB_GgAEaB",
+"average_heartrate": 125.5,
+"average_speed": 7.459,
+"source": "strava",
+"streak": 4
 }
 ]
