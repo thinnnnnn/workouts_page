@@ -68098,5 +68098,20 @@
 "average_speed": 3.157,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 12202857416,
+"name": "Afternoon Ride",
+"distance": 5022.6,
+"moving_time": "0:21:52",
+"type": "Ride",
+"start_date": "2024-08-21 08:35:08+00:00",
+"start_date_local": "2024-08-21 16:35:08",
+"location_country": "\u957f\u57ce\u793e\u533a, \u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a, \u6c5f\u590f\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430074, \u4e2d\u56fd",
+"summary_polyline": "uk_yDqkjyTEWMQSKSCgBKaBCqCWiAE}AOa@Gc@CcAKgAW_@@{@Je@?_@I_BIgCWqAQwCKaAIsA[mHi@_CW_AQaBKoBI}Ec@uAIoEe@oCo@i@QQA_@@]?k@OaAYsAe@eAa@iAu@uH_DKGOSo@k@EI?IZq@l@mBb@gAhCwI`@cB\\{@Nk@HcADcBBg@b@mCd@gDh@oD`@cDb@iEh@wFDo@?u@COGSWYmAc@uAm@yAy@e@_@wCeCwJwJ",
+"average_heartrate": 93.6,
+"average_speed": 3.828,
+"source": "strava",
+"streak": 3
 }
 ]
