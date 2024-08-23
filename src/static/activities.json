@@ -68143,5 +68143,20 @@
 "average_speed": 6.25,
 "source": "strava",
 "streak": 4
+},
+{
+"run_id": 12221734315,
+"name": "Zwift - Snowman in Watopia",
+"distance": 44372.6,
+"moving_time": "1:28:34",
+"type": "VirtualRide",
+"start_date": "2024-08-23 11:50:57+00:00",
+"start_date_local": "2024-08-23 19:50:57",
+"location_country": "Puma, Temotu, Solomon Islands",
+"summary_polyline": "pb`fAge~y^jEhBfE~JfBdApCk@EeA~@aA}B}AF}AaBoARaArBi@tAbDdDvAvCkC}CeDIcB`Ag@tEXvFzJdMkIbEfFfD{GvE~DfAFZw@e@kCzBm@\\aAkC}E_@oDmCu@_KGhOyCaMr@mA[|@_BnMgCeHsOOyBfBuBbB^dGtOfL]d@}AFkJlDwMP_OOmCqAc@_QhEoBaGFkAp{@_UpF{BbBiBbDhClA?\\qBsByB@cCoAqBl@aBtC@vH{CxJwAxO\\lNfGdD`DdB|DqAzKuCdAgBrDz@|D}CdBsBSf@nB{A|D\\xFoFrEf@hDnBjAGtBwG|Ds@vOmCjGkDjBw@rCmEbDeE~KChF{A|GrCrHtCvCjEpAfEdGlDxAtMn@vQ}E|GbBvF@t@dD`Cc@dD~@]jAaDPWjAjFdErCtHrApAdCf@~@qAH}BlCItCjBn@pChUzHlHBl@|ApAb@^tCcAtAmCIg@rCsHVkIqCoAbAr@nEW~CnCzBq@pDfHpEfI_Bb@_AUwAz@}Aq@eClA{@`CT|B~BnBqBpCnBvDw@jFnB`@rB~@VzLMxIqGjGD`DgAhEd@lC|AdJk@nAxCrA`@`Aw@tBwMwAiHZ{AcAk@{C^uEqDhBuDw@iCvDc@ZiA{GiCq@cFd@_DpAcBbE`BpCT`B{ChAv@VtFmDLk@hBsGgB`@cDnCwC|@qDlD\\lAy@gAaDnAwGqHaCeDcEjBiDt@gEQsAoB{At@aDYkH\\aAhB[dAsCHoAmAuA@iApC_BfERB_Ed@qBzCN`BaAdAcKhFPnB{A^gBoAoC{CM}C_C{BRWgAhAaBc@iAgEAWeBtAeCz@cIoAoBsEm@c@mGmIQuF_DcAx@y@|FwA^u@}@KeFaBg@gA~@KdFkAVo@u@YyFmA_@_AdAShFo@Nm@s@QqFaAo@gAh@JvE_@h@qC_BcKOgB{E}C}DH_FyCuEyDaAs@}DgQiLwI~CgBvDaAvGsGzByD{@]iFy@{@gPQcBj@a@xBjAfPUbGbAzFmBhEuBOmA{AyAyOcCFm@|AFhF}A`B{Ct@mAqBIyI{Bw@eBTw@~HkC|@mBtDv@bEwCbBwBU`@rCyAtDb@rEsEdDi@xA|@xC`Bv@BzAyAtBsCh@}@lA@dJg@xCmCnGoDnB}@zC_DhB_DnFoZaHi@wBr@aGi@iAkBvA{@~Fs@Pm@{Fo@i@q_@}GD{LvDaPDqOw@mAy_@jJwHx@kCs@sGyHgGa@mDnByElIqSxCwGdCkCbE[nF",
+"average_heartrate": 127.4,
+"average_speed": 8.35,
+"source": "strava",
+"streak": 5
 }
 ]
