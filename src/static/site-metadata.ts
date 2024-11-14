@@ -22,8 +22,8 @@ const data: ISiteMetadataResult = {
       url: 'https://eimoo.com',
     },
     {
-      name: 'About',
-      url: 'https://github.com/ben-29/workouts_page/blob/master/README-CN.md',
+      name: 'Strava',
+      url: 'https://www.strava.com/athletes/yangli',
     },
   ],
 };
