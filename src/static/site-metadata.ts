@@ -11,7 +11,7 @@ interface ISiteMetadataResult {
 }
 
 const data: ISiteMetadataResult = {
-  siteTitle: 'Li Yang's Workouts Map',
+  siteTitle: 'Workouts Map',
   siteUrl: 'https://go.eimoo.com',
   logo: 'https://eimoo.com/service/avatar/0ab4d0eec14aa1dc634d6d75dffe80d9',
   description: 'Personal site and blog',
