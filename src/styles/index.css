@@ -26,3 +26,65 @@ hr {
   border-color: #0003;
   margin: 2rem 0;
 }
+html, body, text, :host, ._buttons_bnw9n_9, .mapboxgl-map {
+  font-family: ZwiftSprint-Regular,Microsoft YaHei,Helvetica Neue,Arial,sans-serif !important;
+  font-style: normal;
+}
+.leading-relaxed {
+  color:#646464; 
+}
+.text-2xl {
+  font-weight:normal;
+  color:#646464; 
+}
+.italic {
+  font-style:normal;
+}
+.font-extrabold {
+  font-family: ZwiftSprint-Bold !important;
+}
+.font-bold {
+  font-family: ZwiftSprint-Bold !important;
+}
+tr[class*="_selected"] {
+    background-color:#333;
+    color: #ccc !important;
+    position: sticky;
+    bottom: 0;
+    top: 600px;
+    font-family: ZwiftSprint-Bold !important;
+}
+
+._tableContainer_kyayk_58 {
+  overflow: visible !important;  
+}
+
+.w-full.lg:w-4/5 {
+  position: relative;
+  overflow: visible;
+}
+
+.mapboxgl-map {
+  position: sticky !important;
+  top: 0;
+  background: #333;
+}
+@media screen and (max-width: 960px) {
+  .mapboxgl-map {
+    height:300px !important;
+  }
+  tr[class*="_selected"] {
+    top: 300px;
+  }
+}
+@font-face {
+    font-family: ZwiftSprint-Bold;
+    src: url(https://rs-eimoo.112030.xyz/static/fonts/ZwiftSprint-Bold.ttf) format("truetype")
+}
+
+@font-face {
+    font-family: ZwiftSprint-Regular;
+    src: url(https://rs-eimoo.112030.xyz/static/fonts/ZwiftSprint-Regular.ttf) format("truetype")
+}
+
+@import url('https://fonts.loli.net/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700');
