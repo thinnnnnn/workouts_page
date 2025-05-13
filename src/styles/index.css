@@ -28,7 +28,7 @@ hr {
 }
 html, body, text, :host, ._buttons_bnw9n_9, .mapboxgl-map {
   font-family: Outfit,Microsoft YaHei,Helvetica Neue,Arial,sans-serif !important;
-  font-style: 300;
+  font-style: normal;
 }
 .leading-relaxed {
   color:#646464; 
@@ -42,11 +42,11 @@ html, body, text, :host, ._buttons_bnw9n_9, .mapboxgl-map {
 }
 .font-extrabold {
   font-family: Outfit !important;
-  font-weigth:600
+  font-weight:600
 }
 .font-bold {
   font-family: Outfit !important;
-  font-weigth:600
+  font-weight:600
 }
 tr[class*="_selected"] {
     background-color:#333;
