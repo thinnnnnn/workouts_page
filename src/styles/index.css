@@ -69,6 +69,7 @@ tr[class*="_selected"] {
 
   background: #333;
 }
+
 @media screen and (max-width: 960px) {
   .mapboxgl-map {
     height:300px !important;
