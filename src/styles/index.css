@@ -27,8 +27,8 @@ hr {
   margin: 2rem 0;
 }
 html, body, text, :host, ._buttons_bnw9n_9, .mapboxgl-map {
-  font-family: ZwiftSprint-Regular,Microsoft YaHei,Helvetica Neue,Arial,sans-serif !important;
-  font-style: normal;
+  font-family: Outfit,Microsoft YaHei,Helvetica Neue,Arial,sans-serif !important;
+  font-style: 300;
 }
 .leading-relaxed {
   color:#646464; 
@@ -41,16 +41,19 @@ html, body, text, :host, ._buttons_bnw9n_9, .mapboxgl-map {
   font-style:normal;
 }
 .font-extrabold {
-  font-family: ZwiftSprint-Bold !important;
+  font-family: Outfit !important;
+  font-weigth:600
 }
 .font-bold {
-  font-family: ZwiftSprint-Bold !important;
+  font-family: Outfit !important;
+  font-weigth:600
 }
 tr[class*="_selected"] {
     background-color:#333;
     color: #ccc !important;
 
-    font-family: ZwiftSprint-Bold !important;
+    font-family: Outfit !important;
+    font-weigth:600
 }
 
 ._tableContainer_kyayk_58 {
@@ -74,14 +77,22 @@ tr[class*="_selected"] {
     top: 300px;
   }
 }
-@font-face {
-    font-family: ZwiftSprint-Bold;
-    src: url(https://rs-eimoo.112030.xyz/static/fonts/ZwiftSprint-Bold.ttf) format("truetype")
-}
 
 @font-face {
-    font-family: ZwiftSprint-Regular;
-    src: url(https://rs-eimoo.112030.xyz/static/fonts/ZwiftSprint-Regular.ttf) format("truetype")
+  font-family: 'Outfit';
+  font-style: normal;
+  font-weight: 300 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/outfit/v11/QGYvz_MVcBeNP4NJuktqUYLkn8BJ.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Outfit';
+  font-style: normal;
+  font-weight: 300 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/outfit/v11/QGYvz_MVcBeNP4NJtEtqUYLknw.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 
-@import url('https://fonts.loli.net/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700');
