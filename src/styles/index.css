@@ -26,74 +26,155 @@ hr {
   border-color: #0003;
   margin: 2rem 0;
 }
-html, body, text, :host, ._buttons_bnw9n_9, .mapboxgl-map {
-  font-family: Outfit,Microsoft YaHei,Helvetica Neue,Arial,sans-serif !important;
-  font-style: normal;
+
+html,
+body,
+text,
+:host,
+._buttons_bnw9n_9,
+.mapboxgl-map {
+    font-family: Outfit, Microsoft YaHei, Helvetica Neue, Arial, sans-serif !important;
+    font-style: normal;
 }
+
 .leading-relaxed {
-  color:#646464; 
+    color: #646464;
 }
+
 .text-2xl {
-  font-weight:normal;
-  color:#646464; 
+    font-weight: normal;
+    color: #646464;
 }
+
 .italic {
-  font-style:normal;
+    font-style: normal;
 }
+
 .font-extrabold {
-  font-family: Outfit !important;
-  font-weight:600
+    font-family: Outfit !important;
+    font-weight: 600
 }
+
 .font-bold {
-  font-family: Outfit !important;
-  font-weight:600
+    font-family: Outfit !important;
+    font-weight: 600
 }
+
 tr[class*="_selected"] {
-    background-color:#333;
+    background-color: #333;
     color: #ccc !important;
 
     font-family: Outfit !important;
-    font-weight:600
+    font-weight: 600
 }
 
+tr[class*="_selected"] td {
+    color: #ccc !important;
+}
+
+
+
 ._tableContainer_kyayk_58 {
-  overflow: visible !important;  
+    overflow: visible !important;
 }
 
 .w-full.lg:w-4/5 {
-  position: relative;
-  overflow: visible;
+    position: relative;
+    overflow: visible;
+}
+
+
+.pb-2 {
+    color: #c0c0c0 !important;
+}
+
+hr {
+    border-color: #494949 !important;
+    color: #494949 !important;
+}
+
+h1.my-12 a {
+    color: #fff !important;
+}
+
+div a {
+    color: #f6821f;
+}
+
+table[class*=_runTable] :is(thead) {
+
+    color: #646464;
+}
+
+td[class*=_runDate] {
+
+    color: #646464;
+}
+
+li[class*=_selected] {
+
+    color: #f6821f;
+}
+
+body[class*=_body_] {
+
+    color: #c2c2c2;
+    background-color: #181818;
+}
+
+
+/* 跑步 */
+tr[style*="rgb(224, 237, 94)"] {
+    color: #8D98A7 !important;
+}
+
+/* 虚拟骑行 */
+tr[style*="rgb(105, 106, 173)"] {
+
+    color: #d6a990 !important;
+}
+
+/* 骑行 */
+tr[style*="rgb(0, 237, 94)"] {
+    color: #e19f3e !important;
+}
+
+/* 徒步 */
+tr[style*="rgb(237, 85, 219)"] {
+
+    color: #646E78 !important;
 }
 
 .mapboxgl-map {
 
-  background: #333;
+    background: #333;
 }
 
 @media screen and (max-width: 960px) {
-  .mapboxgl-map {
-    height:300px !important;
-  }
-  tr[class*="_selected"] {
-    top: 300px;
-  }
+    .mapboxgl-map {
+        height: 300px !important;
+    }
+
+    tr[class*="_selected"] {
+        top: 300px;
+    }
 }
 
 @font-face {
-  font-family: 'Outfit';
-  font-style: normal;
-  font-weight: 300 600;
-  font-display: swap;
-  src: url(https://fonts.gstatic.com/s/outfit/v11/QGYvz_MVcBeNP4NJuktqUYLkn8BJ.woff2) format('woff2');
-  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 300 600;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/outfit/v11/QGYvz_MVcBeNP4NJuktqUYLkn8BJ.woff2) format('woff2');
+    unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
+
 /* latin */
 @font-face {
-  font-family: 'Outfit';
-  font-style: normal;
-  font-weight: 300 600;
-  font-display: swap;
-  src: url(https://fonts.gstatic.com/s/outfit/v11/QGYvz_MVcBeNP4NJtEtqUYLknw.woff2) format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 300 600;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/outfit/v11/QGYvz_MVcBeNP4NJtEtqUYLknw.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
-
