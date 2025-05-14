@@ -16,11 +16,18 @@
     </script>
     <link rel="icon" type="image/png" href="%BASE_URL%/images/favicon.png" />
     <link href="https://rs-eimoo.112030.xyz/static/workouts.css" type="text/css" rel="stylesheet">
+    <script type="text/javascript" src="https://rs-eimoo.112030.xyz/theme/switch-dark.js"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Workouts Page</title>
+    <title>Yang's Workouts Page</title>
   </head>
   <body>
-    <div id="root"></div>
+    <div id="root">
+      <div class="switch-dark">
+        <input type="checkbox" id="switch-dark" class="">
+        <label for="switch-dark"></label>
+        <span id="tooltip" class="tooltip">设置为深色主题 (⇧+D)</span>
+      </div>
+    </div>
     <script type="module" src="/src/main.tsx"></script>
   </body>
 </html>
