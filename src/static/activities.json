@@ -94094,5 +94094,21 @@
 "elevation_gain": 212.0,
 "source": "strava",
 "streak": 6
+},
+{
+"run_id": 19454782925,
+"name": "Zwift - The Uber Pretzel in Watopia",
+"distance": 142144.0,
+"moving_time": "4:38:36",
+"type": "VirtualRide",
+"start_date": "2026-07-25 03:20:14+00:00",
+"start_date_local": "2026-07-25 11:20:14",
+"location_country": "Puma, Vanikoro, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "by_fAa}_z^lDuKx[wGtJuLl]vIfMeDEqKxcAyZjFjCsCaP|PsEzb@fB~RbRvAjMzKmNtGpSlAck@fRElGdJvWkVbQ`L|Pv_@uBpUsUpKz@jRmWhAuQ}HeDuLuNy@iMxT`Ffh@yYvLhYwKcEsg@mOzf@_E~@HwJuEpCoCpYuFi_@aGd^gFmDPkQwH~WHaPcDXaFhWrWvZdt@g@rI`EqEpDjM~PtIoDfe@`QvBtIoZp@SjLxK`O|HuBz@aLd]fEcMzNfFhM}EdGyw@cOmNwN_@yTqDmH|KgH}Le[jEsDaZaHgd@bCcVgV~BoXwYyHi@gMeEjJuBiHom@uFcIsPeD~DvHbQqO~EpOIcOdD`Op@pDhKh@nJwT~LqC|g@aTdXkGYzU{P}E{P_T{@mH~GtFhNhUkAcBsMsRdB`KzMhCyLuIJnB|HjEoEmG{CrInCgGdI}GcNlRaAxApLuUlA{EsNnHeGxShAfEnPmLdMiRyAXmRgJfChCaT{GqUvPc@oBkNvHtFnBiMfLxK`MiIzJs@bHxDg@sTmO{@fO}CmOVlOiFsHoSpEeAfGnO~Ke@hFyk@_TPqB}Hjv@}SkI{]xIqOJaGgFeLbVoVyNuR_JhMuU{L?mh@iXv@mF}IvGue@oEeLoIdF_NqKt@vOgWxGmIhSbL|OkNrc@jEhLuIxKxJfPiBdQcMtCqJcPgJ`JrD`YxHjHeEtRnGbV_Dl_@nb@kJbLcMlSvKbi@gLaDjp@kLj@uJmPlEzVoOrFnOSkQhC_DdL{YcGiXlDb@sInc@{IlEiVeScGqTdKnBhOeF}KAdLqEwCoEc^zFqXqGyUdE_S{HoHoDeXrIiJbKdP`M{ChBmQuJePnIkKeE}LfNsc@cLqOhIeSbWsGu@{OtMjKvIcFjExKwGze@rFbJ~WcA@th@xU~LtIoMpNxLqU~[dFxLM|FwIpOnIf]}t@|Rv@vJwHvB_NrAeQmKuLjMo[nGkFd\\lDjEoJ|Ih@zHj^z\\~EuDeDgJ|MzB}AeIvMpKnLgIxJs@zGfEQ}TqOcAfOwCmOTlOoFuH_QnC}DpI|Pfm@jFlBjHxEcJX|L~Y~HaCpXhVfVld@cCtY|GoEjDzLf[}KbHpDdHyDrHbUh[j`@fFqFp_@pW~a@aVmNcKmGzJbNyHaEcApc@~KqMgGnVoMAtS~DaU^p[hFmX\\hI~HrPiAmWxE|C~VaHLeNzW`RmHdC`E{RjJtg@pI{NxLfZdBmi@|NxOfCiJbIkDaMni@mO{YaBlN_Mgg@kIjR_JyBmEgRfHzMaW`HMyCaWpWsFmPnAmIoHjX]k[iGzTWsS{DpML`GeVaLnLlAac@lHtDuJcM`K`GnUdL",
+"average_heartrate": 131.9,
+"average_speed": 8.503,
+"elevation_gain": 2385.0,
+"source": "strava",
+"streak": 1
 }
 ]
