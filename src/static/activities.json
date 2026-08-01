@@ -94302,5 +94302,21 @@
 "elevation_gain": 23.0,
 "source": "strava",
 "streak": 6
+},
+{
+"run_id": 19549227769,
+"name": "Morning Run 10 km at 30\u00b0C \ud83c\udf24\ufe0f",
+"distance": 10002.8,
+"moving_time": "1:00:41",
+"type": "Run",
+"start_date": "2026-07-31 23:55:06+00:00",
+"start_date_local": "2026-08-01 07:55:06",
+"location_country": "\u7965\u548c\u96c5\u5c45\u793e\u533a, \u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a, \u6d2a\u5c71\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430200, \u4e2d\u56fd",
+"summary_polyline": "mhcyDubnyTvAbBZVbAfA`Az@f@f@p@z@j@^JJ?FKLa@Ha@LWNON{Aj@c@VYHe@j@QDGCGK}@iC?IHI`@MjAOf@Kj@a@RYHABTLd@Hj@JXHP?BmCfAYPY\\KBEEiAuCBILKVItAMp@[r@q@B?Jv@FRHd@Rd@?HQJ]Fu@XUNi@XQTOJECYe@o@kBAOHIPI^Gf@CVG\\KJGr@u@FABDNf@H|@FTNV?DCBi@PyAl@]TSTKFIESm@Q[[{@EO?IFKLGn@G~@SLGbAy@FC@@XbBJXPV@DAFsAd@y@\\WP_@^I@EE]oAc@aA?QNQp@Qh@GRGz@g@VUHARbA@TDZZn@s@Tu@\\{@f@ABWRG?GGa@gAc@aACQFMXKfASt@[z@m@BABDDb@PhAXh@BJq@R_@R_@Lk@ZMNWPGAOYw@uBCO@CRQtASf@OPId@i@JIF?DJDd@RjAVZ@FGD_@JeBv@OHc@b@IDEAKQEQKSSy@Ui@?KFILEhAU`@KVSX]^WHAXnAHl@DHPT@HKHi@LuAr@u@l@IBCAOUa@uAUe@EKBIDEZKx@Kh@SVOt@q@BIACE?MB[L_@Tc@N[Rq@ZWR?Rn@lCHRHFLCj@]ZOZWvAs@RGFE?KO]e@}ASc@KEOBYFk@Ts@b@UTc@PSTALBNTh@DTJTH`@N\\DBJApBmA^MfAk@AM_@qAYs@Q[IAKBq@Rc@PyAt@]XANBL\\jAJTNPPd@H@~@a@l@e@xAs@HG@IUe@i@eBGQIE]D_Bn@e@\\i@VIL?D^xALTZ~@D@JARIr@_@j@a@rAm@FG@GCIQ]YoAQe@GIIA]DyAn@q@f@e@RKLBVXbAVn@Vd@J?TGtAaAz@Yb@UFIAQWc@]uAQ]CCQBa@L]NuAx@_@NMHEH?N@LPf@FZLVD\\N^L?DAhAk@RQf@WbAa@FEDKYq@Kc@IMWy@IIK?WD_@La@ReAp@k@VAD?TH^Z~@Nn@NXJANGvA_At@_@r@WDI?KQ]Oo@Ue@Me@CCCAg@Lq@Zo@d@kA`@CBCJ@L~@zCBDH@JAjAq@`@[n@a@PIRCFG@GIQ[{@Ic@[m@?K@?BDF`@Pj@Nv@JTXFPArAm@HI?KMQ}@i@k@s@o@m@gDmDkAeA",
+"average_heartrate": 144.5,
+"average_speed": 2.747,
+"elevation_gain": 24.0,
+"source": "strava",
+"streak": 1
 }
 ]
