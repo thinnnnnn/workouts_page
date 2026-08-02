@@ -94334,5 +94334,21 @@
 "elevation_gain": 230.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 19567327267,
+"name": "Zwift - Heart of Montmartre in Paris",
+"distance": 74600.4,
+"moving_time": "2:08:49",
+"type": "VirtualRide",
+"start_date": "2026-08-02 08:11:24+00:00",
+"start_date_local": "2026-08-02 16:11:24",
+"location_country": "\u9999\u69ad\u4e3d\u820d\u5927\u8857, \u9999\u69ad\u4e3d\u820d\u8857\u533a, \u7b2c\u516b\u533a, \u5df4\u9ece, \u6cd5\u5170\u897f\u5c9b\u5927\u533a / \u6cd5\u862d\u897f\u5cf6\u5927\u5340, \u6cd5\u570b\u672c\u571f/\u6cd5\u56fd\u672c\u571f, 75008, \u6cd5\u56fd;\u6cd5\u570b",
+"summary_polyline": "{dhiHyx`M_Mvi@iC~CIvBb@pAzA\\hAcBDoAWuEjo@ouCCkByCeGZyI`Mmk@|@oDr@QpNlJFx@qQxx@q@XsFq@oAt@oo@`vCcBhBk@fACzBd@lA~AR|@yAS}Gpo@ivCIiBsCsFXaJlMul@h@_CdAUtMxIZ~@uQhy@_@T_Gs@qAn@so@pvCmCfDC`C~@zAfAAv@gALqAa@aDJoAjo@{uCQkBmCcFVoIjMam@x@yCv@IrNpJ_@tCyPbv@gHc@kAbAuo@lvC}BtBa@AwNiJsCeBmBmE_Mu~@_AeTZcAlEuFJo@iB_F{EU_@qHyKw`A}@_DcDsGnB{Iv@oF{@aB_@iCuBJyDsDs@DyAdCu@`@kC_AgA_BfAkGP}GhB{FAuAk@}Bl@eGf@qAtBF\\q@HkCWqFsAkBgEyAmGhB_A`A}C`Xj@|Z`AhBxJzGjCvCnIjN`FvKdOdrAbBxYD|FrMn_AYbDf@hAnBEnRxLd@l@^nCj@n@tAIv@mB]_EHsAho@ouCEmBuCyFVkIjM}l@v@wCv@IxN~JyQbz@_@VmGs@aAn@{o@`wCuCxBkN_JoDyB_@_BeA}AcMy~@_AmTZaAnE{FHo@gB{E}D?c@e@]kHsK_`Ay@}CoDuHfCqKZ}Ds@iA_@kCoBN}DuDy@D{AlCm@VgC{@kAcBdAoGNwGjB{F?uAm@_Cp@qGn@kAdBP^k@EmJcAsByEkBeHrBu@rAuCpWf@xYx@pBvKvHvCnDpHbMfFnLbO~qAbBxYBrFrMn_AYhCNdAh@`@|AKnRvLd@l@^nCh@n@tACv@gBWiGro@svCOkBmC{EViJfMil@t@yCt@S~NdKuQvy@m@`@cGs@kAdAwo@vvCuCjB}PwKwA_A_@_BeAyAcMc_AaA}Sd@wAhEoFDq@iB{EyES_@iHsKg`A_AsDiDaH`CkKd@wDy@aB]eCwBJwDsDs@@aBpCk@VmC}@iAaBfAoGNoGlBgGCwAk@aCj@yFf@sArBH^i@EmJaAuB{EkBaHpB_AlBoCvVh@fZz@jB~J`HtCdDdIxMhFlLbObrA`BpYFlGnMv~@WlCNfAj@b@|AKlRvLd@l@`@lCh@n@xAIn@wABuA_@eCLqAjo@suCSwBkCeFVqIxN}p@`A[nNlJQ~B}Ptv@]VkGs@iAv@so@jvCgBdBg@lABzB`AtArAQn@iBWaGlo@_vCKwBoCqFXyIjNyo@f@w@b@?tMvId@x@iQlx@_@x@uAK",
+"average_heartrate": 124.7,
+"average_speed": 9.652,
+"elevation_gain": 494.0,
+"source": "strava",
+"streak": 2
 }
 ]
