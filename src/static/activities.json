@@ -94414,5 +94414,37 @@
 "elevation_gain": 27.0,
 "source": "strava",
 "streak": 4
+},
+{
+"run_id": 19593727465,
+"name": "Commute Afternoon Ride 4.6 km at 37\u00b0C \u2601\ufe0f",
+"distance": 4558.6,
+"moving_time": "0:18:32",
+"type": "Ride",
+"start_date": "2026-08-04 08:04:43+00:00",
+"start_date_local": "2026-08-04 16:04:43",
+"location_country": "\u957f\u57ce\u793e\u533a, \u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a, \u6d2a\u5c71\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430200, \u4e2d\u56fd",
+"summary_polyline": "w~_yDaojyTk@EgB]a@AqAM]Ac@D_AC]BoBMGCMI]IUKYGi@EM@UIk@Ia@?WEs@AeAOk@@_AEuBUGCSQKEg@GoBIgAQ{AQK??J[A{FgAwAXmAEcBSm@OeBY]K{B[m@W_@EaAQWOCEa@Us@Y{Ai@c@Ss@UUMi@O]U[GYUkAa@c@KOIK@YOE@AA@EGAKWSQQGYAUEu@[yAu@w@i@o@_@_@QuBiAeBu@u@Uw@Ky@GkDGOAIKESAg@FyBFmFJuA@SCYDQAWQ_BOq@@MKYQe@w@oA]o@DMn@w@p@e@NOn@g@FO?Oc@aA_AiCc@aAc@_BAOEOBKUk@KOHW`Ay@?EDIBM]a@ES?IYcACS",
+"average_heartrate": 108.2,
+"average_speed": 4.099,
+"elevation_gain": 39.0,
+"source": "strava",
+"streak": 4
+},
+{
+"run_id": 19594553268,
+"name": "Threshold Build #3 \u00b7 2\u00d720min",
+"distance": 50301.9,
+"moving_time": "1:17:06",
+"type": "VirtualRide",
+"start_date": "2026-08-04 08:37:53+00:00",
+"start_date_local": "2026-08-04 16:37:53",
+"location_country": "Puma, Vanikoro, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "~m`fAoqcz^xAcCiAwEnCeCV{DkBwF_GcFMuArAyEzDyAbA}AGcEcEiF|BiCGcDpIgT`@{Dq@iCuHgDcAqEnI{SfDy@vDp@|CgEzCGpBgA`@iE_DiFlBsBpBTjHhKrBu@jB_F`DzADnEhC~A\\nAaExDAlKoApSvFxIxFh@lLyCnBh@vArRMrCcCpDfAhKjFp@nGvA`BpAd@xCjAz@~@i@zCgJnAcApClAn@~CvEPhCbDpCChB_BDuCuB}AoCZiBdCsE?m@_@]gCaDkAiAdA{CfJaAb@eAgAc@oCuAgA_H_B_Fi@{@uDI{E`CcDL}DyAsQmBm@qLzCyFg@sFqIpAwSBuK|DuD]mAiC}AGqEoD}AiB`FkBp@cHaKuB_@{BzB~CrFe@fEkGfA}CdEyDs@aDz@kInSAjBx@pBrHjDx@bCg@lEiIvSDbD{BlCbEtFB|D{@nAgEfBoAbFRnAhGtFbBxHc@fBkC`CjApE_AfBoA~@uIDYgAdC{ElKoDtAsCgBiI_GgFWmAtAkFxDwAbAyAGkEaEgF|BiCEeDjIySd@qE{@eCmHaD{@oBAkBnIsSvCu@hEn@vCeEtCEpB_Ah@kEaDuFpBqBnBXrHhKrBeAtAmEfDjAJtEhCbB\\pA_EvDAjKuAjStF`JxFj@`M{C~Ah@xArRMtCcCtDjAjK~Eh@tGvA`BpAd@xCjA|@`Ag@zCgJnAeApClAp@~CxERlCdDtCKbBmB?_CoB_BmCTmBhCyE?e@Q]mC_DuAoA`A}CjJ_Ad@gAgAe@qCwAgA{G}A}Eg@w@_DQoFzBwCTyCqAyRgB}@oLxCmGe@sFaJrA}RB}K~DsD[mAiC}AGoEkDcBkB~EkBv@gHcKyB_@wBfC|C`F_@fEqBbAwCF}CdEsDq@gDt@qInSAlBdAdClH~Cr@tBe@rEqIhTNnC_CrC~DhFJzDgAbBwDvAuA`FJpApGbG~A|He@bBcClBdAhFqArB}FhA{C_@MkA~BmElKoDvAoCcBgIiGuFQoArA_F|D}AbA{AKiE{DoFvBwBEiDjIwSh@sEy@gCoHaDaAwEnIySbDu@rDr@zCcElDQbB}@h@}DeDwFzB{BnBb@pHbKhBaA|AuEfDtAJrEdDbD_D|Bc@fA?|JqA`TvFxIfGf@pLyCbBt@pAtRKfCeCpDPtFx@zCbFf@|G~AvAjA\\jCfAfAhAe@|CiJfAaAvChAr@`DzERhCdDdCElB_BHoCwBgBcCV{BlCkEAk@Sa@sCwCoAeAp@eDrJy@p@kA}@g@yCeBqAsMiBaAeBe@{FJkBfB_B^eBScKaA_IgBw@oLxCoEc@",
+"average_heartrate": 140.1,
+"average_speed": 10.874,
+"elevation_gain": 79.0,
+"source": "strava",
+"streak": 4
 }
 ]
