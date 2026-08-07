@@ -94510,5 +94510,21 @@
 "elevation_gain": 79.0,
 "source": "strava",
 "streak": 6
+},
+{
+"run_id": 19634739842,
+"name": "Morning Run 6.1 km at 30\u00b0C \u2601\ufe0f",
+"distance": 6099.2,
+"moving_time": "0:34:58",
+"type": "Run",
+"start_date": "2026-08-07 00:34:32+00:00",
+"start_date_local": "2026-08-07 08:34:32",
+"location_country": "\u6587\u534e\u5b66\u9662, \u6587\u56ed\u8def, \u7965\u548c\u96c5\u5c45\u793e\u533a, \u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a, \u6d2a\u5c71\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430200, \u4e2d\u56fd",
+"summary_polyline": "egcyDoanyTl@l@T^RN\\\\VP|@|@JNXPp@v@b@^\\RDLOXYDeAl@OL_@LQNg@Tw@j@g@VWDICMMMo@IY[e@M]@KFIb@UXW|Ao@d@]HCJ?FDFLh@nAT`ACLKJcAh@m@^e@V]TQ@GGYe@UgASa@G[|AaAn@WbAq@JAHJ|@fCF^CJiAp@o@XYVq@ZKBGAUe@Oe@Mo@We@AQJMb@UVKZWZONKZI^YNAFF~@hCFXAJUPqAn@SPgAl@IBI?MICEMg@GMIg@Q[KWAK@Ip@g@\\QNCVKVUVMh@SH@FDXdAf@nABNEH]PSRg@PYTABs@\\c@NICGGM[?Q[g@I]Yc@FO^WZO`@WbAg@d@YJAD?FDPh@Vd@ZnA@DCLULIHm@ZUNy@b@ABm@RICGEOc@Ec@q@wABQtAq@POn@UHKRMNGRAHFLf@d@~@Rj@ATMHk@\\a@PkAx@g@NKCWYIi@EIIKGYUa@CSDMDCj@UPMXKn@a@NEl@_@HCJDVt@NZ\\hA@NEHONi@ROP[NOD[V]JIHIBQCUWIUCWk@uA?KDKRO~As@j@_@h@SJAF@FHn@|BDLFDJ@HC^QZSRGNSAEGGa@OYSEGMIY[MWOS[]WMYW}BiCWWe@_@KM",
+"average_heartrate": 133.2,
+"average_speed": 2.907,
+"elevation_gain": 21.0,
+"source": "strava",
+"streak": 7
 }
 ]
