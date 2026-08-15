@@ -94782,5 +94782,21 @@
 "elevation_gain": 25.0,
 "source": "strava",
 "streak": 15
+},
+{
+"run_id": 19749145860,
+"name": "Zwift - The PRL Half in London",
+"distance": 70154.0,
+"moving_time": "2:12:03",
+"type": "VirtualRide",
+"start_date": "2026-08-15 06:58:57+00:00",
+"start_date_local": "2026-08-15 14:58:57",
+"location_country": "Crispies, Petty Wales, East Smithfield, Tower Hill, Whitechapel, London Borough of Tower Hamlets, \u5927\u502b\u6566;\u5927\u4f26\u6566, \u82f1\u683c\u5170;\u82f1\u683c\u862d, EC3N 4EE, \u82f1\u56fd;\u82f1\u570b",
+"summary_polyline": "{tkyHz`QmBjl@z@hPJrbAtA|OjEvRbEdIbKhH_Dl]zUuE|XB|[_EzBu[qCkBv@iOxA]l@wJjCaEFsCsGuE`@qF}Hs@A_EwQvD{@oFfNg`@vHeHwFJiLtK`IyPjF_G|XwSnBdTtHi@rAyDBkH_CwOAwYvAg\\yA}Y}AkC}GPe@eKoDyFkBl@eErJoBc@y@i_@gB_IkDoD}CdCuAnKiAjA{BiGNiGaD_Aq@hMdChIk@`DcBz@mEcBKcD_HiDqBvFiWaP}LaBwBxDfA~Kk@lPrBxMiLxsAd@fi@Ch|@jAxRnEzTtEpJhKpHeD|\\nA|@dTkGnXDh[yDhCc\\uCiBt@gN`BiAd@wIlCgEJyCqGmEReGgH_@SmEyRrCI}FhDsLnIkR|GcHwFt@}JvKs@o@dJuPb_@kZl@pM~@fEjIu@rAsHiCkW?_WtAyX[wR{BqM_ICe@kKyCaFoBPcFpKuAa@y@kDQm[mByHoCmCsDnCeCjMgCqF@qH_Da@o@dLjCjIe@hDeBdAqE_BMeDeHmDoBxFkWaPmLaBaCxDfArKi@dQpBzMgLbsAb@ji@C||@nA~RhE`TxEvJjK`IiDp[`A|AbSgG|YAh\\}EjBq[uCcBr@sM|A{@p@cK`CiDNeDoGiE^yFsHi@WqEsMxDcDe@G{FlDyLjIeRzGeHiFn@oKdLm@m@dJ}P|^iZr@rM`AdE`Ig@zA_IiCmWpAay@aBoVoAaBaHFg@oKiBqDkCk@aFtKoB[s@oDGsYeBcIkCeD{DlB_DdN_CcG?iHmCm@y@~LfCzIo@fD{Ap@sEeBCwCeHqDyBrFeW}OuLaB{BbEfAxKi@hPpBzMeLdsA`@`j@C~{@jA|RpE|TvEnJhK~HiDv[dAvAzRgGfZ?b\\aFhB{ZqCaBt@kO|Ae@h@cJbCsDT{CoGyEVcGyHo@IaEeNvDuCq@GoFpDgMfIyQ|GeH_Gz@yJvKm@s@dJwP~^iZjBtShIc@xAeIgCgV?qXbAgg@mBgQwIa@c@eKuCeFqBB{EnKmBg@w@w^cBcIeDwDqDpCcChMqCsGNcG_Dy@s@~LhCrIg@xC}A`AsE{AOgDaHkDqBvFgW_P{LcB{BxDfArKi@`QpBhNsC|b@}Fxg@m@d`@z@bOJ|bA|Ffa@jFzK~JbHeDl\\t@tAhScGfZCd[yDlCw\\sCkAt@cOtA]v@iKtCkHwGqFT}FuHkB|HbB[zFzGlG}CnHg@dJ_Bj@s@`OtCrAaCv\\w[`Eo]f@{NfF_@lA~@fC",
+"average_heartrate": 127.0,
+"average_speed": 8.854,
+"elevation_gain": 1014.0,
+"source": "strava",
+"streak": 15
 }
 ]
