@@ -94766,5 +94766,21 @@
 "elevation_gain": 198.0,
 "source": "strava",
 "streak": 14
+},
+{
+"run_id": 19745706704,
+"name": "Morning Run 9 km at 25\u00b0C \u2601\ufe0f",
+"distance": 9008.8,
+"moving_time": "0:49:30",
+"type": "Run",
+"start_date": "2026-08-15 00:15:45+00:00",
+"start_date_local": "2026-08-15 08:15:45",
+"location_country": "\u7965\u548c\u96c5\u5c45\u793e\u533a, \u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a, \u6d2a\u5c71\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430200, \u4e2d\u56fd",
+"summary_polyline": "}hcyDgcnyTJNVPbA`A`AjAvClCx@~@TLHHDLMRs@TOL[LaAv@YJKJYJu@b@i@LICQU]s@i@{AG[u@yBI_@a@gAYe@MCUFc@TSDy@f@GH?NF\\Tj@CbBFz@CXELg@ZKRGX?b@Nl@NXJ\\LXZ`AXZHDTDTCREPMP[H_@Ai@S]y@eCUe@WMUCS?[LWTITC\\@XJ`@^x@b@xANVXRR@ZAZKLON]BU?]Ka@Yq@[cA_@w@SOSGY?a@NMJKRGRAj@H^Pd@R`@b@rAJPNN\\HXAREVUJQH[@WQy@]q@_@wAKQSQYK]@YHWTGLI`@?R@P^hA^|@FV\\l@TLTDNAXKTSNYBO@_@G_@Yq@o@mBSYWOUCWBa@RORI`@?ZBVFTLVd@lAFZZh@NL`@FTELETQTa@@o@Mi@a@eA_@gAOUMOSGYAa@FQJIJIVEb@@NV|@v@xBPZHJZJZAXIRONYDWB_@K_@a@aAi@aBSSQI]G_@FWPKNGTCj@Rx@\\z@L^^|@NJVHR@REXQV_@FY?WU{@S_@Ok@MUKe@IOC?AFRPNZd@jAX`A@NA`@K\\MRQLMD]DMAMEWQKMk@yAi@eBAc@@QDORWZOTG\\BXJVVFJl@nBRd@H^Ad@EZW`@]LSBk@MQMKS_@eAS]YeAG[?I@YLYJQZURCV?XFXTLPFZZv@d@xA@VC\\GVS\\[N_@@[GWSMUcAmCOq@Di@HUPWRMVGT@PDZT`@z@z@fC@d@Ib@KTSNUJYBWC[QMS]cAOYK_@Uq@EWAKHe@N]RSVIXA\\J`@Xf@|ALV\\pA@XG\\KR]^[FUC[GQKMUa@eAa@mAMe@AUD_@N[JOTOZE^DZPNPh@bBRb@Pn@BVARETCH[`@[Ja@D?JLFRDfA@TDZPr@_@bBaA`@ODEBIAMGOS_A[y@CKBK`Ak@T[FEf@UXQfAUx@s@RIHIDOIGIAWOa@W}@oAY[}@o@k@u@g@a@OWk@e@IKMKWY",
+"average_heartrate": 145.5,
+"average_speed": 3.033,
+"elevation_gain": 25.0,
+"source": "strava",
+"streak": 15
 }
 ]
