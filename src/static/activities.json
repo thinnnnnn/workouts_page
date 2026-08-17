@@ -94801,7 +94801,7 @@
 },
 {
 "run_id": 19763051700,
-"name": "Afternoon Run",
+"name": "Afternoon Run 13 km at 31\u00b0C \u2601\ufe0f",
 "distance": 13006.3,
 "moving_time": "1:11:02",
 "type": "Run",
@@ -94814,5 +94814,21 @@
 "elevation_gain": 81.0,
 "source": "strava",
 "streak": 16
+},
+{
+"run_id": 19774247003,
+"name": "Commute Morning Ride",
+"distance": 4781.6,
+"moving_time": "0:18:44",
+"type": "Ride",
+"start_date": "2026-08-17 02:39:50+00:00",
+"start_date_local": "2026-08-17 10:39:50",
+"location_country": "\u5149\u8c37\u4e00\u8def, \u957f\u5c71\u793e\u533a, \u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a, \u6d2a\u5c71\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430200, \u4e2d\u56fd",
+"summary_polyline": "mucyDqonyT~BjCpAnA`@XJLRb@fAx@xAxAhAz@dAhAdB|AfAhAvBfBvA~@xAz@`DdAFF?HB@C@BBPFGGF@?BPCLBVLHPRNZDd@NzAv@|Bt@TL\\Lr@Hj@LjA`@n@JBFVJxAVF@NLBFF\\Eh@Ct@E^q@`DGh@?hAUvA?\\FNHb@BFLF|AT~@DTDP?PDv@DTNFN@H?ZUrC?LEh@Mj@Q~BUrB@ZFXP`@PRTJVF~@PhGp@lBZ|@HfBHdAJbBJ`@JpAJp@LxBNrALjAPxBN\\HVNDFH`@EDIZS\\?`@OXK~BK|A?dDG`@C\\Fh@?h@Ed@GpBBfAEjABBp@@^\\",
+"average_heartrate": 97.4,
+"average_speed": 4.254,
+"elevation_gain": 28.0,
+"source": "strava",
+"streak": 17
 }
 ]
