@@ -94878,5 +94878,21 @@
 "elevation_gain": 39.0,
 "source": "strava",
 "streak": 18
+},
+{
+"run_id": 19791096260,
+"name": "Zwift - Intervals icu: Threshold Build #4 \u00b7 2\u00d725min @98%",
+"distance": 57160.2,
+"moving_time": "1:32:25",
+"type": "VirtualRide",
+"start_date": "2026-08-18 08:30:41+00:00",
+"start_date_local": "2026-08-18 16:30:41",
+"location_country": "Dueboi, Nea-Noole Ward, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "px{`Aawes^x@sBxI^hG|B|A|CrLeBhCdCxCnLlDtAb@cFgFePjBoDwC}@sDySeIsEkHiNyQmB_DxCcCtNdEfIo@hEiHQ}IiL}C]_CnBa@dGsCx@^pE{ArClD`Gi@bEkLkCuRk@a@qFzHwI`@sHrHYr@}GtHAlAnAE~L~ApF_@rIoE}DxAsBSqF`CEw@tYcE|BuEjJsEgCgSJqJsB}C~@sBpBqApIb@zGkI`JiGhBaC~HdEpExLdCWbDpGpA`BhG|Hi@zDrI|@fLtBq@aA}H`@mGzC]bExCdAlD{@xGwBtCj@vBjAY~DsK|BbC{AvChA|AlJ}@tJ@~EdA`@|AsAtEjDf@b@|B`GdCqAtC^zEoDjD?pBxGfBlAdBUlCbGzCoD`EwB_EgHpAVvEjDfCwD`CDpBtGdBxEgFhCf@hHwBrF~Aj@jIsDzFvGpFzCjMe@xGlC|AZvD|GPVyEuBaBwAv@fAvMhN}B`CiDfFm@`BcF|KaLpFyBdCmGjGR|DzClAkBaBeDdBkBrAYxCjDlAOgE_JyDd@_DyE{G\\gAsGyLlC}C_HlA{CyAcCi@aMwAmDbB}CeAsCpD_CwFuBiBtA}EyGiA{K~EsFlCaNxEt@a@{FpJORwH~BoC}EcAgCwDiCS}BjAz@vFaCGB{AlDsAiAaI`BsCcIm@z@kDmAcCsDp@_HuST}F}AkImCaFfBmEmCa@sB{JqBt@j@~Ey@bAzAfDgDj@\\mEsCQo@cBaA`Fl@|Aw@ZyA_Aq@mK`BaAk@iCiCn@T`DiCb@yZyAuKyLmDa@{BlBi@rGkCx@`@`E{ArCnCnDfAyI_BqFJiLaJuCH_NiBlA}Ck@pHeE{Ei@hA}BaD_@y@|CpBtB{Al@Q`CzBjBiBxAy@tKnEdA}B|@fAxCmAf@qCgCgB`B{@eCu@bBgCi@PeBdC]\\kClCk@gBsCxC_DnAtEpAwDhAXFtClB`AAlFiI|@_@nHsHfICtEhSjAtKtCp@_EmDiG|AqCW_F`BUC|XwFpEaDbIx@pA|UhBxJyK~@}JpHyAdBsChIb@~FzBvAzCjMyA~BlChCpKzCvBbAgFkFoPhByDsCs@wDcTiIwEcHcNmOwBuEjB}CvPbErHy@|EmHg@_JkLwEZyAnIoCp@^vEyAtBhDtGeAxEgK{CsSiAE_FpHeIp@eIfHM|AqHnGNrAlBM|K~ApF]rI}@LsCgE|AaC_@oE~B_@WjXcFxDwDtI{E{BqSHsJsBgG|CkB~Lz@tDmIhJwGvBwBtHbEnE~LjCa@zC~G|AtA~FrHq@tC`H",
+"average_heartrate": 141.9,
+"average_speed": 10.308,
+"elevation_gain": 401.0,
+"source": "strava",
+"streak": 18
 }
 ]
