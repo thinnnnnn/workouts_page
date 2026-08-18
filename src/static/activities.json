@@ -94846,5 +94846,21 @@
 "elevation_gain": 41.0,
 "source": "strava",
 "streak": 17
+},
+{
+"run_id": 19787991487,
+"name": "Commute Morning Ride 4.9 km at 31\u00b0C \u2601\ufe0f",
+"distance": 4897.8,
+"moving_time": "0:17:41",
+"type": "Ride",
+"start_date": "2026-08-18 02:37:43+00:00",
+"start_date_local": "2026-08-18 10:37:43",
+"location_country": "\u7965\u548c\u96c5\u5c45\u793e\u533a, \u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a, \u6d2a\u5c71\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430200, \u4e2d\u56fd",
+"summary_polyline": "ulcyDggnyTzBxBvA|A|DrDtAtAlDrC`Aj@hBz@t@TVTRXF?FD\\DDFDAf@^h@LbCdAF?~@VFCl@L`Ad@^D\\Ln@Lp@\\|@^f@NfAJFBJLDX@~@Cj@Gf@WbAe@jCCj@?p@MfA?NLh@BDLFj@Lb@FzALdBHXJJN@`@QvBQ|AK\\OjBQpAGbA@^Jb@HNXX\\RZHzE^|@N\\BxBf@hAHzABpBLzBV|AFfBVjHr@TDTRHNH\\Ed@CDo@fE?RKxAE|CId@BtAE~@?lAM~B?VBf@NPZN",
+"average_heartrate": 97.9,
+"average_speed": 4.616,
+"elevation_gain": 20.0,
+"source": "strava",
+"streak": 18
 }
 ]
