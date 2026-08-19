@@ -94910,5 +94910,37 @@
 "elevation_gain": 19.0,
 "source": "strava",
 "streak": 19
+},
+{
+"run_id": 19805372731,
+"name": "Commute Afternoon Ride 4.6 km at 32\u00b0C \ud83c\udf27\ufe0f",
+"distance": 4551.6,
+"moving_time": "0:18:23",
+"type": "Ride",
+"start_date": "2026-08-19 08:09:46+00:00",
+"start_date_local": "2026-08-19 16:09:46",
+"location_country": "\u957f\u57ce\u793e\u533a, \u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a, \u6d2a\u5c71\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430200, \u4e2d\u56fd",
+"summary_polyline": "e}_yDwojyTa@IM?KAM@[C_@Au@YeBNe@?_@?}BMe@MUAQEyAK_@K}@GIEe@EuAEw@Ee@KiBMkAO[?s@Ey@@OAy@?a@Io@C{Ee@ACSGo@g@QC]Bq@AMD{@Ga@?M^a@AoBSy@QMAUIw@Ia@KMAk@Mk@g@SISC}@[i@WcAYwAo@mAYgA]yAu@_@Kc@_@eAg@sCq@_@S_AY_@YuBcAWS_B{@UIsAaA}Aq@SEOI_BWaBQ_AGm@?WEMOASDmCAWDsA?iAAw@L}CAc@MkA]aBcAuBc@o@?ODMJMhCeB^]_@w@GUm@oA[_Ae@iAw@_CIa@MOLSbA{@Rg@AGAPK[EAMQW{@OWEWA[RaAVu@",
+"average_heartrate": 96.6,
+"average_speed": 4.127,
+"elevation_gain": 41.0,
+"source": "strava",
+"streak": 19
+},
+{
+"run_id": 19806084871,
+"name": "Zwift - Zone 2 #1",
+"distance": 31647.6,
+"moving_time": "1:00:18",
+"type": "VirtualRide",
+"start_date": "2026-08-19 08:48:12+00:00",
+"start_date_local": "2026-08-19 16:48:12",
+"location_country": "Dueboi, Nea-Noole Ward, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "t_}`A}res^p@p@j@bAtBjJXn@jApAhChBxBfCrCvIFbCHJ`@BhAeA`@E^Jr@~@XfAGd@y@vACTFTPLl@BxB_@x@A`@Jf@b@Db@ENgAjASh@N`Dr@dBFl@[f@qCr@MTCXRp@p@Rp@QJWA[u@eCIy@F[f@i@pASpAAr@LdArAd@fAh@d@XD`Bg@X@d@`@`@`AEp@[h@eA^OPGr@PjBGrAMv@_@j@YH[AgBe@u@LqBCWLMv@l@fCDZEZm@^YCqAoAe@I_@TUzBu@jB[dD_@rAq@dA{BtAg@t@En@ZjAC`CKZw@z@uAtEa@bBAhANLT?Va@f@qC\\{@ZWVE|@NX^@\\Y|Bb@lAn@z@`Ar@h@Av@g@VCPLDVEVm@zAFp@`@d@j@VbADTIVe@DaAOe@w@_@CUFSd@UxBm@LOAg@c@SmCMOKYw@QKQBo@nA_@HOGe@kAwAeCWYq@WW[?iAo@qA@yCUu@Ee@Le@Ta@~B{Ax@mAb@{AZ{Ct@gBLaBJc@ZQ`@?\\R`AdAT@d@SFi@q@qC@k@L[XMlBBfAOrBj@d@YXy@JgBSkBBg@Zg@fAa@Vk@@a@e@cA_@[a@BcA`@q@Ee@c@uAiCYU_AIuABgAZYl@Hz@t@zB?z@]Vk@Fc@IWYMk@Lm@d@WlB]^_@Cg@u@cBQmDLg@hAmAFc@Wa@m@U{@@iC^q@SIM?a@z@}ADe@U{@{@gAWCc@Hk@r@WL]ASUG_CgC_I]q@wA_BUs@]oBAg@L{@b@q@ASwAuHS_@_Aq@}@wCAa@J_@pAiBL_@[MqA@c@]y@aFm@iC_@Sg@Dk@d@Gd@l@pEILm@TELL`@hAt@TZ@d@Q^qBl@o@?QY?_@VW\\ML[Y{AGK[G{APME_@}A_@GYRTfBAb@o@z@DR^XHd@Sb@SFaBm@IQDmCu@uFFe@v@M^UUoBU]Q?o@\\gARGNb@|BQ\\{BXgEG}TuAcA[u@q@{@}AwB_CcAkBe@g@oA[uA@}@f@y@hAa@fG]RiA?_@PIN?b@`@tBA~@Ur@_Ap@Cd@JVdAz@r@nAVJLCPUPmADsFMy@}@wB",
+"average_heartrate": 123.5,
+"average_speed": 8.747,
+"elevation_gain": 388.0,
+"source": "strava",
+"streak": 19
 }
 ]
