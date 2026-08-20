@@ -94974,5 +94974,21 @@
 "elevation_gain": 41.0,
 "source": "strava",
 "streak": 20
+},
+{
+"run_id": 19823127326,
+"name": "Zwift - Intervals icu: VO\u2082 Max \u00b7 6\u00d74min @112%",
+"distance": 50033.6,
+"moving_time": "1:19:13",
+"type": "VirtualRide",
+"start_date": "2026-08-20 11:40:04+00:00",
+"start_date_local": "2026-08-20 19:40:04",
+"location_country": "Muie Village, Vanikoro, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "jn`fAyqcz^lAgCiAiEpCgCTwDoBaG{F_FKcBnAgE`E{A`AcBEsDeEmF~BwCI{CdIkSj@sEy@sCiH{CgAsEvIgTvCo@|Dp@zCeEvCItB_Ad@mE_DgFvB}BnB`@bH~J|BaAzAqEfDxADjElCdBXhAmCjBq@jACpKsAlS~FbJfGd@zL{CvAz@pAhSQvBaCdDPpFv@~C`Fj@pGvAdBpA^nClAfA`Ac@~CkJjAcAzCrAb@pCdFZrCfD~C[tA}BQuBqCyAqBl@_B|BeFAy@eDcDkAiAfAwC`J_Af@eA_Ag@yCyAiA{G{A_Fk@u@wCOyFxBoCVkCyAsSqBo@qLxCaGi@mFuIrAiSDyK|D{D_@mAaCoAIwEuDaBaBxEmBx@iHgKkB]cC`CzCbFa@nEqGpAmCzDkEo@wCv@qIxS@lBfA|BfHxCv@zBc@fEqIjTJxC}BhC`ErFF|DeA~AyDxAuAbFTtAhGxFrA|DJfC_@rAoCdClAlEsA~BoGjAmCe@CqAfCsEjKgDjAgCGoByAoEcGuFYqArAeF|D}AbA_BG{DcEkF`CuCKuChIySj@aF}@}BiH}CaA{B@iBpIoSvCs@fEl@tCcEdGcAl@gEcDyFxBuBhB^bH`K|B}@zAsEjDtAL~EbCrAZpA}DnDEvKqAjS|F~IpFf@zL{CdBh@vA|RKhCeCvDRtFt@rChFl@jGtAbBrA^nCtAfAdAu@|CmJdAs@tCpAd@tCdFZpCfDdCKdBcBDmCyBeBmC`@gBbC{E?}@aDwCsAqAx@_DlJ_Al@iAeAYcCkB}AwGyAwEc@y@qCS{FbCoDL{CuAmR{Au@{LzC_Ge@{FwIrAwSBkK~DqDWmAoCeBGqEoD_BeBzEqBx@aH_KyBa@{B|BdDxFe@xDkB~@iDPsC|D{Do@aDv@mInSAjBfAfC`HtCz@rBa@xEoIdTJtC_CtC`EnFDbEaArA_E~AoAjERjBhGxFpAzDLfC]rAoCdCjAfEkA~B_GpA_D]MoAjCwExJ_DzAaCIsCoA{DkGyFWoApAcFbE_BbAeBOaE}D_FzBiCMsCrImTd@qEy@eCqHeD_AoExIcTtCo@|Dp@pC_EjDQnBcAb@aEaDyFrBoBdBR|HnKjB{@|AyEnD|ADlErChBN`A}DnDCnKuApSvF`JvFj@dM}C|Al@vAbROhDaChDR~Ft@nC~Ej@pGtAhBvA^lChAbAhAg@vCcJhAgAxClAd@xClFZ|B~ClCAhB{AHwCsBcBaCP_CrCwEC{@_D}CsAiAt@}ChJ}@t@mAaAa@oCiBwAsMiB_AyAe@}FN}BfBaBXgBqAsToBy@wKrCgBA",
+"average_heartrate": 134.3,
+"average_speed": 10.527,
+"elevation_gain": 79.0,
+"source": "strava",
+"streak": 20
 }
 ]
