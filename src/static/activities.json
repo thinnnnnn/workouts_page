@@ -94958,5 +94958,21 @@
 "elevation_gain": 21.0,
 "source": "strava",
 "streak": 20
+},
+{
+"run_id": 19819858745,
+"name": "Commute Afternoon Ride 4.5 km at 32\u00b0C \ud83c\udf27\ufe0f",
+"distance": 4452.7,
+"moving_time": "0:18:16",
+"type": "Ride",
+"start_date": "2026-08-20 08:09:26+00:00",
+"start_date_local": "2026-08-20 16:09:26",
+"location_country": "\u957f\u57ce\u793e\u533a, \u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a, \u6d2a\u5c71\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430200, \u4e2d\u56fd",
+"summary_polyline": "g_`yD_pjyTSGe@As@IECMDMA}@BQHUBk@CSC[Mq@GQG]A]BWCM?i@Gs@Qc@AiAQw@A{BSSEg@C_@E}AG_@G}@?gAKkACkAGq@EsCYsAC_@Gw@Ii@MGDEA?EkCSyAAs@McAIkAWcA[q@]a@MeB{@YIUMw@]OQWKG?a@OQBYE_AWgD{BSGe@IM?YGOF]U][CG_@WKEi@?c@G{@g@QGwA_AyCuAm@g@_@SoAk@aASq@KsBKgBESGMSAK@eBCeAHwC?QGY?YLkB@w@AwASkAKc@a@y@y@cAOc@?GHMf@c@XQd@e@^UXGJKBEAQK]Uc@IW{AkDYcAG][eAG[ECGQHKTSZ_@b@c@c@u@EQUk@Kc@",
+"average_heartrate": 100.8,
+"average_speed": 4.063,
+"elevation_gain": 41.0,
+"source": "strava",
+"streak": 20
 }
 ]
