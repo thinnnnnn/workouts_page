@@ -94990,5 +94990,21 @@
 "elevation_gain": 79.0,
 "source": "strava",
 "streak": 20
+},
+{
+"run_id": 19843910924,
+"name": "Morning Run 5 km at 29\u00b0C \u2600\ufe0f",
+"distance": 5004.5,
+"moving_time": "0:26:39",
+"type": "Run",
+"start_date": "2026-08-22 00:31:23+00:00",
+"start_date_local": "2026-08-22 08:31:23",
+"location_country": "\u6587\u534e\u5b66\u9662, \u6587\u56ed\u8def, \u7965\u548c\u96c5\u5c45\u793e\u533a, \u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a, \u6d2a\u5c71\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430200, \u4e2d\u56fd",
+"summary_polyline": "mhcyDacnyTjElEbEzDFH?JKP[HWLuA|@iA`Ak@^u@NK?ICIGKQgB{EcAoDWi@KIMBi@Xm@Rc@ZEHANR`ACVMLOF{@TeA`@KJAVDVx@tB`AzCTf@rAdEHNJFLAHCn@a@fBaAz@Wj@e@x@a@FG@KI]{@kBu@qBQo@a@gAiAmDe@sAMKOA]Rm@Ra@TOXCL@JTt@ALCHYP}@ToAb@KJAPFVRd@Jb@l@vATv@fB~Ed@|AFFFBNChBkAtAm@zA_Aj@WDMAQOg@i@uAAODOROfAo@~@_@x@k@~As@DGBI?IIMiAu@e@a@a@g@uCqCOWe@i@[Ui@k@",
+"average_heartrate": 137.3,
+"average_speed": 3.13,
+"elevation_gain": 34.0,
+"source": "strava",
+"streak": 1
 }
 ]
