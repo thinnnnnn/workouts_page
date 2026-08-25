@@ -95102,5 +95102,37 @@
 "elevation_gain": 0.0,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 19886000877,
+"name": "Morning Run 5.1 km at 29\u00b0C \u2600\ufe0f",
+"distance": 5114.8,
+"moving_time": "0:30:03",
+"type": "Run",
+"start_date": "2026-08-25 00:02:10+00:00",
+"start_date_local": "2026-08-25 08:02:10",
+"location_country": "\u6587\u534e\u5b66\u9662, \u5149\u8c37\u4e00\u8def, \u7965\u548c\u96c5\u5c45\u793e\u533a, \u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a, \u6d2a\u5c71\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430200, \u4e2d\u56fd",
+"summary_polyline": "ugcyD}anyTr@~@v@l@b@l@nB~An@v@`@\\`@VBLAHGJc@NQNq@\\cAb@sA~@u@^I@CAWi@U}@_@y@AKJMJGz@_@VIv@s@b@SHCHDLZBNLZDTb@bAAJCHULWH}@f@KHOFABa@VWJI?GG_@}@e@uAAM?EPOx@g@LC^Sl@_@b@ULDj@pA^rAEJOLo@X[Rs@\\WHUTQBGEEIYaAk@iA?QNK`Ak@ZKt@i@b@UPCFHVl@Jn@J\\R^@JEHWJOLSFw@f@{@d@]NIIQq@i@kAKg@BIDG^UHAFE~@]ZWt@c@HAD@^jAR`ARV?HGFcE~BICKMm@eBUm@@KDGLEt@e@^OlAu@ZKJHf@`BZp@APMLk@VqAx@YJYPIBEAKIUi@G[MSYu@CKBIf@YVIXQ\\Of@c@f@UP@DHNn@Zn@Ld@LPVCr@a@TIHGFOEKu@c@eBkB}@w@OSiAeAgBoB",
+"average_heartrate": 138.9,
+"average_speed": 2.837,
+"elevation_gain": 20.0,
+"source": "strava",
+"streak": 4
+},
+{
+"run_id": 19887047059,
+"name": "Commute Morning Ride 5 km at 31\u00b0C \u2600\ufe0f",
+"distance": 4968.8,
+"moving_time": "0:20:08",
+"type": "Ride",
+"start_date": "2026-08-25 02:27:45+00:00",
+"start_date_local": "2026-08-25 10:27:45",
+"location_country": "\u7965\u548c\u96c5\u5c45\u793e\u533a, \u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a, \u6d2a\u5c71\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430200, \u4e2d\u56fd",
+"summary_polyline": "ykcyDifnyTj@j@dA~@bC`CdC`C`AdAjAfAbBnA|BvAj@NlAd@PLTHNTABAA\\BPMDKKAAEEB?BZXFPTNz@Vb@Tx@ZnAj@VBvAj@r@LrA`@\\D\\Ar@XvA\\LJLZF\\EpACRO\\Mj@_@fAGz@?`@BXA\\KdAMl@AJFNJJL\\HH`CR\\FvBPLDLHDNGdAe@dE_@nEIt@@d@FXf@f@LH`@JhEd@vAJl@HbAVbBNjA@`@BjAL~Ep@N?TDvBJzC`@tAL`@@TDPPPb@Ab@eAzHNwAKbBAtCGd@CXF|@?XQ`CIrC@\\LN",
+"average_heartrate": 93.0,
+"average_speed": 4.113,
+"elevation_gain": 17.0,
+"source": "strava",
+"streak": 4
 }
 ]
