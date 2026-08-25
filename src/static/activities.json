@@ -95150,5 +95150,37 @@
 "elevation_gain": 42.0,
 "source": "strava",
 "streak": 4
+},
+{
+"run_id": 19890183947,
+"name": "Zwift - Intervals icu: Threshold Build #5 \u00b7 2\u00d730min @98%",
+"distance": 64803.5,
+"moving_time": "1:36:55",
+"type": "VirtualRide",
+"start_date": "2026-08-25 08:30:54+00:00",
+"start_date_local": "2026-08-25 16:30:54",
+"location_country": "Puma, Vanikoro, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "xk`fAcpcz^zCyCgAmFtCkCVsCuBeHgGqHnAqE`GuDGoE_EiF|BgCI_DrJ}Yw@uCsHgD}@qElIwSfJItCcEfGeAj@eEeDyFpBsBpBZxHhKlE{GfDdBDlEdD~C_EtD{A``@xFbJfGh@fLwCjBj@vAjRqClIpApKxNdCfE`HdHsM|CjAl@|CdFXfCbDfD[rAuBOyBcCyAgFjD{ECw@_D{CuAkHvMyEmHgNwBkAuKnCuHsAuReB{@uLzCiGg@mFoIrAe`@`E}DiDoDIsEsDsA}AvEkBz@kHgK{B[sBfC~CbF[zDsGtAsC`EgJJqI~ShA|E~IhG]nEyI`ULpCyB|B`E`GB|DcGvDoA`F~GjI~AzHmD`FjArE_AdBeLfAYgAhC_FfKiDtAcCaBqI{GaIlA}EbGyDAcEaE_GxB{BKyCrIoTb@{E{@sBmH_DaAyElIsSjJIhC_ExGwA`@yDaDuFpBwBjBT|HlK`EsGpDxAFrEdD`D_EpDsAp`@rFvIxFh@|L{C`Bl@tAfUqCnHtAvIfNxBzEhHzGqMdDlA^pChF\\jCdDtCMfB}BKyBsByA}FhDuEE}@cDaDmAgHpMsEiHeNwBqAeJrCcHsAyTiB{@qLzCgGg@sF_JtAo_@`E_EaDgDIsE}D}A{AvEkBv@iHeKyB[uBbCbDrFc@tDyGvAkCzDcJDsI~SbAzErHdDr@`CuJlZJtC}BpCzDdFN|DiGjEkAnE`H~IzAtHiDtEfApE{@rBkLdAjB_HzKyDhAiCaB_I{G_IpAkF~FsDGkE_EkF|BkCMqCxJ{Zm@wB}HmD}@}ElIqSfJGfC{DxGwAb@{DaDwFlBsBjBNdItKzDuGtDxAHvE`D|C_ErDyA``@xFbJzFh@|L{C~Al@vAbUqC~HrAjInNzBpEfHnHuMlCjAh@zChFZtCfDlFiCG{BqByAcGdDuEEaAgD{CiA_HrMuEgHsNcCeAqKnC}GsAkSgB{@sLzCgGg@mFmIpAk`@`E_EiDeDKwEsDqAyDrGmI{KmD`@g@lB`DvFi@|CwGrAcCxDkJHoIrSbAlFnH`Dp@tBuJxZLrC_CrCbEjFF~DaGxDsA`F~GpI~AvHmDfFjAbEwAjCuGhAoC{@fCgGvKsDfAgCgBkIuGiIhAkEdG}DCgEaEgF|BqCKyCfIsSl@qF{@uBkH_D_A_FnIqS|ICxCeElGmAf@uDaDoF`@sAhDg@~HtKrBw@|A{ElDxAFlEdD~C_EjEeA|`@fFzH~Fh@pLyCdBh@xAxTsCnHtAfJpN|BhEdHlHuMvCnAf@vC|ETvCjDrFyB?cCwBaBsFbDwE?iAgD_DmAqHnMaEaH_OqC}@mKfCsD",
+"average_heartrate": 145.3,
+"average_speed": 11.144,
+"elevation_gain": 99.0,
+"source": "strava",
+"streak": 4
+},
+{
+"run_id": 19891697531,
+"name": "Evening Run",
+"distance": 0.0,
+"moving_time": "0:00:04",
+"type": "Run",
+"start_date": "2026-08-25 11:50:57+00:00",
+"start_date_local": "2026-08-25 19:50:57",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 58.5,
+"average_speed": 0.0,
+"elevation_gain": 0.0,
+"source": "strava",
+"streak": 4
 }
 ]
