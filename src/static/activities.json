@@ -95137,7 +95137,7 @@
 },
 {
 "run_id": 19889109594,
-"name": "Commute Afternoon Ride",
+"name": "Commute Afternoon Ride 4.5 km at 35\u00b0C \u2600\ufe0f",
 "distance": 4539.1,
 "moving_time": "0:18:18",
 "type": "Ride",
@@ -95169,7 +95169,7 @@
 },
 {
 "run_id": 19891697531,
-"name": "Evening Run",
+"name": "Evening Run  at",
 "distance": 0.0,
 "moving_time": "0:00:04",
 "type": "Run",
@@ -95182,5 +95182,21 @@
 "elevation_gain": 0.0,
 "source": "strava",
 "streak": 4
+},
+{
+"run_id": 19901534066,
+"name": "Morning Run",
+"distance": 4588.7,
+"moving_time": "0:38:28",
+"type": "Run",
+"start_date": "2026-08-26 00:13:23+00:00",
+"start_date_local": "2026-08-26 08:13:23",
+"location_country": "\u6587\u534e\u5b66\u9662, \u6587\u56ed\u8def, \u7965\u548c\u96c5\u5c45\u793e\u533a, \u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a, \u6d2a\u5c71\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430200, \u4e2d\u56fd",
+"summary_polyline": "khcyDybnyTbBdBn@h@?DZZLJNN`Az@v@`ARLNN^TFNKT[DwA`Aq@XONMD_@Vk@LMFe@b@MMEMO_@AGWk@GWOYAMJMPERMr@W^[p@a@XUJCFFZxAHHJ`@Tb@AHSPOBi@TYRKBQPc@N_@VMDKGWw@o@aBCG@GLM`Bq@lBmAHHJXRbAVn@NT@FCHMFu@\\eCpAI@GC[u@OUc@oAAI@ENKfAc@TQd@SPQv@]DFNh@N\\V`APXAHGFg@VKHg@Ra@X_@JEFa@TM?GCAKYk@EUc@eAAQBG\\U|@WLAHEtAmAJCJDJZJb@HRHd@Zj@CLWR{Ap@gAr@MFG?EC[i@w@wB@Ob@]x@[ROXM\\WTGLMJAF@LVN~@Pn@JRNPLCr@e@f@QHQCI]OkAeAQY_@_@MUu@s@cAy@MOo@k@iAkA",
+"average_heartrate": 112.6,
+"average_speed": 1.988,
+"elevation_gain": 24.0,
+"source": "strava",
+"streak": 5
 }
 ]
