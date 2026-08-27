@@ -95198,5 +95198,21 @@
 "elevation_gain": 24.0,
 "source": "strava",
 "streak": 5
+},
+{
+"run_id": 19919977971,
+"name": "Zwift - Intervals icu: VO\u2082 Max \u00b7 5\u00d75min @112% on Tempus Fugit in Watopia",
+"distance": 51133.3,
+"moving_time": "1:20:27",
+"type": "VirtualRide",
+"start_date": "2026-08-27 08:42:16+00:00",
+"start_date_local": "2026-08-27 16:42:16",
+"location_country": "Puma, Vanikoro, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "rl`fAkpcz^~BqCeAgFrCoCXwCcBeGmGyFKoAfAoEfEeBbA{AEaEeEoF|BgCEeDhIySf@eEy@sCqHcD}@oErI_TnCq@lEl@tCcEjGeAh@iEaDqFtB{BlB\\tHfKnBcAvAqEjDvAHvEbD`DaE`EqAb`@rFrI`Gj@rL{CfBn@vA|ROhCcCdDRbGx@tCvNbC|AnAd@tCdA|@dAc@zCeJlAgArChAn@`DxEP|CjD|C[tA}BOuBoCyAqBh@}A~BsFCi@yC}CwAqA|@sExKkAy@g@yCeBuAqGwA}Eg@iAqKxBwCVsC_BmSuBg@_LvCcGi@mFmIrAm`@|DwD]mAiCaBKwEgDsAcBtEmB`AkHeK}B]sBtB`D~Fc@xDqGnAsC`E}Dq@wCn@}IbTlAlFbHtCt@rBa@rEqIfTH|C{B|B~DxFFbEy@rAgEbBqA|ENrAjGxFbBzH]bBmCxBhAxEoAzBaGlA}Ca@GmAdCuErKmDfAkCaB{HeGuFWoApAcF~FsDGqE}DmF|BgCI{ClIaTb@}Ew@uBmH_DcAsExIcTpCo@|Dr@tCaE|GyA`@_EaDiFxB_ChB^fHbKtBw@`B}EhDxADlEfDbDaEbEAzKsA`SrF|I~Fl@xLyCfBl@tA~ROfCaCpDjAjKrN`CfBtA`@vC~@x@jAc@zCiJtAeAtCvAf@tC~ERnCfDvCS~AqBAoBqBeBqCVuBjCkECgAaDuCsAiAl@iDzJaAh@_Aw@g@yCyAmAuG}AcFe@kAuK`CeDNoCwA}RqBq@_MzCmFi@sFsItAc`@`E{D[kAgCuAMaFqDwAcB|EcBx@mHaKyBc@yBfC`DjFc@~DgGfA{CdEgEm@wCr@sIvS~@bFpHdDt@tBe@vEqIjTHxCyB`C~DnFFbE}@tA}D|AwAnFXpAdGrF~A~HoD~ElAlEoAxBuGpAeC_@QeAfC{ElKmDrAqCmBoI_GgFSmApA_FfEcB|@_BG_EeEgF~BiCI_DjIySh@iFy@sBoH}CaA{EtI{SvCq@|Dp@pC_E|GyA^aE_DoF|ByB~AX~HnKbB}@vAuEnDjAN`F`DzC}DzDuAj`@vFvIrFh@`M{CdBr@rAtRQpCaCrDnAhKlNzBfBrA`@pCnAdAjAw@tE{K~CnAh@xCdFV`C`DvCGbBeBDgCsBcBgCTsBjCyE?aA_D_DuAkAx@yCfJcAp@eA{@i@}CcBoAkN{B{@{CQwF`CcDPwC{A{RwBm@gLzCwFg@wFwItA_T@cK~D}DeD_DK{EmD{AcBxEmB|@iHeK}B]sBfC|C`FElC",
+"average_heartrate": 140.5,
+"average_speed": 10.593,
+"elevation_gain": 79.0,
+"source": "strava",
+"streak": 6
 }
 ]
