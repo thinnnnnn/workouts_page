@@ -95214,5 +95214,21 @@
 "elevation_gain": 79.0,
 "source": "strava",
 "streak": 6
+},
+{
+"run_id": 19935101015,
+"name": "Commute Evening Walk 3.2 km at 30\u00b0C \ud83c\udf15",
+"distance": 3157.5,
+"moving_time": "0:43:39",
+"type": "Hike",
+"start_date": "2026-08-28 11:11:04+00:00",
+"start_date_local": "2026-08-28 19:11:04",
+"location_country": "\u7965\u548c\u96c5\u5c45\u793e\u533a, \u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a, \u6d2a\u5c71\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430200, \u4e2d\u56fd",
+"summary_polyline": "ybdyD{lmyTFTAJDPZRBF@FIH@Dy@n@ADQLGH?FRZ?XDV?DHb@DA?HRlA@DD@CADCAMVRED@H\\^@BCA?F@NRV@JHJPt@X^?ZHTEFQHYTo@XSFONU`@E@?EA@?B@GA??@?CGAEDCJOJ?BKLBAMJKPAAK@]JS?QEKBI?GBIJ@Da@h@GPMJ?BEBBFBGCG@SEQ?OCOBKA]Dk@EIE@ECMWAYGGIMOMe@_AOOa@i@EYM_@_@_@KSGYUGCCGMAWM[MSCUQ_@YcAIE]ICC]e@_@_@EW",
+"average_heartrate": 79.0,
+"average_speed": 1.206,
+"elevation_gain": 29.0,
+"source": "strava",
+"streak": 7
 }
 ]
