@@ -95278,5 +95278,37 @@
 "elevation_gain": 278.0,
 "source": "strava",
 "streak": 8
+},
+{
+"run_id": 19960704812,
+"name": "Afternoon Walk 10.5 km at 32\u00b0C \u2601\ufe0f",
+"distance": 10514.0,
+"moving_time": "2:17:44",
+"type": "Hike",
+"start_date": "2026-08-30 08:05:45+00:00",
+"start_date_local": "2026-08-30 16:05:45",
+"location_country": "\u7965\u548c\u96c5\u5c45\u793e\u533a, \u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a, \u6d2a\u5c71\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430200, \u4e2d\u56fd",
+"summary_polyline": "a{eyDyxmyTUFG?GKWy@_@_AK]aAgBS_A[_@Ki@KWQm@IQK]GGK?AIQ]Kg@c@_AOg@_@_AAAABGOI]OUOg@S[Yw@YqAQe@C]Ok@?m@CSI_@C_@Mi@EW@k@SeB?m@M_@KqA?YG[?QIcA?k@Eg@GWAcAMm@KW?u@GkAEWGOEe@IS?c@Da@OyA@w@E_@@a@Mu@GU?e@BG@BDG@OASHcBIcA@KJUCOa@SWAmAp@Q@cA^K?_@NWd@[Xc@L{CjAYDo@YWEg@Yc@A]MoAQq@Ce@_@y@OsAI]Ks@Au@a@W@iAU[Mc@@i@SWECG@MNw@@[Pa@B]L_@PMHM?GIONWLw@?c@EQMQCIBk@Wm@K[oAcBKWUUSg@Ae@Dm@Ic@F_AAQEa@Ma@C]IYOSEYM_@G}@GWe@e@WG[S[GUMIAk@DQGOKU_@UUOEU?OFWXg@^UJa@^O@Sc@MOS]g@]Oa@OWICGOQk@OI[[c@sA@ABDLAPDBMJCJFBFD?ADL?AB@M\\B\\Ct@HZA?KCPB@@CCAWLLIPSBBCAADFEKDAABCE@HB?Dc@EYDMEo@CBAMBs@GIBGJ@JGZJf@^T\\t@BPLF^n@l@h@N^Vd@JBHGZGh@_@p@s@LC@I@BPB\\P\\h@f@^d@A\\FfBp@NJFNLXDl@^vAHPEA?CD@V|@Ft@E`@FV?`@ANGJ?\\CP@PN^p@v@Xr@h@t@JZRXJXF^?ZBAGFDEABH@EB?CKGJ?DP@b@Af@MTCd@IPARYXARI\\@?CGAZ[`@Qj@D^l@DLF\\FPJTERJ^DFDZ@~@Xp@Ld@B^JbAJ|@Rj@X|@Hb@LhBPj@TTPT?BAACBEBBOHJGGG@AFHP?BHJHbDgBAENGHKLENSRKHOn@S`@WR?LI^KLMR@^IL@NPEn@ITAZL\\Cl@Dr@Ah@Gf@B\\Cd@H^CXNz@Bd@Cb@?NGVFNRfB?RFZDbAP~@@j@H`@F|APbA?~@Pz@?r@Ld@F`AHb@DtAJp@@n@Hf@JlARj@H~@Zt@Fd@Xx@H^NTPj@\\l@Pl@^|@DVb@z@v@xBZd@DTVh@T\\RPGBNXNv@^fA\\j@DT`@jAFHHDJGC?D?CCFEf@S",
+"average_heartrate": 82.9,
+"average_speed": 1.272,
+"elevation_gain": 118.0,
+"source": "strava",
+"streak": 9
+},
+{
+"run_id": 19963050619,
+"name": "Zwift - London Calling in London",
+"distance": 33321.4,
+"moving_time": "1:00:14",
+"type": "VirtualRide",
+"start_date": "2026-08-30 11:59:19+00:00",
+"start_date_local": "2026-08-30 19:59:19",
+"location_country": "Lower Thames Street, Leadenhall Market, Monument, \u502b\u6566\u5e02;\u4f26\u6566\u5e02, \u5927\u502b\u6566;\u5927\u4f26\u6566, \u82f1\u683c\u5170;\u82f1\u683c\u862d, EC3R 6DP, \u82f1\u56fd;\u82f1\u570b",
+"summary_polyline": "ywkyHh`RMvNF|Ah@lGFjCEtOHjIIf]BhCX`Hj@pHdAtGxApH~A~ElDxG`EvCrCxA^\\Rn@?v@iDvYBd@d@p@d@@dJsD~HwAxHMrNRzEmAlEMdKwAnK[rCDbCn@pKrI`AxAnCzHtAhCfCzBlEdCh@j@j@rAf@vB\\|BfDr\\`@zCNdC?~DeBbRc@jGe@rL@tMOjBWfAwHfOmGrLmGjLYZ{IfBYUYaBo@QYZ@fCW`@}Fx@ySzDSd@LhDEl@W\\eA`@WXIf@AlBo@|F[fB_@`B[r@a@`@[Be@a@kCoFyFmHi@sAw@iDaA{H_@sK}@{Kw@mHE{GKcCSwB_@gBkCwHqCqFqCmHaGmN}DoKOs@?UL_@rE_EjG_GLY@a@I]}BuHmH{Xu@kD?qBn@aL`@_Cz@qAhCqAhEcBrD}@bHm@hH@d@LPRLz@?dCm@pO?vBjDhs@Iv@Wh@wC`Da@T{A?Yh@GrKm@ja@?`HKjAMLOAKQKiBv@yi@B_JVkCC[mVex@{CuK]y@i@a@MDQh@s@`N@pA~@`EpHjYtB`HB\\St@aNdMGb@xCvInKvWdB~DhBjDdCpH\\fBPhBLlCFdHt@xG`AzL^hK~@hHx@pDf@lAvFjHrCxF\\N^MXc@dAoEr@mG?}AJ}@^e@lAi@JYIeEF]NSvSyDvFw@XYC{BDWX[`@AZVV~AZRpIiBbHaMhGoLzDeItBuD\\iAPmBAkN`@mK\\aFhB{RFkDUcEa@_DeDe\\m@wDs@uBy@cAiE_C}BqB{AiCqBcGgA_CkKyIsAo@sAUkKFMKCs@fBuZGYeCm@G[t@iNJe@jAAJa@f@wIXw@hAgA\\o@X{AK}A]i@kFqCGW@[d@yDIU_Eo@kBLQk@@[\\aA?[Ua@i@MaCLuEbC}Ah@oCDwEt@wA?eAg@eB}CeAeCc@{BQ}BKgEOm[BqKZaJX{Cj@sDpDiOjAcGd@aEp@aK\\iDTy@z@_ANe@HeAXwNNwDPgBnAsHbAkPdAmGLuAGyAa@mDIkDYiAcA_Ck@}C@uARuB?g@O[iCi@MVm@hLRr@z@dAVl@XjAFtAKrAWlAk@p@s@TwAQcCmAKm@NgA?WKSmHqDQLs@lES\\M@eW_PsLeBa@H[Z_A|BG`Ar@rERnDCjE]lDIfDHh@|@hCRhARrBBzBqCtb@_BhKcBlOs@|IWpE]zZF~Bh@fGHdBElQHnK",
+"average_heartrate": 119.2,
+"average_speed": 9.22,
+"elevation_gain": 229.0,
+"source": "strava",
+"streak": 9
 }
 ]
