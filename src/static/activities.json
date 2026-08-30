@@ -95184,6 +95184,38 @@
 "streak": 4
 },
 {
+"run_id": 19958480790,
+"name": "Morning Run 0 km at 28\u00b0C \u2600\ufe0f",
+"distance": 3.9,
+"moving_time": "0:00:09",
+"type": "Run",
+"start_date": "2026-08-26 00:09:36+00:00",
+"start_date_local": "2026-08-26 08:09:36",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 98.0,
+"average_speed": 0.433,
+"elevation_gain": 0.0,
+"source": "strava",
+"streak": 5
+},
+{
+"run_id": 19958480823,
+"name": "Morning Run 4.6 km at 28\u00b0C \u2600\ufe0f",
+"distance": 4611.5,
+"moving_time": "0:38:38",
+"type": "Run",
+"start_date": "2026-08-26 00:13:18+00:00",
+"start_date_local": "2026-08-26 08:13:18",
+"location_country": "\u6587\u534e\u5b66\u9662, \u6587\u56ed\u8def, \u7965\u548c\u96c5\u5c45\u793e\u533a, \u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a, \u6d2a\u5c71\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430200, \u4e2d\u56fd",
+"summary_polyline": "qhcyDacnyTjBjBd@j@~AxAdBfBv@l@DLIRmAl@uBpA_Ad@g@NWJGAEGSi@Oi@Ug@I]@MBEXMpAw@d@Q|@i@F@BBLXTv@PfALZCDOHmB|@UNq@\\K?IIISu@uBCODOJKjAy@XK\\Gh@WTGD@LRZ`ALp@LRBHEJOLo@Z[JkAr@c@NKOq@}AOc@CUNQd@WpBkAj@QJL^hA`@bA@LKNyBlAkAd@KKgAoC?QPOhAk@XSnAk@LCD@FHPt@\\z@Ln@ELmAr@q@V{@d@I@GGMS]gAYk@EUBKFGjAq@rB_AJAJHd@bAPt@RTJ?HC|@a@LCJSCIIMy@o@cBkBu@m@cEgE",
+"average_heartrate": 167.5,
+"average_speed": 1.989,
+"elevation_gain": 21.0,
+"source": "strava",
+"streak": 5
+},
+{
 "run_id": 19901534066,
 "name": "Morning Run 4.6 km at 31\u00b0C \u2600\ufe0f",
 "distance": 4588.7,
