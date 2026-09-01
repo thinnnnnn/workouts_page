@@ -95342,5 +95342,37 @@
 "elevation_gain": 33.0,
 "source": "strava",
 "streak": 10
+},
+{
+"run_id": 19982980624,
+"name": "Morning Run 8 km at 23\u00b0C \ud83c\udf27\ufe0f",
+"distance": 8006.1,
+"moving_time": "0:46:21",
+"type": "Run",
+"start_date": "2026-08-31 23:02:40+00:00",
+"start_date_local": "2026-09-01 07:02:40",
+"location_country": "\u6587\u534e\u5b66\u9662, \u9ad8\u65b0\u5927\u9053, \u7965\u548c\u96c5\u5c45\u793e\u533a, \u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a, \u6d2a\u5c71\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430200, \u4e2d\u56fd",
+"summary_polyline": "ofcyDs`nyTzBbC~@v@dAhAfA~@FHCHEFc@NOJ[PQPQ^Bp@A`@DdBIx@Cf@@jBMfBBvAALDl@A`@BbAYxDAnABbCEl@EPA`@VhDQjCGZOF{@Se@Su@c@i@m@_@YMS?SLo@?Sg@gDCq@]eAQy@OiBDe@p@wC@KEKOGwAKKDSd@QRSHQB[Eo@UWCo@Xi@X{@ZOJGHHZXl@h@f@Nf@Zt@Ph@LVVv@PXVl@VZ^`@RJt@b@XJNLt@d@`@\\DBJ?JQDU@YCc@a@cDMg@CUQe@Mi@QsBHm@d@aB@WHc@EIm@IQ?YGS@EBKXOVWNYFg@Ia@UWC_@L{@d@iA`@IHADFR^v@RRLHJJNj@`@`ABPn@zAj@`An@r@`@ZtBhAr@l@HBDAHIFY?iAGYA_@OoAQg@Gg@Qe@UeAGc@Eq@FWNUDOHs@XsAAKKEk@E_@IY?IFEPINONSLUDa@E_@OUGIAKB[LsBbAQNAFb@bAh@d@Z`Al@xAj@`BVb@j@r@`@\\b@Pd@V^Vr@l@F@CI[c@QIGIi@Sk@]YKBHhAj@~@p@PNHD@Cc@i@QSQMsAk@KCAB@BXR^P`Al@b@^FBCGQQa@UOOe@Qs@g@EACBv@^|@j@fDpCn@^`@R`@Pv@PH@FCHUBq@LcB?]O_BEy@LiAAQ?iERaC?eAHcBA[B]EeADaCAaBJ{AA_@Bc@@w@Cs@BMN]PWNOPGREHGDQCIaAs@a@i@s@m@m@q@KOo@i@KQq@k@{A_BKI",
+"average_heartrate": 137.1,
+"average_speed": 2.879,
+"elevation_gain": 115.0,
+"source": "strava",
+"streak": 11
+},
+{
+"run_id": 19984412804,
+"name": "Commute Morning Ride 5.2 km at 23\u00b0C \ud83c\udf27\ufe0f",
+"distance": 5175.0,
+"moving_time": "0:18:59",
+"type": "Ride",
+"start_date": "2026-09-01 02:31:50+00:00",
+"start_date_local": "2026-09-01 10:31:50",
+"location_country": "10\u53f7\u65b0\u4e16\u754c\u6052\u5927\u534e\u5e9c14\u680b, \u5149\u8c37\u4e00\u8def, \u957f\u5c71\u793e\u533a, \u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a, \u6d2a\u5c71\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430200, \u4e2d\u56fd",
+"summary_polyline": "}pcyDujnyTLJF?j@d@NHpAlA~ArAr@r@|@dAvGvGr@z@lAfAdChAnBh@b@RXJf@b@CDHCTFJDHLf@Jv@Z^HnBr@zBr@l@FvBn@bANbAJXLNRFXBX?ZKx@a@vC[rCe@zB?h@L\\PJHBzBTT?lAPr@DLDNRF`@UvBYtBCd@ETA^UhBG`AB\\DZZ`@LLTJZJvD^vBV`C`@jBLv@@lJ|@vGv@vBNFBPLHJFR?Z_ApFCj@Kx@A~ABl@Gn@?P?NFb@@Va@fHBLNTd@Lp@^t@N",
+"average_heartrate": 98.8,
+"average_speed": 4.543,
+"elevation_gain": 19.0,
+"source": "strava",
+"streak": 11
 }
 ]
