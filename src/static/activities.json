@@ -95678,5 +95678,37 @@
 "elevation_gain": 24.0,
 "source": "strava",
 "streak": 5
+},
+{
+"run_id": 20099323147,
+"name": "Commute \u5348\u540e\u9a91\u884c 4.6 km at 25\u00b0C \u2601\ufe0f",
+"distance": 4561.5,
+"moving_time": "0:17:39",
+"type": "Ride",
+"start_date": "2026-09-09 08:09:41+00:00",
+"start_date_local": "2026-09-09 16:09:41",
+"location_country": "\u957f\u57ce\u793e\u533a, \u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a, \u6d2a\u5c71\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430200, \u4e2d\u56fd",
+"summary_polyline": "yk_yDskjyTEWGMMKMEc@@eAE]@i@S[Ac@@c@Ii@AU@sBMSE_AAaC[e@_@y@MaAFM?k@DWAYFSAo@DS?sBUuA]oAQgBKk@Ai@Go@E_@Ik@GkEUaCScCGwAIi@MMIg@Ew@@GAGGg@KcANk@CuAQg@KMQMG{B[aAYo@]YGg@Ec@SuCu@MKUC{@e@qAa@a@Gq@UuBiAu@]k@OUGOIIAI@WGk@_@{Am@k@]u@[y@g@o@Y{@g@iA{@o@a@qBo@g@KyBSsAG_@?q@CIGCGAs@H_A@y@HaA@_ADc@AmDFiAAo@a@sBi@sAm@iASa@BUDCt@YTWJW~@gA?GMk@Ko@Om@_@aA]aBKWW]_@sAYe@?IJQp@q@HO?IAADMEIEA?EEGKGCSIUAQWeA?GJq@Ri@",
+"average_heartrate": 98.8,
+"average_speed": 4.307,
+"elevation_gain": 41.0,
+"source": "strava",
+"streak": 5
+},
+{
+"run_id": 20099812015,
+"name": "Zwift - Sand And Sequoias in Watopia",
+"distance": 23762.5,
+"moving_time": "0:40:37",
+"type": "VirtualRide",
+"start_date": "2026-09-09 08:47:23+00:00",
+"start_date_local": "2026-09-09 16:47:23",
+"location_country": "Puma, Vanikoro, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "~m`fAoqcz^bAmAT_AcAyBEyAlC{BZoA@uAg@aCiAsCcBiBuCsBO{AdAiEv@i@pC}@~@uALwAQkBc@}@oCiCOq@|BaCUiBJu@lI}Sd@eEMyAk@y@gFcBcA{@w@{AOkBdGcNrAiExCq@rBr@fA?x@i@~A{C`DKlB_Ah@cBCiB_DcF\\eAxA{@~@?h@ZhFnI~@t@z@A|@w@xAwEzANrAjADpElC|AVfASr@iCdAa@bAAdKkA~NGxCp@pAnCvCVxAZVhGf@vLyCv@Lf@f@p@bF^xKOdCmBhBQt@LtFv@~C|Ax@tCEnAj@tDh@bBrAd@xCrAx@`A{@|CiJj@i@x@AxBvANtBX\\~C@xAf@nAfCZfCE`Ba@`AwL`Ha@t@]lCeBj@uAbBGhAh@bBd@p@lAj@DnAQj@{DxCc@E[w@e@]eB?In@j@t@Sr@?rA}@b@wCIm@Pc@v@IjAeB~@[vAm@j@q@GUy@fAeB_@uBrAmA[cA{BoAeBTw@t@PdCk@h@q@a@mAaD@q@bAeCM}B]cAHuBtBZvAGrA_BCy@y@iBq@g@aBXgBhA}AHIw@`@qE_@q@eDEqCzCyCt@wBHaEcAyBtCeCVcBfA_APYh@N^`CRnDrAp@IjBkAlCd@Ll@_An@wADwCbAuEc@a@RGd@XZpCPlApA|AUhC`@vBe@|@NtAnAt@|B~@hADr@YhAmAjAq@bCw@~@iBj@oCVw@Uk@mAeBy@{A{Ds@@g@h@o@IiAeDg@Yg@XCbA]VqA]gAj@wAu@w@RDt@~BhCC`@[PoBWm@e@q@_APyA_@c@_Di@mD^Wb@Rf@l@DpBc@\\Ve@n@wC~@Il@vBf@|@p@JhAc@pB^h@|Bn@RjAcCtBwAX]z@GpAg@XkAeB`@uB]cB}Au@qBb@M~@i@r@Ez@v@~@ClA`A|AyAtAe@lC]VmAmBHk@`AuAEe@cA?{AvAWc@LyAe@i@qBfASx@k@j@_BYeA\\g@C_B{@IkAfAeEF_DqAiCiD{@_AwAiBkH@w@p@aD?iAsBqEHm@r@g@tCBRq@JiDb@k@t@MjBZ|BfA`@j@DnBvBp@@d@aAvBFf@h@h@`BNhFc@pBgB^wAcAuBCoAnCcCXiA@oAe@cCmAyCeBmBcDoCL{B`AoC",
+"average_heartrate": 118.8,
+"average_speed": 9.751,
+"elevation_gain": 181.0,
+"source": "strava",
+"streak": 5
 }
 ]
