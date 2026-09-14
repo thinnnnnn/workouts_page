@@ -95966,5 +95966,37 @@
 "elevation_gain": 27.0,
 "source": "strava",
 "streak": 10
+},
+{
+"run_id": 20167486205,
+"name": "Commute Afternoon Ride 4.6 km at 31\u00b0C \u2601\ufe0f",
+"distance": 4570.0,
+"moving_time": "0:17:28",
+"type": "Ride",
+"start_date": "2026-09-14 08:13:37+00:00",
+"start_date_local": "2026-09-14 16:13:37",
+"location_country": "\u957f\u57ce\u793e\u533a, \u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a, \u6d2a\u5c71\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430200, \u4e2d\u56fd",
+"summary_polyline": "_l_yDsljyTKWKIWIW@i@C_A@e@Mg@@i@GiAEa@Iq@GgBEwC]_@UYGu@?m@LoBEk@G}BAy@MWMME}AU{CIc@G_CMs@KG@cAIs@?oDSw@AuCKwACo@Eo@?c@Hm@WWGe@Gm@S{@KWUSGeDs@i@U[Io@Iq@]o@YsAe@mAU}@Wy@]w@U{@a@eAu@}@]_ASWSMGOCIM_@UO?{@MaBu@{BiAIIoAs@a@_@w@i@wAm@mA[k@IkAGmCEYGOOCc@Do@By@AIDeAHm@@[B}@A_ADs@CgCMcAe@gBg@iAo@kAEQ@QHMLM^Sf@o@h@c@DQJCBEBQO[UcAUa@[kAUc@o@_CYg@_@k@?ELUNOp@a@@I\\I?ECDCA?CBOACGA?@EGWOGg@Uw@E[@c@Z{@",
+"average_heartrate": 102.3,
+"average_speed": 4.361,
+"elevation_gain": 40.0,
+"source": "strava",
+"streak": 10
+},
+{
+"run_id": 20168046005,
+"name": "Zwift - London Loop in London",
+"distance": 15162.0,
+"moving_time": "0:34:07",
+"type": "VirtualRide",
+"start_date": "2026-09-14 09:02:08+00:00",
+"start_date_local": "2026-09-14 17:02:08",
+"location_country": "Gloucester Court, Leadenhall Market, Monument, \u502b\u6566\u5e02;\u4f26\u6566\u5e02, \u5927\u502b\u6566;\u5927\u4f26\u6566, \u82f1\u683c\u5170;\u82f1\u683c\u862d, EC3R 5BJ, \u82f1\u56fd;\u82f1\u570b",
+"summary_polyline": "kwkyHnrQI|DGxLKbF?bAFfBl@~GDpB@nBGtLHpIExJCfQBzCTrFf@fHR~Af@vCn@nDz@fEh@hBl@bBnAlCvAhCNRv@p@xBzAh@ZrAl@f@XPNNTJXB^A^YjBoBdR_@jCANHZLVPNRFTEp@Sr@_@fBw@pCcAtCs@vB]`CQlAC|G@nADxGLv@K|Bs@v@Of@ErCElGy@`C_@bBGLKHUDYbBmZAWKIyBa@GKCS@w@p@iLDc@PSRATDR@LW^{HJs@FUVa@t@m@HMd@_AJa@De@Aw@Ea@MYWYuBkAyAq@WQEOAQh@eECSKKMCoDi@Q@eAROEMQEYBY\\aA@YGSYYYE{AB_@Ds@XeDhBuAh@m@Hw@Ce@@QCIEKSSuCA{@LcAXsAj@oBfAiDCCLUd@gAd@w@d@cAN]ACXi@r@aBAENUZu@n@cBACfAsB\\i@^a@\\Yl@_@jB}@HGHMD]?MCI[SOEOA[D]J{B`Aw@h@uAlAkEfFm@z@KHO?KMEU?WLc@v@cA`AaBzD_I`@k@v@s@zCgDx@q@z@g@AERGnBaAl@a@jCuBlBuA~FkFRIL@JLJPBV?h@GlBAzABdAHzBDXd@nBLXFHFDTB`@CVKn@e@ZIh@@j@N^DPANGHSPo@t@sBF{@ByAC{AE{@Iy@cBsHGk@GsBCyFDiIE{E?eAb@qJ\\yDPeDBgA@{BEuDM{FIiBMiBi@uEOs@So@[c@c@Qc@?c@FiB`@c@Da@A_@WSm@Ew@E_FEs@Mq@i@sAq@eAY[[W_@M]C_@LY\\k@hAwBvFWd@Y\\_@J_@K[[Ue@Qi@Mo@Es@BqGHmF@}BI}BU}BM}@a@sBi@kBYo@]k@]c@_@[a@Uc@Ma@B_@R]\\q@jAg@tAKp@CjBEt@Ir@Mp@Uh@[`@_@@[]m@qAk@mCGs@?s@VmCIk@WSkB_@WDId@Ch@e@vIBb@L\\dArAVv@Rz@D^?bAC^M~@Uv@MTQNSJg@LS@SCe@MgCmAKOCWNyACWKMk@UqFqCKEK@GLKx@e@nCGPMLM@MGw@k@kFkDkLkHa@QiB_@wHeAc@?ODOJa@n@[t@Wx@AT?TVxA",
+"average_heartrate": null,
+"average_speed": 7.407,
+"elevation_gain": 235.0,
+"source": "strava",
+"streak": 10
 }
 ]
