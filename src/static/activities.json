@@ -96065,7 +96065,7 @@
 },
 {
 "run_id": 20193159835,
-"name": "Morning Run",
+"name": "Morning Run 6.2 km at 25\u00b0C \u2600\ufe0f",
 "distance": 6165.8,
 "moving_time": "0:34:03",
 "type": "Run",
@@ -96081,7 +96081,7 @@
 },
 {
 "run_id": 20194283568,
-"name": "Commute Morning Ride",
+"name": "Commute Morning Ride 5.3 km at 25\u00b0C \u2601\ufe0f",
 "distance": 5346.4,
 "moving_time": "0:25:14",
 "type": "Ride",
@@ -96092,6 +96092,38 @@
 "average_heartrate": 83.5,
 "average_speed": 3.531,
 "elevation_gain": 26.0,
+"source": "strava",
+"streak": 12
+},
+{
+"run_id": 20196451167,
+"name": "Commute Afternoon Ride 4.5 km at 29\u00b0C \u2601\ufe0f",
+"distance": 4538.9,
+"moving_time": "0:19:25",
+"type": "Ride",
+"start_date": "2026-09-16 08:06:43+00:00",
+"start_date_local": "2026-09-16 16:06:43",
+"location_country": "\u957f\u57ce\u793e\u533a, \u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a, \u6d2a\u5c71\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430200, \u4e2d\u56fd",
+"summary_polyline": "kl_yD}ljyT_@K_BKg@?gBM}@CsAMe@Cw@Bm@Ew@K{@Ek@M}@Ge@Gs@E_@Bg@Ca@BOAiAW}@?aAI]Q}@S_EWk@MsBIc@GmCMM?iDQa@?mAOm@CgCSKLS@SIo@A[KUEgBKsAOQIEKKGgCc@{@Se@Q_@S_@CkBi@[M_@Ii@Yi@Q[UMCUAu@Wc@IuAo@_@Yq@]aA]eASOGMKOA]U{@[OKuAm@kFoCcAy@m@WuAa@oB]sBMoAC_@CMMAOFgB?{ANmAB}@Em@@e@Dg@Bq@?m@Cc@QcBa@_BWo@k@u@KSES?M@EZ_@hAgAp@g@HU?ICQMg@M[Om@U_@Qq@s@}A_@gA?GQa@MSMGAEDQLQ@Kn@k@A@PIHWAG@GSMCa@Og@MWIW?a@Pu@FK",
+"average_heartrate": 98.1,
+"average_speed": 3.896,
+"elevation_gain": 42.0,
+"source": "strava",
+"streak": 12
+},
+{
+"run_id": 20196828569,
+"name": "Zwift - Richmond Rollercoaster in Richmond",
+"distance": 17800.3,
+"moving_time": "0:35:15",
+"type": "VirtualRide",
+"start_date": "2026-09-16 08:41:38+00:00",
+"start_date_local": "2026-09-16 16:41:38",
+"location_country": "North 9th Street, City Center, \u91cc\u58eb\u6ee1;\u91cc\u5947\u8499, \u5f17\u5409\u5c3c\u4e9a\u5dde / \u7dad\u5409\u5c3c\u4e9e\u5dde / \u7dad\u73cd\u5c3c\u4e9e\u5dde, 23298, \u7f8e\u56fd;\u7f8e\u570b",
+"summary_polyline": "kaadFltpwMT_@`BmDj@oAJ[C]OUcByAUUEM@ShA}BdH{M`@sAJKLALHXTlAvAHLFP@PEPKHODM@OEa@g@MKQGODMPUl@QLSFQLEZJXV@p@MXBVL?\\UTK^NX\\?jGaA|@U`@AbDL`@?|@OtAm@r@g@vDiEd@g@TMxGsCrAYR?HRGVOPQLy@^{@XuBp@aB`@SH_B|A_ChC}@l@oNjK[Xs@~@cCpDqHbMu@vA]zAiC`FwB|DqEpHcAdCe@~@O`@Ot@Cf@@f@JnACf@CPOb@gA~BMHMAMIyEcFo@m@KGK?K@QRmCrE}C`GiAjByBdEiBpDiEfIwF`L}C~FeCjF{@vB[f@MFMB[GYOqAaA{A{AsAkA}CcDOIOAOFMJoD~G}Pj]u@zAET?TFTJN~AjA|DlCx@p@NFdAFdA?b@@HRG~F?lNCjOEvEUhAkFtSIb@Et@I`@GNMFM?MC[Ke@UuBmAeCmAsK{Eg@[sAwAk@a@OG_@EQ@OFWXU\\yCfGM^CP?v@Kb@UVi@LMFUZqEpI{Ol[aArBKHOAGOBSHOpEqIpI{PdGqLNa@BqADQHOLKl@SXW~CkGPc@V{@JOp@WLMJQ`FqJnBgExEaJnLqUb@_ANOf@NTB|@DpA?PDDVGjH?pLCjOEnE?TIf@yFzTQ~AERGNMFO?k@QyCaBcD_B",
+"average_heartrate": 107.7,
+"average_speed": 8.416,
+"elevation_gain": 170.0,
 "source": "strava",
 "streak": 12
 }
