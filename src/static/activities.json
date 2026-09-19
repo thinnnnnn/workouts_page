@@ -96142,5 +96142,21 @@
 "elevation_gain": 79.0,
 "source": "strava",
 "streak": 13
+},
+{
+"run_id": 20235092530,
+"name": "Zwift - Intervals icu: Endurance + Fatigue Resistance \u00b7 4h",
+"distance": 162730.0,
+"moving_time": "4:12:40",
+"type": "VirtualRide",
+"start_date": "2026-09-19 00:55:54+00:00",
+"start_date_local": "2026-09-19 08:55:54",
+"location_country": "Puma, Vanikoro, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "`n`fAqqcz^vDkS{JcQfC}XhNgc@kLgOzImT~VqGOiPbL~K|JwDiBtq@zFzIzW{@Nbi@~TfLrHuMhXzGiXcHgHtMaUaLUii@yW|@yF}IdByq@}J|D}KgLCvPgWtGmItSfLdOiN|c@iCbY~JnScD|OcLdAnQeR_KeShCmYhNcd@iLqNtIaTdWwGCkPzKdLpJcEeBtq@bGfJnWeANdi@pUlL~GsMnX`HsXiHiHpM}TiLG{h@kXt@kFsIfB{q@{JzDmLeLHnPgWxGoIrSfLdOiN|c@iCbY~JnSoDjPwKx@nQcR_KeShCkYhNad@eLeOlIqSdWuGCoPxKbLbPtCqGxf@`GjJpWgANdi@lUnL~GsMrX`HqXiHgHpM_UgLI{h@kXr@iFqIfB{q@yJxDmLgLFnPgWvGqItSfLbOiN~c@iCtY~JxRkDnPeLr@xQuQ_KgSlC}YdNoc@gLeOlIqSdWwGCqPvKbL`KuDiBrq@vFzI~W{@Nbi@`UfLrHuMbXjHgXsHgHtMaUcLUki@}W`AuFaJdByq@_K~D{KeLEzPyVhGsIpS`LbOeN~c@kCvY`KxRiDpPeLx@rQqQ{J{ShCkYfNcd@iLqNjIsSfWuGEsPxK~K`KwDgBtq@vF|I~W{@Nbi@`UfLrHuMbXlHeXuHgHtMaUaLMyh@cXl@yF_JdByq@_K|D{KeLEzPyVhGyIbThLbOeNjc@mCxYbKjSuDhPwKr@pQeR_KgShCiYhNed@iLqNvI_TbWyGQgPjLdLpJcEgBtq@rF`J`X_ANdi@pUjL~GuMnX`HwXgHeHpM}TiLIyh@kXr@kFsIdB{q@yJxD_LgLCtPgWvGoIrSfLdOiN|c@iCdY`KlSoDjPwKz@lQaR_KiSlC}YdNqc@kLsNtIaTdWyGAmP|KhLtJ{DgBvq@pFvI~W}@Nbi@jUjL|GsMpXjHkXsHmHpM{TiLSii@_XdAoF}IhBoq@yJvDqLeLHrPgWtGkIlSdLzNiNjd@iChY`KdSqDrPaLn@zQoRaKoRjCwYfN{c@gL}NtIySzVmG?sPpK`L`K{DgBpq@|FfJvWcALbi@tUlLvGsM|XhFiYoFqGpMmUoLI_i@{W`AuFwI`Bcr@_K~D}KcLFjPeWxGuIzSfL|NeNtc@mC|Y~JdSgDbPaL~@pQkR_KeShCcYfNqd@iLiNpI{ShW{G@mPxKfLvOhCmGfg@|FfJ|Wy@N`i@xTbLrHsMjXfHcXoHmHtMaUcLQei@cXx@sF{IhBsq@cKtDaLcL@tP}VnGuIxSdLzNeN~c@mCxY`KbSsPpRxPaR}JcSjC_ZbNma@mI}V",
+"average_heartrate": 130.6,
+"average_speed": 10.734,
+"elevation_gain": 249.0,
+"source": "strava",
+"streak": 1
 }
 ]
