@@ -96158,5 +96158,21 @@
 "elevation_gain": 249.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 20248527641,
+"name": "Commute Morning Ride 4.8 km at 26\u00b0C \ud83c\udf24\ufe0f",
+"distance": 4833.4,
+"moving_time": "0:20:32",
+"type": "Ride",
+"start_date": "2026-09-20 02:23:23+00:00",
+"start_date_local": "2026-09-20 10:23:23",
+"location_country": "\u5149\u8c37\u4e00\u8def, \u957f\u5c71\u793e\u533a, \u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a, \u6d2a\u5c71\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430200, \u4e2d\u56fd",
+"summary_polyline": "{ucyDionyTBJDFJ@p@`@LPDJx@r@PTHHJBTNlAlAf@^lAbAd@f@t@p@rBxBhB~A`BdBjAbAnAx@lBbAxAb@d@VXHFLB@?@\\NRNJBLNLFf@HvAl@XF^ThCx@f@Jd@B`Af@jAb@tAXx@HJHHTDXW~D]dCI`@Cf@Il@UbAAZ@FP\\DDLF|@N~BNhABTJRV@TGrAQ|@U~CQrAOhBCv@BNJTVVb@Vz@NnCTf@Hz@Db@FbCd@t@FfADpBRtBJbANzAHhBRjARnCX`ADJ@PJLNFTAPBBCRyA`EDDNf@EbBAjCANELEl@Fb@?v@Cl@IbAInC@PBDLB?DBB@AVXVNr@FTFl@BhBZrALf@Az@DvBB`BFNBX?L@",
+"average_heartrate": 87.1,
+"average_speed": 3.923,
+"elevation_gain": 25.0,
+"source": "strava",
+"streak": 2
 }
 ]
