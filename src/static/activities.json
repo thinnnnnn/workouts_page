@@ -96366,5 +96366,21 @@
 "elevation_gain": 14.0,
 "source": "strava",
 "streak": 7
+},
+{
+"run_id": 20335948133,
+"name": "Zwift - Intervals icu: Endurance \u00b7 1.5h Z2",
+"distance": 44851.6,
+"moving_time": "1:20:20",
+"type": "VirtualRide",
+"start_date": "2026-09-26 10:37:07+00:00",
+"start_date_local": "2026-09-26 18:37:07",
+"location_country": "Piste du camp des Sapins, Nakar\u00e9, Thio, Province Sud, \u65b0\u5580\u91cc\u591a\u5c3c\u4e9a, 98829, \u6cd5\u56fd;\u6cd5\u570b",
+"summary_polyline": "naqcCklbu^kLrQsGfN}StO{GzC}KqB{CB?wCeEiFwELqEqA{Ib@gQrCoEo@_ElB}Dd@e@Q_AwBuAYyG[cDhA_KVqFs@gBoB}AmEu@y@mA_IqDuDS}AqAoBUeBoAwCuJuJqF{HuKa^EmDdA}F~@sMIaIVsDjBiCbAyDlC_GzCuRE_Dp@]Xy@UmAq@_@y@Bs@x@LbBpAh@HjCcDjSaCfFaAvDyA~A]lAUtCHhI_AvMeAlGHbDbKb]~EpH`LlL~ApFlAfBT~ApDxDdAnHxD~HpB|ArD\\jKSjDkAtH\\|@TdAzB^LrD]vEuBjEn@zQuClIa@zDpA~EIzD|EBzCzDFlJlBxA[|FyCbSgO~FeM`M{RH{@sHwIkAsC_BmAcE]_FlAeD{A]aCdBgFJ{Cw@eBoBcAgD_IqQKo@[@{BbBoBh@}BVqGzFqGQaDeTW[q@P{BQy@gE_E{Ia@eImAwCu@sD{C}OqCm@aADwDwFyDg@{AJcB~@iA|EiBPmFnCo@b@kB`EsAxAkB`DaAdIJrAcABcBcCgAYk@dCkCWy@wBuAv@mEm@w@}DqBG}@bJ{Nr@BhDpCbA?l@s@l@{Cj@GjChA~@S^}@HuE`@i@hAG|DnAvAs@JmBeCiINk@jBoAp@{EtAwAA_AcAsCnEsM~BAlF}AvCuAn@oBr@Wz@hAo@rAAz@n@nB|@p@bJoArBgChBo@n@\\~AhEx@r@NlCzA~BzDa@lAHhFnE`Bf@zCg@nDgCrAgCFiCk@gCyCqEnG{BVk@k@]yNiBc@q@^m@~KkG\\q@sOuEd@[zK_AE_AmHqDVQtDLAe@iA{ApA{A~B@bThGxFfFnGbMbKjKzAThE{@t@HZrAz@fTrEfZB|BkApEF~ArLrd@bIfYOx@sErFSv@VjAjGvKr@zCPdD?vF]vB_BjEuCxCGnNb@fAfGtFpC~DbDnBbBrHtJ~MpDrCKhCkDdANvBsCzDOnAJdBf@h@jA@rDiAt@Rv@rANvBwB`Bl@bEqAjCu@NuAm@_BCkAxAkADyAlAu@H{A_CuCa@wCwAAmAfByAAyBi@e@cCQWuBkA}@aGkBkO_CuCl@mJEyGwDaD{@wAPwBbB_CEcC}@_A?gHrEkNdEuCh@_BOaE^mC`AaB?oEuDqDsE}@cC_BmAaE]_FlAgD{A]aCdBgFFmDq@sAoBaAiDaIwRWMwBxBcDn@sEB}CzFqGS_DeTW[s@PyBQ{@wDuDyNeA}H}AcAo@",
+"average_heartrate": 127.9,
+"average_speed": 9.305,
+"elevation_gain": 445.0,
+"source": "strava",
+"streak": 8
 }
 ]
