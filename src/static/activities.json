@@ -96382,5 +96382,21 @@
 "elevation_gain": 445.0,
 "source": "strava",
 "streak": 8
+},
+{
+"run_id": 20345741864,
+"name": "Zwift - Three Step Sisters in Watopia",
+"distance": 51150.9,
+"moving_time": "1:31:26",
+"type": "VirtualRide",
+"start_date": "2026-09-27 04:46:28+00:00",
+"start_date_local": "2026-09-27 12:46:28",
+"location_country": "Puma, Vanikoro, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "jb`fAie~y^tEpBrEzKa@`@mD{BaCdBxG|UwFnL~CvGxAW|DwCnAl@^vJeBd@SfBjAtBfDfB|FkBf@|@kDn@Ex@lLGlFvGvH_@rOxB|KaAxNnFb@pDGnGnRGpHlDLzDkFtTqQtPcD`@_EsBsCeFaDwL_LnCaJkHsBsCyA_KiGkJ_BcF`AoHeDsH`CqHrBiBrGcN^{Fi@iNtAgKbH{H~Bm@nDj@Tq@iAaAjD{@cCcAaAiCxCuCgC{Eg@wD{Cs@iJFPq@`LcAnAw@iOb@z@gBlMqCcHcOIuCnBaB`Bn@~FhOxMSp_@pGjAzGv@U\\}D|BuCh@hAs@pGt@lBb[jGnCiF`DmBv@qChDiBnCoGr@yOtG{DJqBkBkAo@gDpF}E]oFxA}Dc@{BjBZdDmBy@}DfBoDlC}@tAiMiDkFkJgGqJuBkIGoLzAmNjDc@tAhAlB@hCpB~BObBaAF}CmCmG|D{F`AOwK_FyFkBaHh@yIfEsAfBmBqCy@xBcAb@}BmAwEyBaBSuC~DwCz@yD|LkHXsFbFwBRyGrEqEtEDzFpClFa@xFdFdEiHhFk@hDwCjCJnEiAzHhDtDAjBiC~@uJtBgChEiAxGlClC_IvCyDbDoBvIYpB}ChFfAxBuE|@R@bBhCnAlD]jEuCfFjAvCuDbC\\lDcBnA^F|CnAPtFoF`BUpDlFfHlC@x@kDtD`ApH`Jv@h@dDxDNvAxBtDgBnEbA~@rEpEtAfJzVvA]TiAsAsCDgBuBsBrC_C~C?^tAkBbKfMvOz@dK~Bt@lHIbHtBxH}@fKdJv@bEe@xFpAhA^nCsBlB}C\\LnOxD|@^fK~G?ViEh@ObHnGFfBmJpCgBaA}BbA_nAByKG{FcDoA`As@lFmAf@aAu@QkFiAg@yAt@QnFaBLk@uGaAm@iAt@WvFgAJo@aHeAm@y@b@H`Fq@f@cCcBqK[sFkK@qFkC{DiEqAo@yD{QgL{HxCsBpEw@|F}G`CyDeA]mFiAw@qR^c@rBfArOQbH`A`FyB`FaCa@y@uAeByOiCp@BnF}@jBaFzA{@oBEgI_CqAaF{H{JuGuL_CiNh@sOpEoC?{@fBhAjB@hCrB~BSbBcAB_DkCoFpDqGpAS}K{EsFmBmHl@yI~DkAhBgBoC}@xBeAb@_CqAwEsC{EjEsDt@sDvLcHd@_GzEqBRmGfCcDvDoAnJhDfFc@fGbF|DkHhFi@dDuC`CLpEmA~HhD|D?dBaCbA_KrBeCtEgAjGlCjC{HrCyDpDwBhIStBaD`FlAhBsE",
+"average_heartrate": 128.0,
+"average_speed": 9.324,
+"elevation_gain": 634.0,
+"source": "strava",
+"streak": 9
 }
 ]
