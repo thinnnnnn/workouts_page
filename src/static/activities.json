@@ -96526,5 +96526,21 @@
 "elevation_gain": 46.0,
 "source": "strava",
 "streak": 14
+},
+{
+"run_id": 20428535587,
+"name": "Zwift - The Mega Pretzel in Watopia",
+"distance": 107241.0,
+"moving_time": "3:22:46",
+"type": "VirtualRide",
+"start_date": "2026-10-03 04:03:22+00:00",
+"start_date_local": "2026-10-03 12:03:22",
+"location_country": "Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "pcbfAuw}y^`ReJgEgExC_DkDeKiOs@bOwCoOCpOcFoHaPz@_ExKbPbm@jFnBjHtEiJd@dMbZdIgCfXtU|U~c@wBzO`Br@`DnHb@uEbDhMhQ~IiDfExFd_@jIlBnIsHvDkPmCg@`LvB|I~GrD|HmB`AgLrK\\pPfDQxEuLjHjFtLmCzFaK_F_JrBgC_EeLkEwQJoNyN_FgL~DwGqDgHdJ_Av@wFsCeQiHoHhEsDsI{DiOeBkRxEwOcAkRiOqDiKdFwVnCKyBpKxBvClIkXpBlAgDtN|FxDfFc^hAv[bElBpC{YhEaCK`KpEsA~J{SbFu[xIiLjNv@nD|LhLjAfDjF~Vw@lCwIwDyGxCgGpHd@vG{ElBsVaEgPu\\aZaJvC_DzL{GpCaE{@kA}G}QM\\pd@cD|EgFgSsL~MgA_MeOqO}^wFwXzF|BvPgFiCoeAr[v@vJqVfEuQsK}LjMm[nGwDpLtAnLvDtC@yKnGxKmBoOxSyJrN^xCbFsE~UcFy@a\\hK_@dJhXqDpYhGxDoJzIe@bFt@fDfJyC~CfErEaBlDiHB}HpI_Cve@_JoIgFfHsIJJ}HlKuDaCsDaUhB_JnK|BfJvJ}BwAdPvF|DbOaCdHgJuD{QgTmA{HdHxFdNdLsEfH`CgBkMgJgBkGjErAhJjHpBdEmE}@kFwIPbCxHvDeFsHAVuBzI`BeFdJsF}BiAyIzFaEfJ`BhB`MmH_CsKlEmFqNlHgG|SlAxDfQ{GdJqLnDpIVnSkZlBue@pHaH`K}DoMeFaDvG}EaFyLfIgFuJwEa@pAzHqCfCsJoE`EtIwE`DeHkMgRcJmCaJ~JuLkDgElCiYl^oJlJsLjGLhKpJjRqCbDsAgA}IreAu[hFjCeCuPt^qG|\\|JzJ`LlAdMnLeNrAnOlExBvB{EuAuc@xRUxGbJ~GiClDmMrJaChW`TbIfUoBfWsGhEiFkB}E`IpDtGaB~HaXzAoC}EgMeB}CmLsN{@cJhL_Ft[eKbT}DrAIgKiEtCqCpYoDoBoA{[qF`^mFmDdDmNsBcBeIbX}BkCtBuK}CVcFpXvXfZdOz@jRyEtOjBxHjDcEtDxGvG`D|Qs@lFgJbAnDrH_ErG|E`L~NdOlQMbEzFrEu@~ErE`H_C`JjFnDuGiFoLvLmHJ_F}PkDiK_@kAnLqHhBaHuDqBiIX_LxPhCtH}DwB{Ia_@iI_EyF}IpDmM_QrEoDkHa@y@iDiPaBwc@tBiUiU~BwXeZiI]}LwEdJaBeH{m@{FaJuPaCpErHzPoO~EpOMmQlC}CbLeZeGqWxDR}I~c@sJjD{W_R}D}T`KbBrOgFcLDjLNsCoJd@bDlF}JvMlK`O",
+"average_heartrate": 131.2,
+"average_speed": 8.815,
+"elevation_gain": 1632.0,
+"source": "strava",
+"streak": 15
 }
 ]
