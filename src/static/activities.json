@@ -96702,5 +96702,21 @@
 "elevation_gain": 40.0,
 "source": "strava",
 "streak": 4
+},
+{
+"run_id": 20514770100,
+"name": "Zwift - Cobbled Crown in Richmond",
+"distance": 24597.2,
+"moving_time": "0:50:16",
+"type": "VirtualRide",
+"start_date": "2026-10-09 11:47:14+00:00",
+"start_date_local": "2026-10-09 19:47:14",
+"location_country": "1112, East Broad Street, Shockoe Slip, \u91cc\u58eb\u6ee1;\u91cc\u5947\u8499, \u5f17\u5409\u5c3c\u4e9a\u5dde / \u7dad\u5409\u5c3c\u4e9e\u5dde / \u7dad\u73cd\u5c3c\u4e9e\u5dde, 23219, \u7f8e\u56fd;\u7f8e\u570b",
+"summary_polyline": "o}`dFn_pwMdGgLRe@V}@HMNCNFXVpAzAHNDP?PINMHOBOAMIc@g@MIQCOLUl@MPi@TKVD\\VHp@MZ@XJB^WTK^NX^?pF{@|A]`@?dDN`@A|@Sx@]t@c@VU`DsDx@y@bH{ClA[RCPH@VKPONc@Vy@ZqBp@cCl@QHQJkAjAkCtCm@`@gO|KY\\e@l@oC~DkHzLw@xASfAITyBfE_CjEwExH_A|Bq@xAGRQ|@AT@l@J~@?TEj@Yx@{@hBKNO@]U}@eA{D}DMIMAMBIH}CjFsClFsA|BoBtDsAnC_FlJqFtKyDpHuBpEu@hBQZKJMHM@[GYQsAaAqAsAcB{AeDkDKOOEOBMLiBfDwHjOsJrR[p@ERCP?TDPRb@x@l@fFfDJLBPAPEPgO~YkAvBoAfCcBpDaFrJQVIFc@LSNMX[dAiDzGQLo@TUTK^A`AI`@mG|LwGzMqG|LENAPDPJHL@LGJKr@{AjPk\\nEmIVWj@MVUNa@BmALc@Xs@bC{EVa@LKNGP?P@^Nf@b@jAlAf@\\fBx@tHdD`ClArC|A`@NPBPCNKHSFWN{AnFaTNm@BWDqF?kGBaF?oMDkHOUUCuAA{@ESEOKo@k@iGgEOKIQEUDSFQr@yAtQo^rCqFLIPALHdDhDnAhAlAlAtAfA^RNDP@PCNKLMTc@x@qBbCgFbUwc@xBcEtA}BxC}F`CcERWZ@j@j@tE~EPNTDRMlAeCPq@Ds@KkAAq@PgAFUl@mAdAkCzE}HhC{ElBuD^aBl@gApF_JbAkBbCoDv@cANMtPaMlCwCdAeA^Q~Aa@zBs@hBs@XSTYBQAQIMKGO?wA\\mAd@uErBm@j@}DnEgAr@{@\\i@L[BmDOo@?yA\\oFz@YBGACCASf@k@@UGKOKc@MU@g@LI?IKAUHI`@ONKLWNe@DEH@TLd@h@RFH?TEPOFK@]COMYaBkB[QMAMFQ\\Ql@OZaJbQGb@L`@XVpAdAV\\Cf@mC~FQZUV[BWOyA{A{GmHaA}@KKMCMBKFU^kAhCwKxSM`@Af@N^bAfAhIxHx@r@HXEXg@fA_B|CgCfEgBjDoCxE",
+"average_heartrate": 109.4,
+"average_speed": 8.156,
+"elevation_gain": 293.0,
+"source": "strava",
+"streak": 4
 }
 ]
