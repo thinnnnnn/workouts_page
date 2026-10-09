@@ -96670,5 +96670,37 @@
 "elevation_gain": 76.0,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 20510487627,
+"name": "Commute Morning Ride 4.9 km at 24\u00b0C \u2600\ufe0f",
+"distance": 4850.5,
+"moving_time": "0:21:12",
+"type": "Ride",
+"start_date": "2026-10-09 02:27:18+00:00",
+"start_date_local": "2026-10-09 10:27:18",
+"location_country": "\u5149\u8c37\u4e00\u8def, \u957f\u5c71\u793e\u533a, \u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a, \u6d2a\u5c71\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430200, \u4e2d\u56fd",
+"summary_polyline": "qucyDmonyTNRVRt@h@^ZNHVPjAtAJF\\b@`CtB`@d@bA~@xC`DtBrBp@d@~@x@pBlAt@^rA`@nAj@DD@V@EEAd@LZNTTJFrA`@bBv@XH\\DdBf@x@Lj@RXLrAb@bAT\\D^@LDJR?ZGl@}@pDCl@Id@Ab@FzASdAANL\\PZVPd@Jz@F~AV`ADPJFJDX@VYrCm@~EQ~B@VF\\f@f@`@Pt@LlHp@p@RhATl@BjA@hAJ`CXl@D`MnAj@Db@@FBTPHT@RM~@OTQhCAXO~@Cb@EzABbAANIZ@jBQhCIzBBXHFb@FLDz@f@r@Lt@R`@Hj@Dn@AhAF`A@jFTXDJH",
+"average_heartrate": 90.8,
+"average_speed": 3.813,
+"elevation_gain": 25.0,
+"source": "strava",
+"streak": 4
+},
+{
+"run_id": 20512303902,
+"name": "Commute Afternoon Ride 4.6 km at 26\u00b0C \u2600\ufe0f",
+"distance": 4592.8,
+"moving_time": "0:19:07",
+"type": "Ride",
+"start_date": "2026-10-09 08:06:22+00:00",
+"start_date_local": "2026-10-09 16:06:22",
+"location_country": "\u957f\u57ce\u793e\u533a, \u5173\u4e1c\u8857\u9053, \u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a, \u6d2a\u5c71\u533a, \u6b66\u6c49\u5e02, \u6e56\u5317\u7701, 430200, \u4e2d\u56fd",
+"summary_polyline": "_l_yDskjyTAYEMMI[EqCMq@Gm@Au@KiAGo@Ie@?YDW?_CYOGMK_@IkAEUDMD[@qBI{@KcASM?SGY?WIk@KoBOoBGYEiAI{AQqAEKCa@UeAOi@AiCS_ASI?@FM?KBsHk@UE_BGiCYwA_@aAOYAOIe@MUEW?kAc@g@Oq@a@o@YwBi@o@USAi@]mA_@{@]a@U{Ag@EICUICUAECCMECc@Oe@?OCuCiAs@_@[Mc@]]SwAeAk@Wq@S{@[s@QcAK{AI}AEICOSCU@k@LqB@}@Ds@DgEFqA?cAI_@[aAYu@[m@u@cAMSCS@I\\]fBsAh@YHK?QKq@GIW_AUUe@gAOi@Ou@i@mAOSAWMa@P_@`@KTQPWDOCELGAFB?CIg@WGKKYCUM[MOIUB]Te@R[",
+"average_heartrate": 95.2,
+"average_speed": 4.004,
+"elevation_gain": 40.0,
+"source": "strava",
+"streak": 4
 }
 ]
