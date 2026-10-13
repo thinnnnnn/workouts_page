@@ -96830,5 +96830,21 @@
 "elevation_gain": 45.0,
 "source": "strava",
 "streak": 8
+},
+{
+"run_id": 20565225226,
+"name": "Zwift - Intervals icu: FTP \u00b7 2\u00d725min @98\u2013100%",
+"distance": 60179.0,
+"moving_time": "1:29:41",
+"type": "VirtualRide",
+"start_date": "2026-10-13 08:39:30+00:00",
+"start_date_local": "2026-10-13 16:39:30",
+"location_country": "Puma, Vanikoro, Temotu, \u6240\u7f57\u95e8\u7fa4\u5c9b",
+"summary_polyline": "bn`fAsqcz^tAcCmAkExCyCRaDoBiG_GeFKqAnAqEbGaEG}D_EyFvBuBGcDtJeZo@kC{HmDaAeErIgTdDu@tDp@xCcEpGoAf@}DcD}FpBqBpB\\lHbKrB{@tAsEnDnAHrEdDjDaE~DsAz_@zF|ItFh@vL{ClBp@nA|TqCvHtAtIjNxBnEhHrHuMtCpAd@xC|EPlChDpFyARmCqBoBkCLeCrCiECcAaDuCsAoHtMuEiHiNwBsA{IpCgHqAaUmBy@uLzC_Gi@sFaJvAu_@~DwDgDsDKwEiDsAcBvEmB~@kHeK{B]sBhC`DdFa@|DuGrAuC~D{Dq@uCn@{I~S~@`FrHfDr@tBg@xEoIhTJtC{B|BzDjFNbEgGdEmAxEtGfIfBbIkDzEhA|EcAhBkFvA{DWOmAbCuEjKkDtA{CgB}HwGwHhA}EfG_EEkE_EsFzB}BKwCnIiTf@yEs@wBsHeD}@cFjIkSbDw@xDp@lC}DzGuAd@}DaD{FtBuBjB\\fHbKxBy@hB{EbDbBBfEfDbDaE|DwA|_@pF`JbGl@vL{C`Bf@zAzRQxC_ChDfAfK|NhChEfHjHuMzCnAb@tC`FXpCfDjFwAPuCkBgBqCNcCnCgECeAaDeDqAkHpMkEiHkNyBkAiK~BkDPyC{A_SuBg@wLvCkFi@uFaJvAs_@`EyDeDgDIyEwD{A_BzEgBx@mHgKoB_@aC~BbD|Fi@|DgGbAwCbEaEo@{Ct@qIrSx@bFpHfDx@pBe@xEoIfTJvC}BrC`EjFDbE}FpDuAlF~GdI~AdImDzEjAdE{AlCkGdAkCi@vBsGzKyDhAiCaB_I}GkIrA}E`GaEOiE{D}EvBaCIuCpIgTh@yE}@iCcHwCgA_FxI_TpCm@xDr@`DgEhGgAh@oE_DiFpByBlBX|HjKbB{@fB_FdD~ABfEfDvD}DhDuAp`@~FtI`Gd@vLyCzAv@pA`UsClHrAtIlNzBjEfHjHqMzChAb@vCtF`@|B~CjFqAVsC}BsBoC\\qBfCeECuAkDuCiAkHrMkEeHmNyBoAgK|BkDRyCyAaSqBm@uLxCkFg@{FwIrAw_@bEkEeD}CIwEwD{AaBzE{Ax@{HmKkB[_C~BbD|Fi@zDcGbAuCbEqEk@qCp@wIbTfA`FrHdDl@xBg@lEoIbTJvC}BjC`EjFJxDgGdEoA~ErG~HjBbIkD`FhAtEmAxBgGpAyCa@zB_H~JcDzAaCaBwI{GqHlAoFbGwDEoE_EkFzBaCCoDdJsV[cFeHuCaByD`IwT`DsArEl@pC_EdGaAp@oEaDsFdC{B`Bd@lH`KrBcAtAoEtB\\fAxGxCrB",
+"average_heartrate": 142.4,
+"average_speed": 11.184,
+"elevation_gain": 91.0,
+"source": "strava",
+"streak": 8
 }
 ]
